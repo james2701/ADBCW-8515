@@ -57,7 +57,6 @@ std::vector<StarCount> countStars(odb::database& db, float latMin, float latMax,
 void createIndex(odb::database& db){
 	transaction t(db.begin());
 	db.execute("CREATE COLUMNSTORE INDEX count_index ON review(id, business_id, stars)");
-	db.execute("CREATE COLUMNSTORE INDEX b_index ON business(id, latitude, longitude)");
 	t.commit();
 	// Your implementation goes here:
 	// don't forget to wrap it in a transaction
@@ -67,7 +66,6 @@ void createIndex(odb::database& db){
 void dropIndex(odb::database& db){
 	transaction t(db.begin());
 	db.execute("DROP INDEX count_index ON review");
-	db.execute("DROP INDEX b_index ON business");
 	t.commit();
 	// Your implementation goes here:
 	// don't forget to wrap it in a transaction
