@@ -58,7 +58,7 @@ void createIndex(odb::database& db){
 	transaction t(db.begin());
 	std::stringstream sql;
 	sql << "CREATE COLUMNSTORE INDEX count_index ON review(id, business.id)" << endl;
-	db.excute(sql.str());
+	db.execute(sql.str());
 	t.commit();
 	// Your implementation goes here:
 	// don't forget to wrap it in a transaction
