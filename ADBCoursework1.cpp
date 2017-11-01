@@ -40,7 +40,7 @@ std::vector<StarCount> countStars(odb::database& db, float latMin, float latMax,
 	sql << "SELECT review.stars AS stars, COUNT (review.stars) AS count" << endl;
 	sql << "FROM business JOIN review ON business.id = review.business_id" << endl;
 	sql << "WHERE " << latMin << " < business.latitude"<< endl;
-	sql << "AND " << latMax << " > business.longitude" << endl;
+	sql << "AND " << latMax << " > business.latitude" << endl;
 	sql << "AND " << longMin << " < business.longitude" << endl;
 	sql << "AND " << longMax << " > business.longitude" << endl;
 	sql << "GROUP BY review.stars" << endl;
