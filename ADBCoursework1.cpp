@@ -57,7 +57,7 @@ std::vector<StarCount> countStars(odb::database& db, float latMin, float latMax,
 void createIndex(odb::database& db){
 	transaction t(db.begin());
 	std::stringstream sql;
-	sql << "CREATE COLUMNSTORE INDEX count_index ON review(id, business.id)" << endl;
+	sql << "CREATE COLUMNSTORE INDEX count_index ON review(id, business_id)" << endl;
 	db.execute(sql.str());
 	t.commit();
 	// Your implementation goes here:
