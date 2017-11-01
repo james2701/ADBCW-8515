@@ -66,6 +66,11 @@ void createIndex(odb::database& db){
 }
 
 void dropIndex(odb::database& db){
+	transaction t(db.begin());
+	std::stringstream sql;
+	sql << "DROP INDEX count_index ON review(id, business_id);" << endl;
+	db.execute(sql.str());
+	t.commit();
 	// Your implementation goes here:
 	// don't forget to wrap it in a transaction
 	// drop the columnstore index you've created
