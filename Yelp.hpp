@@ -24,6 +24,7 @@ public:
 // ---------------------------------------------
 
 class review;
+class hours;
 
 
 #pragma db object
