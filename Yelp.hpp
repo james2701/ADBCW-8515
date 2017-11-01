@@ -3,6 +3,7 @@
 #include <odb/lazy-ptr.hxx>
 #include <set>
 #include <string>
+#include <vector>
 
 #pragma db view
 class StarCount{
@@ -22,4 +23,47 @@ public:
 // No need to change anything above this line
 // ---------------------------------------------
 
+class review;
 
+
+#pragma db object
+class user{
+public:
+	#pragma db id 
+	std::string id;
+	std::string name;
+	#pragma db value_not_null inverse(user_id)
+	std::vector<weak_ptr<review> > review_
+}
+
+#pragma db object
+class business{
+public:
+	#pragma db id
+	std::string id;
+	std::string name;
+	#pragma db value_not_null inverse(business_id)
+	std::vector<weak_ptr<review> > review_
+	#pragma db value_not_null inverse(business_id)
+	std::vector<weak_ptr<hours> > hours_id
+}
+
+#pragma db object
+class review{
+public:
+	#pragma db id
+	std::string id;
+	#pragma db not_null
+	shared_ptr<user> user_id;
+	#pragma db not_null
+	shared_ptr<business> business_id;
+}
+
+#pragma db object
+class hours{
+public:
+	#pragma db id
+	std::string id;
+	#pragma db not_null
+	shared_ptr<business> business_id;
+}
