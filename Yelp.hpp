@@ -1,6 +1,7 @@
 #include <memory>
 #include <odb/core.hxx>
 #include <odb/lazy-ptr.hxx>
+
 #include <set>
 #include <string>
 #include <vector>
@@ -34,7 +35,7 @@ public:
 	std::string id;
 	std::string name;
 	#pragma db value_not_null inverse(user_id)
-	std::vector<std::weak_ptr<review> > review_;
+	std::vector<std::lazy_ptr<review> > review_;
 };
 
 #pragma db object
@@ -44,9 +45,9 @@ public:
 	std::string id;
 	std::string name;
 #pragma db value_not_null inverse(business_id)
-	std::vector<std::weak_ptr<review> > review_;
+	std::vector<std::lazy_ptr<review> > review_;
 #pragma db value_not_null inverse(business_id)
-	std::vector<std::weak_ptr<hours> > hours_id;
+	std::vector<std::lazy_ptr<hours> > hours_id;
 };
 
 #pragma db object
