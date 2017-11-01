@@ -42,7 +42,7 @@ std::vector<StarCount> countStars(odb::database& db, float latMin, float latMax,
 	sql << "FROM business JOIN review ON business.id = review.business_id" << endl;
 	sql << "WHERE" << to_string(latMin) << " < business.latitude < " << to_string(latMax) << endl;
 	sql << "AND" << to_string(longMin) << " < business.longitude < " << to_string(longMax) << endl;
-	res (db.query<StarCount>(sql.std::string())); 
+	res (db.query<StarCount>(sql.string())); 
 	StarCount tmp;
 	for (i = res.begin(); i != res.end(); ++i) {
 		tmp.stars = res->stars;
