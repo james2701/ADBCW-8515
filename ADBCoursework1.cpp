@@ -35,16 +35,15 @@ std::vector<std::string> findHours(odb::database& db, std::string username) {
 std::vector<StarCount> countStars(odb::database& db, float latMin, float latMax, float longMin,
 																	float longMax) {
 	std::vector<StarCount> result;
-	odb::result<StarCount> res;
 	transaction t(db.begin());
 	std::stringstream sql;
 	sql << "SELECT stars, COUNT (stars) AS count" << endl;
 	sql << "FROM business JOIN review ON business.id = review.business_id" << endl;
 	sql << "WHERE" << to_string(latMin) << " < business.latitude < " << to_string(latMax) << endl;
 	sql << "AND" << to_string(longMin) << " < business.longitude < " << to_string(longMax) << endl;
-	res (db.query<StarCount>(sql.str())); 
+	odb::result<StarCount> res (db.query<StarCount>(sql.str()));
 	StarCount tmp;
-	for (i = res.begin(); i != res.end(); ++i) {
+	for (auto i = res.begin(); i != res.end(); ++i) {
 		tmp.stars = res->stars;
 		tmp.count = res->count;
 		result.push_back(tmp);
