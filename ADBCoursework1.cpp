@@ -5,6 +5,7 @@
 #include <odb/mssql/database.hxx>
 #include <odb/transaction.hxx>
 #include <vector>
+#include <sstream>
 
 using std::cout;
 using std::endl;
@@ -34,10 +35,20 @@ std::vector<std::string> findHours(odb::database& db, std::string username) {
 std::vector<StarCount> countStars(odb::database& db, float latMin, float latMax, float longMin,
 																	float longMax) {
 	std::vector<StarCount> result;
+	odb::result<StarCount> res;
 	transaction t(db.begin());
-	// Your implementation goes here:
-	// db.query<StarCount>("select ...")
-	// Count the stars
+	std::stringstream sql;
+	sql << "SELECT stars, COUNT (stars) AS count" << endl;
+	sql << "FROM business JOIN review ON business.id = review.business_id" << endl;
+	sql << "WHERE" << latMin.to_string() << " < business.latitude < " << latmax.to_string << endl;
+	sql << "AND" << longMin.to_string() << " < business.longitude < " << longmax.to_string << endl;
+	res (db.query<StarCount>(sql.to_string())); 
+	StarCount tmp;
+	for (i = res.begin(); i != res.end(); ++i) {
+		tmp.stars = res->stars;
+		tmp.count = res->count;
+		result.push_back(tmp);
+	}
 	t.commit();
 	return result;
 }
