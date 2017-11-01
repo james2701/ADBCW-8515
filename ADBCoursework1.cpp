@@ -44,8 +44,8 @@ std::vector<StarCount> countStars(odb::database& db, float latMin, float latMax,
 	odb::result<StarCount> res (db.query<StarCount>(sql.str()));
 	StarCount tmp;
 	for (auto i = res.begin(); i != res.end(); ++i) {
-		tmp.stars = res->stars;
-		tmp.count = res->count;
+		tmp.stars = i->stars;
+		tmp.count = i->count;
 		result.push_back(tmp);
 	}
 	t.commit();
