@@ -22,9 +22,8 @@ std::vector<std::string> findHours(odb::database& db, std::string username) {
 		for (auto& thereview : theuser.review_){
 			auto thebusiness = thereview.load()->business_id;
 			for (auto thehours : thebusiness->hours_id) {
-				result.push_back(thehours.load()->hours)
+				result.push_back(thehours.load()->hours);
 			}
-
 		}
 	}
 	// Find the hours
