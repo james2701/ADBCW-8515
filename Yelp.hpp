@@ -66,6 +66,7 @@ class hours{
 public:
 	#pragma db id
 	std::string id;
+	std::string hours;
 	#pragma db not_null
 	std::shared_ptr<business> business_id;
 };
