@@ -20,7 +20,7 @@ std::vector<std::string> findHours(odb::database& db, std::string username) {
 	auto folks = db.query<user>(odb::query<user>::name == username);
 	for (auto& theuser : folks) {
 		for (auto& thereview : theuser.review_){
-			auto thebusiness = thereview.load(thereview->business_id);
+			auto thebusiness = thereview.load()->business_id;
 			for (auto thehours : thebusiness->hours_id) {
 				result.push_back(thehours.load()->hours)
 			}
