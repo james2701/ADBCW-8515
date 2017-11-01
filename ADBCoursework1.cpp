@@ -4,6 +4,7 @@
 #include <odb/database.hxx>
 #include <odb/mssql/database.hxx>
 #include <odb/transaction.hxx>
+#include <vector>
 
 using std::cout;
 using std::endl;
@@ -16,7 +17,14 @@ using std::to_string;
 std::vector<std::string> findHours(odb::database& db, std::string username) {
 	std::vector<std::string> result;
 	transaction t(db.begin());
-	// Your implementation goes here:
+	auto folks = db.query<user>(odb::query<user>::name == username);
+	for (auto& theuser : folks) {
+		for (auto& thereview : theuser.review_){
+			for (auto& thebusiness : thereview.business_) {
+				result.push_back(thebusiness.hours_id);
+			}
+		}
+	}
 	// Find the hours
 	t.commit();
 	return result;
