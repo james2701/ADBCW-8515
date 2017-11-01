@@ -33,7 +33,7 @@ public:
 	std::string id;
 	std::string name;
 	#pragma db value_not_null inverse(user_id)
-	std::vector<weak_ptr<review> > review_
+	std::vector<std::weak_ptr<review> > review_;
 }
 
 #pragma db object
@@ -43,9 +43,9 @@ public:
 	std::string id;
 	std::string name;
 	#pragma db value_not_null inverse(business_id)
-	std::vector<weak_ptr<review> > review_
+	std::vector<std::weak_ptr<review> > review_
 	#pragma db value_not_null inverse(business_id)
-	std::vector<weak_ptr<hours> > hours_id
+	std::vector<std::weak_ptr<hours> > hours_id
 }
 
 #pragma db object
@@ -54,9 +54,9 @@ public:
 	#pragma db id
 	std::string id;
 	#pragma db not_null
-	shared_ptr<user> user_id;
+	std::shared_ptr<user> user_id;
 	#pragma db not_null
-	shared_ptr<business> business_id;
+	std::shared_ptr<business> business_id;
 }
 
 #pragma db object
@@ -65,5 +65,5 @@ public:
 	#pragma db id
 	std::string id;
 	#pragma db not_null
-	shared_ptr<business> business_id;
+	std::shared_ptr<business> business_id;
 }
