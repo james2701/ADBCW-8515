@@ -45,7 +45,7 @@ public:
 #pragma db value_not_null inverse(business_id)
 	std::vector<std::weak_ptr<review> > review_;
 #pragma db value_not_null inverse(business_id)
-	td::vector<std::weak_ptr<hours> > hours_id;
+	std::vector<std::weak_ptr<hours> > hours_id;
 };
 
 #pragma db object
