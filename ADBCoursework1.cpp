@@ -38,10 +38,10 @@ std::vector<StarCount> countStars(odb::database& db, float latMin, float latMax,
 	std::stringstream sql;
 	sql << "SELECT review.stars AS stars, COUNT (review.stars) AS count" << endl;
 	sql << "FROM business JOIN review ON business.id = review.business_id" << endl;
-	sql << "WHERE " << latMin << " < business.latitude"<< endl;
-	sql << "AND " << latMax << " > business.latitude" << endl;
-	sql << "AND " << longMin << " < business.longitude" << endl;
-	sql << "AND " << longMax << " > business.longitude" << endl;
+	sql << "WHERE " << to_string(latMin) << " < business.latitude"<< endl;
+	sql << "AND " << to_string(latMax) << " > business.latitude" << endl;
+	sql << "AND " << to_string(longMin) << " < business.longitude" << endl;
+	sql << "AND " << to_string(longMax) << " > business.longitude" << endl;
 	sql << "GROUP BY review.stars" << endl;
 	odb::result<StarCount> res (db.query<StarCount>(sql.str()));
 	StarCount tmp;
@@ -56,7 +56,7 @@ std::vector<StarCount> countStars(odb::database& db, float latMin, float latMax,
 
 void createIndex(odb::database& db){
 	transaction t(db.begin());
-	db.execute("CREATE COLUMNSTORE INDEX count_index ON review(id, business_id)");
+	db.execute("CREATE COLUMNSTORE INDEX count_index ON review(id, business_id, stars)");
 	t.commit();
 	// Your implementation goes here:
 	// don't forget to wrap it in a transaction
