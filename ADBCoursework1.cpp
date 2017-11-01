@@ -43,6 +43,7 @@ std::vector<StarCount> countStars(odb::database& db, float latMin, float latMax,
 	sql << "AND " << to_string(longMin) << " < business.longitude" << endl;
 	sql << "AND " << to_string(longMax) << " > business.longitude" << endl;
 	sql << "GROUP BY review.stars" << endl;
+	sql << "ORDER BY review.stars" << endl;
 	odb::result<StarCount> res (db.query<StarCount>(sql.str()));
 	StarCount tmp;
 	for (auto i = res.begin(); i != res.end(); ++i) {
