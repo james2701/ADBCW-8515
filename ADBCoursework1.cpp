@@ -56,20 +56,15 @@ std::vector<StarCount> countStars(odb::database& db, float latMin, float latMax,
 
 void createIndex(odb::database& db){
 	transaction t(db.begin());
-	db.execute("CREATE COLUMNSTORE INDEX count_index ON review(id, business_id, stars)");
+	db.execute("CREATE COLUMNSTORE INDEX count_index ON review(business_id, stars)");
 	t.commit();
-	// Your implementation goes here:
-	// don't forget to wrap it in a transaction
-	// create a columnstore index to accelerate your query
 }
 
 void dropIndex(odb::database& db){
 	transaction t(db.begin());
 	db.execute("DROP INDEX count_index ON review");
 	t.commit();
-	// Your implementation goes here:
-	// don't forget to wrap it in a transaction
-	// drop the columnstore index you've created
+
 }
 
 // ---------------------------------------------
