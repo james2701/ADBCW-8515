@@ -9,9 +9,9 @@ std::vector<std::string> getQualifyingBusinessesIDsVector(Businesses const& b, f
 																													float longMax) {
 
 	std::vector<std::string> QBIDV;
-	for (int i = 0; i < Businesses->ids.size(); i++) {
-		if ((Businesses->latitudes[i] <= latMax) && (Businesses->latitudes[i] >= latMin) && (Businesses->longitudes[i] <= longMax) && (Businesses->longitudes[i] >= longMin)) {
-			QBIDV.push_back(Businesses.ids[i];
+	for (int i = 0; i < b.ids.size(); i++) {
+		if ((b.latitudes[i] <= latMax) && (b.latitudes[i] >= latMin) && (b.longitudes[i] <= longMax) && (b.longitudes[i] >= longMin)) {
+			QBIDV.push_back(b.ids[i];
 		}
 	}
 	return QBIDV;
