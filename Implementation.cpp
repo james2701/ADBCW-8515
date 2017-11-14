@@ -48,6 +48,14 @@ performNestedLoopJoinAndAggregation(Reviews const& r, std::vector<std::string> c
 std::unordered_set<std::string> getQualifyingBusinessesIDs(Businesses const& b, float latMin,
 																													 float latMax, float longMin,
 																													 float longMax) {
+	std::unordered_set<std::string> QBID;
+	for (int i = 0; i < b.ids.size(); i++) {
+		if ((b.latitudes[i] <= latMax) && (b.latitudes[i] >= latMin) && (b.longitudes[i] <= longMax) && (b.longitudes[i] >= longMin)) {
+			QBID.insert(b.ids[i]);
+		}
+	}
+	return QBID;
+	
 	// This function needs to find all businesses that have within the
 	// specified latitude/longitude range and store their ids in the result set
 	std::cout << "function getQualifyingBusinessesIDs not implemented" << std::endl;
@@ -57,12 +65,17 @@ std::unordered_set<std::string> getQualifyingBusinessesIDs(Businesses const& b, 
 std::vector<unsigned long>
 aggregateStarsOfQualifyingBusinesses(Reviews const& r,
 																		 std::unordered_set<std::string> const& qualifyingBusinesses) {
-	// The second parameter of this function is the set of qualifying
-	// business ids you have created in the first function
-
+	std::vector<unsigned long> hist(5);
+	for (int i = 0; i < r.business_ids.size(); i++) {
+		if (qualifyingBusinesses.count(r.business_ids[i]) {
+			hist[r.stars[i] - 1]++;
+		}
+	}
+	return hist;
 	// This function needs to find all reviews that have business_ids in
 	// the qualifyingBusinessesIDs vector and build a histogram over their stars
 	// The return value is that histogram
+
 	std::cout << "function aggregateStarsOfQualifyingBusinesses not implemented" << std::endl;
 	throw std::logic_error("unimplemented");
 }
