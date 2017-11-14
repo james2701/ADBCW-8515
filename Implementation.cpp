@@ -67,7 +67,7 @@ aggregateStarsOfQualifyingBusinesses(Reviews const& r,
 																		 std::unordered_set<std::string> const& qualifyingBusinesses) {
 	std::vector<unsigned long> hist(5);
 	for (int i = 0; i < r.business_ids.size(); i++) {
-		if (qualifyingBusinesses.count(r.business_ids[i]) {
+		if (qualifyingBusinesses.count(r.business_ids[i])) {
 			hist[r.stars[i] - 1]++;
 		}
 	}
