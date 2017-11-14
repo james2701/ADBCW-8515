@@ -24,11 +24,11 @@ std::vector<std::string> getQualifyingBusinessesIDsVector(Businesses const& b, f
 std::vector<unsigned long>
 performNestedLoopJoinAndAggregation(Reviews const& r, std::vector<std::string> const& qualifyingBusinessesIDs) {
 
-	std::vector<unsigned long> hist(5);
+	std::vector<unsigned long> hist(6);
 	for (int i = 0; i < qualifyingBusinessesIDs.size(); i++) {
 		for (int j = 0; j < r.business_ids.size(); j++) {
 			if (r.business_ids[i] == qualifyingBusinessesIDs[j]) {
-				hist[r.stars[i] - 1]++;
+				hist[r.stars[i]]++;
 			}
 		}
 	}
@@ -65,10 +65,10 @@ std::unordered_set<std::string> getQualifyingBusinessesIDs(Businesses const& b, 
 std::vector<unsigned long>
 aggregateStarsOfQualifyingBusinesses(Reviews const& r,
 																		 std::unordered_set<std::string> const& qualifyingBusinesses) {
-	std::vector<unsigned long> hist(5);
+	std::vector<unsigned long> hist(6);
 	for (int i = 0; i < r.business_ids.size(); i++) {
 		if (qualifyingBusinesses.count(r.business_ids[i])) {
-			hist[r.stars[i] - 1]++;
+			hist[r.stars[i]]++;
 		}
 	}
 	return hist;
