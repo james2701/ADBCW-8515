@@ -25,8 +25,8 @@ std::vector<unsigned long>
 performNestedLoopJoinAndAggregation(Reviews const& r, std::vector<std::string> const& qualifyingBusinessesIDs) {
 
 	std::vector<unsigned long> hist(6);
-	for (int i = 0; i < qualifyingBusinessesIDs.size(); i++) {
-		for (int j = 0; j < r.business_ids.size(); j++) {
+	for (int i = 0; i < r.business_ids.size(); i++) {
+		for (int j = 0; j < qualifyingBusinessesIDs.size(); j++) {
 			if (r.business_ids[i] == qualifyingBusinessesIDs[j]) {
 				hist[r.stars[i]]++;
 			}
