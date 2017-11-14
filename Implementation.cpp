@@ -14,7 +14,6 @@ std::vector<std::string> getQualifyingBusinessesIDsVector(Businesses const& b, f
 			QBIDV.push_back(b.ids[i]);
 		}
 	}
-	cout << "123";
 	return QBIDV;
 	// This function needs to find all businesses that have within the
 	// specified latitude/longitude range and store their ids in the result vector
@@ -24,8 +23,17 @@ std::vector<std::string> getQualifyingBusinessesIDsVector(Businesses const& b, f
 
 std::vector<unsigned long>
 performNestedLoopJoinAndAggregation(Reviews const& r, std::vector<std::string> const& qualifyingBusinessesIDs) {
-	// The second parameter of this function is the vector of qualifying
-	// business ids you have created in the first function
+
+	std::vector<unsigned long> hist(5);
+	for (int i = 0; i < qualifyingBusinessesIDs.size(); i++) {
+		for (int j = 0; j < r.business_ids.size(); j++) {
+			if (r.business_ids[i] == qualifyingBusinessesIDs[j]) {
+				hist[r.stars[i] - 1]++;
+			}
+		}
+	}
+	return hist;
+
 
 	// This function needs to find all reviews that have business_ids in
 	// the qualifyingBusinessesIDs vector and build a histogram over their stars
