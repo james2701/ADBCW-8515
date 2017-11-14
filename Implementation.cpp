@@ -11,7 +11,7 @@ std::vector<std::string> getQualifyingBusinessesIDsVector(Businesses const& b, f
 	std::vector<std::string> QBIDV;
 	for (int i = 0; i < b.ids.size(); i++) {
 		if ((b.latitudes[i] <= latMax) && (b.latitudes[i] >= latMin) && (b.longitudes[i] <= longMax) && (b.longitudes[i] >= longMin)) {
-			QBIDV.push_back(b.ids[i];
+			QBIDV.push_back(b.ids[i]);
 		}
 	}
 	return QBIDV;
