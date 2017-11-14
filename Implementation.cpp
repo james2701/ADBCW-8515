@@ -7,6 +7,14 @@ using namespace std;
 std::vector<std::string> getQualifyingBusinessesIDsVector(Businesses const& b, float latMin,
 																													float latMax, float longMin,
 																													float longMax) {
+
+	std::vector<std::string> QBIDV;
+	for (int i = 0; i < Businesses.ids.size(); i++) {
+		if ((Businesses.latitudes[i] <= latmax) && (Businesses.latitudes[i] >= latmin) && (Businesses.longitudes[i] <= longmax) && (Businesses.longitudes[i] >= longmin)) {
+			QBIDV.push_back(Businesses.ids[i];
+		}
+	}
+	return QBIDV;
 	// This function needs to find all businesses that have within the
 	// specified latitude/longitude range and store their ids in the result vector
 	std::cout << "function getQualifyingBusinessesIDsVector not implemented" << std::endl;
