@@ -14,6 +14,7 @@ std::vector<std::string> getQualifyingBusinessesIDsVector(Businesses const& b, f
 			QBIDV.push_back(b.ids[i]);
 		}
 	}
+	cout << "123";
 	return QBIDV;
 	// This function needs to find all businesses that have within the
 	// specified latitude/longitude range and store their ids in the result vector
