@@ -25,6 +25,6 @@ feature_state_data =
 
 sorted_feature_state_data =
    ORDER feature_state_data
-   BY    feature_state_name;
+   BY    state_name;
 
 STORE sorted_feature_state_data INTO 'q1' USING PigStorage(',');
