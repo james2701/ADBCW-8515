@@ -59,4 +59,21 @@ count_pop_state =
    JOIN all_county BY county LEFT,
             count_pop BY county;
 
-STORE count_pop_state INTO 'q3' USING PigStorage(',');
+count_pop_state_reduce = 
+   FOREACH count_pop_state
+   GENERATE state_name, all_county::county AS county, no_ppl;
+
+count_pop_stream_state = 
+  JOIN count_pop_state_reduce BY county LEFT,
+            count_stream BY county;
+
+count_pop_stream_state_reduce = 
+   FOREACH count_pop_stream_state 
+   GENERATE state_name, count_pop_state_reduce::county AS county, no_ppl, no_stream;
+
+
+count_pop_stream_state_ordered = 
+   ORDER count_pop_stream_state
+   BY state_name, county;
+
+STORE count_pop_stream_state_ordered INTO 'q3' USING PigStorage(',');
