@@ -8,6 +8,13 @@ populated_county =
    FOREACH populated_place
    GENERATE county, state_code;
 
+state_county_pop = 
+   JOIN populated_county BY state_code,
+        state_data BY code;
+
+state_county_pop_name = 
+   FOREACH state_county_pop
+   GENERATE state_data::name, county;
 
 populated_data = 
    FOREACH populated_place
