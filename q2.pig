@@ -9,7 +9,7 @@ populated_data =
    GENERATE state_code, elevation, population;
 
 state_populated =
-   JOIN state_data BY state::code LEFT,
+   JOIN state_data BY state_data::code LEFT,
         populated_data BY populated_data::state_code;
 
 state_populated_name =
