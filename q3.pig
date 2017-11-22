@@ -60,7 +60,7 @@ count_pop_state =
             count_pop BY county;
 
 count_pop_stream_state = 
-  JOIN count_pop_state BY county LEFT,
+  JOIN count_pop_state BY all_county::county LEFT,
             count_stream BY county;
 
 count_pop_stream_state_ordered = 
