@@ -14,11 +14,11 @@ state_populated =
 
 state_populated_name =
    FOREACH state_populated
-   GENERATE state::name, elevation, population;
+   GENERATE state_data::name, elevation, population;
 
 state_group = 
    GROUP state_populated_name
-   BY state::name;
+   BY state_data::name;
 
 state_result = 
    FOREACH state_group
