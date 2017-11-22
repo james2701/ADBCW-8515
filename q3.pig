@@ -4,11 +4,6 @@ state_data =
    FOREACH state
    GENERATE code, name;
 
-populated_county =
-   FOREACH populated_place
-   GENERATE county, state_code;
-
-
 populated_data = 
    FOREACH populated_place
    GENERATE county;
@@ -39,7 +34,7 @@ count_stream =
    GENERATE group AS county, COUNT(stream_feature.county) AS no_stream;
 
 pop_stream = 
-   JOIN count_pop BY county 
+   JOIN count_pop BY county,
         count_stream BY county;
 
 STORE pop_stream INTO 'q3' USING PigStorage(',');
