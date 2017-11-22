@@ -22,7 +22,7 @@ state_group =
 
 state_result = 
    FOREACH state_group
-   GENERATE group AS name, SUM(state_populated_name.state_populated::population) AS pos;
+   GENERATE group AS name, SUM(state_populated_name.populated_data::population) AS pos;
 
 state_result_ordered =
    ORDER state_result
