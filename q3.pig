@@ -10,7 +10,7 @@ populated_data =
 
 feature_data = 
    FOREACH feature
-   GENERATE type, county
+   GENERATE type, county;
 
 group_pop =
    GROUP populated_data
@@ -33,7 +33,7 @@ count_stream =
    GENERATE group AS county, COUNT(feature_data.county) AS no_stream;
 
 pop_stream = 
-   JOIN count_pop BY county, count_stream BY county FULL,
+   JOIN count_pop BY county FULL,
         count_stream BY county;
 
 STORE pop_stream INTO 'q3' USING PigStorage(',');
