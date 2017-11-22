@@ -22,7 +22,7 @@ state_group =
 
 state_result = 
    FOREACH state_group
-   GENERATE group AS name, SUM(population), AVG(elevation);
+   GENERATE group AS name, SUM(populated_data::population), AVG(populated_data::elevation);
 
 state_result_ordered =
    ORDER state_result
