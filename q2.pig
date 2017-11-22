@@ -26,6 +26,6 @@ state_result =
 
 state_result_ordered =
    ORDER state_result
-   BY    name;
+   BY    state_name;
 
 STORE state_result_ordered INTO 'q2' USING PigStorage(',');
