@@ -71,5 +71,8 @@ count_pop_stream_state_reduce =
    FOREACH count_pop_stream_state 
    GENERATE state_name, count_pop_state_reduce::county AS county, no_ppl, no_stream;
 
+count_pop_stream_state_reduce_ordered = 
+   ORDER count_pop_stream_state_reduce
+   BY state_name, county;
 
-STORE count_pop_stream_state_reduce INTO 'q3' USING PigStorage(',');
+STORE count_pop_stream_state_reduce_ordered INTO 'q3' USING PigStorage(',');
