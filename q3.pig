@@ -17,21 +17,6 @@ count_pop =
    FOREACH group_pop
    GENERATE group AS county, COUNT(populated_data.county) AS no_ppl;
 
-feature_data = 
-   FOREACH feature
-   GENERATE type, county;
-
-stream_feature = 
-   FILTER feature_data
-   BY type == 'stream';
-
-group_stream = 
-   GROUP stream_feature
-   BY county;
-
-count_stream =
-   FOREACH group_stream
-   GENERATE group AS county, COUNT(feature_data.county) AS no_stream;
 
 
-STORE count_stream INTO 'q3' USING PigStorage(',');
+STORE count_pop INTO 'q3' USING PigStorage(',');
