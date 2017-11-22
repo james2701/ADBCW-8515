@@ -14,14 +14,14 @@ state_county_pop =
 
 state_county_pop_name = 
    FOREACH state_county_pop
-   GENERATE state_data::name AS state_name, county;
+   GENERATE state_data::name AS state_name, county AS county;
 
-fearue_county = 
+feature_county = 
    FOREACH feature
-   GENERATE UPPER(state_name) AS state_name, county;
+   GENERATE UPPER(state_name) AS state_name, county AS county;
 
 all_county_bag = 
-   UNION state_county_pop_name, fearue_county;
+   UNION state_county_pop_name, feature_county;
 
 all_county = 
    DISTINCT all_county_bag;
