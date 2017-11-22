@@ -33,5 +33,8 @@ count_stream =
    FOREACH group_stream
    GENERATE group AS county, COUNT(stream_feature.county) AS no_stream;
 
+pop_stream = 
+   JOIN count_pop BY county FULL,
+        count_stream BY county;
 
-STORE count_stream INTO 'q3' USING PigStorage(',');
+STORE pop_stream INTO 'q3' USING PigStorage(',');
