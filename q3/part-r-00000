@@ -1,0 +1,3449 @@
+IDAHO,Ada,Ada,26
+FLORIDA,Bay,Bay,93
+MICHIGAN,Bay,Bay,93
+TEXAS,Bee,Bee,20
+SOUTH DAKOTA,Day,Day,11
+PENNSYLVANIA,Elk,Elk,94
+KANSAS,Elk,Elk,94
+IDAHO,Gem,Gem,14
+IOWA,Ida,Ida,5
+INDIANA,Jay,Jay,37
+OKLAHOMA,Kay,Kay,25
+NEW MEXICO,Lea,Lea,31
+ILLINOIS,Lee,Lee,594
+NORTH CAROLINA,Lee,Lee,594
+IOWA,Lee,Lee,594
+GEORGIA,Lee,Lee,594
+MISSISSIPPI,Lee,Lee,594
+VIRGINIA,Lee,Lee,594
+TEXAS,Lee,Lee,594
+ARKANSAS,Lee,Lee,594
+ALABAMA,Lee,Lee,594
+KENTUCKY,Lee,Lee,594
+FLORIDA,Lee,Lee,594
+SOUTH CAROLINA,Lee,Lee,594
+NEVADA,Nye,Nye,60
+MISSOURI,Ray,Ray,47
+IOWA,Sac,Sac,16
+MICRONESIA,Yap,Yap,160
+FM,Yap,Yap,160
+NORTH CAROLINA,Ashe,Ashe,52
+COLORADO,Baca,Baca,23
+KENTUCKY,Bath,Bath,55
+VIRGINIA,Bath,Bath,55
+KENTUCKY,Bell,Bell,114
+TEXAS,Bell,Bell,114
+COLORADO,Bent,Bent,26
+ALABAMA,Bibb,Bibb,220
+GEORGIA,Bibb,Bibb,220
+ILLINOIS,Bond,Bond,23
+NEBRASKA,Boyd,Boyd,34
+KENTUCKY,Boyd,Boyd,34
+NEBRASKA,Burt,Burt,8
+TEXAS,Camp,Camp,14
+IOWA,Cass,Cass,304
+MISSOURI,Cass,Cass,304
+ILLINOIS,Cass,Cass,304
+TEXAS,Cass,Cass,304
+NORTH DAKOTA,Cass,Cass,304
+INDIANA,Cass,Cass,304
+NEBRASKA,Cass,Cass,304
+MINNESOTA,Cass,Cass,304
+MICHIGAN,Cass,Cass,304
+INDIANA,Clay,Clay,555
+MISSISSIPPI,Clay,Clay,555
+NORTH CAROLINA,Clay,Clay,555
+IOWA,Clay,Clay,555
+KANSAS,Clay,Clay,555
+NEBRASKA,Clay,Clay,555
+MISSOURI,Clay,Clay,555
+MINNESOTA,Clay,Clay,555
+SOUTH DAKOTA,Clay,Clay,555
+WEST VIRGINIA,Clay,Clay,555
+ALABAMA,Clay,Clay,555
+FLORIDA,Clay,Clay,555
+KENTUCKY,Clay,Clay,555
+TENNESSEE,Clay,Clay,555
+ILLINOIS,Clay,Clay,555
+TEXAS,Clay,Clay,555
+ARKANSAS,Clay,Clay,555
+GEORGIA,Clay,Clay,555
+OKLAHOMA,Coal,Coal,11
+GEORGIA,Cobb,Cobb,270
+TEXAS,Coke,Coke,8
+MISSOURI,Cole,Cole,30
+MINNESOTA,Cook,Cook,490
+ILLINOIS,Cook,Cook,490
+GEORGIA,Cook,Cook,490
+NORTH DAKOTA,Coos,Coos,132
+OREGON,Coos,Coos,132
+NEW HAMPSHIRE,Coos,Coos,132
+MISSOURI,Dade,Dade,45
+FLORIDA,Dade,Dade,45
+GEORGIA,Dade,Dade,45
+ALABAMA,Dale,Dale,45
+WISCONSIN,Dane,Dane,120
+NORTH CAROLINA,Dare,Dare,67
+MISSOURI,Dent,Dent,45
+WISCONSIN,Door,Door,31
+ARKANSAS,Drew,Drew,38
+NORTH DAKOTA,Dunn,Dunn,43
+WISCONSIN,Dunn,Dunn,43
+TENNESSEE,Dyer,Dyer,59
+NEW MEXICO,Eddy,Eddy,44
+NORTH DAKOTA,Eddy,Eddy,44
+NEVADA,Elko,Elko,89
+NEW YORK,Erie,Erie,330
+PENNSYLVANIA,Erie,Erie,330
+OHIO,Erie,Erie,330
+ILLINOIS,Ford,Ford,32
+KANSAS,Ford,Ford,32
+TEXAS,Frio,Frio,18
+NEBRASKA,Gage,Gage,19
+ARIZONA,Gila,Gila,88
+KANSAS,Gove,Gove,6
+TEXAS,Gray,Gray,23
+KANSAS,Gray,Gray,23
+GUAM,Guam,Guam,105
+FLORIDA,Gulf,Gulf,21
+ALABAMA,Hale,Hale,57
+TEXAS,Hale,Hale,57
+NEBRASKA,Hall,Hall,248
+GEORGIA,Hall,Hall,248
+TEXAS,Hall,Hall,248
+SOUTH DAKOTA,Hand,Hand,9
+GEORGIA,Hart,Hart,65
+KENTUCKY,Hart,Hart,65
+TEXAS,Hays,Hays,20
+MONTANA,Hill,Hill,82
+TEXAS,Hill,Hill,82
+NORTH CAROLINA,Hoke,Hoke,27
+MISSOURI,Holt,Holt,51
+NEBRASKA,Holt,Holt,51
+TEXAS,Hood,Hood,20
+TEXAS,Hunt,Hunt,47
+SOUTH DAKOTA,Hyde,Hyde,37
+NORTH CAROLINA,Hyde,Hyde,37
+CALIFORNIA,Inyo,Inyo,83
+IOWA,Iowa,Iowa,47
+WISCONSIN,Iowa,Iowa,47
+MICHIGAN,Iron,Iron,134
+WISCONSIN,Iron,Iron,134
+UTAH,Iron,Iron,134
+MISSOURI,Iron,Iron,134
+TEXAS,Jack,Jack,17
+UTAH,Juab,Juab,29
+UTAH,Kane,Kane,87
+ILLINOIS,Kane,Kane,87
+DELAWARE,Kent,Kent,520
+TEXAS,Kent,Kent,520
+RHODE ISLAND,Kent,Kent,520
+MICHIGAN,Kent,Kent,520
+MARYLAND,Kent,Kent,520
+CALIFORNIA,Kern,Kern,216
+TEXAS,Kerr,Kerr,14
+TEXAS,King,King,372
+WASHINGTON,King,King,372
+TENNESSEE,Knox,Knox,573
+MAINE,Knox,Knox,573
+MISSOURI,Knox,Knox,573
+INDIANA,Knox,Knox,573
+OHIO,Knox,Knox,573
+ILLINOIS,Knox,Knox,573
+KENTUCKY,Knox,Knox,573
+NEBRASKA,Knox,Knox,573
+TEXAS,Knox,Knox,573
+SOUTH DAKOTA,Lake,Lake,586
+MICHIGAN,Lake,Lake,586
+OHIO,Lake,Lake,586
+MINNESOTA,Lake,Lake,586
+TENNESSEE,Lake,Lake,586
+ILLINOIS,Lake,Lake,586
+COLORADO,Lake,Lake,586
+CALIFORNIA,Lake,Lake,586
+MONTANA,Lake,Lake,586
+INDIANA,Lake,Lake,586
+FLORIDA,Lake,Lake,586
+OREGON,Lake,Lake,586
+TEXAS,Lamb,Lamb,16
+KANSAS,Lane,Lane,136
+OREGON,Lane,Lane,136
+TEXAS,Leon,Leon,84
+FLORIDA,Leon,Leon,84
+FLORIDA,Levy,Levy,26
+KANSAS,Linn,Linn,159
+OREGON,Linn,Linn,159
+IOWA,Linn,Linn,159
+MISSOURI,Linn,Linn,159
+GEORGIA,Long,Long,8
+NEBRASKA,Loup,Loup,4
+OKLAHOMA,Love,Love,21
+MICHIGAN,Luce,Luce,20
+NEW MEXICO,Luna,Luna,23
+TEXAS,Lynn,Lynn,10
+KANSAS,Lyon,Lyon,94
+KENTUCKY,Lyon,Lyon,94
+MINNESOTA,Lyon,Lyon,94
+IOWA,Lyon,Lyon,94
+NEVADA,Lyon,Lyon,94
+HAWAII,Maui,Maui,154
+COLORADO,Mesa,Mesa,34
+PUERTO RICO,Moca,Moca,6
+PUERTO RICO,Mola,,
+CALIFORNIA,Mono,Mono,38
+NEW MEXICO,Mora,Mora,43
+CALIFORNIA,Napa,Napa,54
+NORTH CAROLINA,Nash,Nash,74
+KANSAS,Ness,Ness,11
+ALASKA,Nome,,
+HAWAII,Oahu,,
+ILLINOIS,Ogle,Ogle,56
+WEST VIRGINIA,Ohio,Ohio,125
+INDIANA,Ohio,Ohio,125
+KENTUCKY,Ohio,Ohio,125
+NEBRASKA,Otoe,Otoe,15
+KENTUCKY,Owen,Owen,70
+INDIANA,Owen,Owen,70
+IOWA,Page,Page,66
+VIRGINIA,Page,Page,66
+MONTANA,Park,Park,123
+WYOMING,Park,Park,123
+COLORADO,Park,Park,123
+ARKANSAS,Pike,Pike,552
+MISSISSIPPI,Pike,Pike,552
+GEORGIA,Pike,Pike,552
+ILLINOIS,Pike,Pike,552
+OHIO,Pike,Pike,552
+ALABAMA,Pike,Pike,552
+INDIANA,Pike,Pike,552
+MISSOURI,Pike,Pike,552
+PENNSYLVANIA,Pike,Pike,552
+KENTUCKY,Pike,Pike,552
+ARIZONA,Pima,Pima,200
+MINNESOTA,Pine,Pine,31
+NORTH CAROLINA,Pitt,Pitt,192
+WISCONSIN,Polk,Polk,521
+ARKANSAS,Polk,Polk,521
+NORTH CAROLINA,Polk,Polk,521
+GEORGIA,Polk,Polk,521
+FLORIDA,Polk,Polk,521
+OREGON,Polk,Polk,521
+TEXAS,Polk,Polk,521
+MISSOURI,Polk,Polk,521
+TENNESSEE,Polk,Polk,521
+MINNESOTA,Polk,Polk,521
+NEBRASKA,Polk,Polk,521
+IOWA,Polk,Polk,521
+ILLINOIS,Pope,Pope,101
+ARKANSAS,Pope,Pope,101
+MINNESOTA,Pope,Pope,101
+NEW MEXICO,Quay,Quay,29
+TEXAS,Real,Real,4
+KANSAS,Reno,Reno,31
+TENNESSEE,Rhea,Rhea,47
+KANSAS,Rice,Rice,36
+MINNESOTA,Rice,Rice,36
+UTAH,Rich,Rich,11
+WISCONSIN,Rock,Rock,63
+NEBRASKA,Rock,Rock,63
+MINNESOTA,Rock,Rock,63
+OHIO,Ross,Ross,69
+NORTHERN MARIANA ISLANDS,Rota,Rota,1
+NORTHERN MARIANA,Rota,Rota,1
+KANSAS,Rush,Rush,38
+INDIANA,Rush,Rush,38
+WISCONSIN,Rusk,Rusk,70
+TEXAS,Rusk,Rusk,70
+WISCONSIN,Sauk,Sauk,29
+IOWA,Tama,Tama,20
+NEW MEXICO,Taos,Taos,69
+MISSISSIPPI,Tate,Tate,29
+GEORGIA,Tift,Tift,18
+MINNESOTA,Todd,Todd,60
+KENTUCKY,Todd,Todd,60
+SOUTH DAKOTA,Todd,Todd,60
+UTAH,Utah,Utah,84
+INDIANA,Vigo,Vigo,65
+NORTH CAROLINA,Wake,Wake,331
+TEXAS,Ward,Ward,35
+NORTH DAKOTA,Ward,Ward,35
+GEORGIA,Ware,Ware,35
+TEXAS,Webb,Webb,29
+COLORADO,Weld,Weld,110
+ILLINOIS,Will,Will,78
+LOUISIANA,Winn,Winn,49
+WEST VIRGINIA,Wirt,Wirt,23
+VIRGINIA,Wise,Wise,114
+TEXAS,Wise,Wise,114
+TEXAS,Wood,Wood,259
+OHIO,Wood,Wood,259
+WISCONSIN,Wood,Wood,259
+WEST VIRGINIA,Wood,Wood,259
+ARKANSAS,Yell,Yell,60
+CALIFORNIA,Yolo,Yolo,57
+NEBRASKA,York,York,787
+VIRGINIA,York,York,787
+MAINE,York,York,787
+SOUTH CAROLINA,York,York,787
+PENNSYLVANIA,York,York,787
+CALIFORNIA,Yuba,Yuba,43
+COLORADO,Yuma,Yuma,56
+ARIZONA,Yuma,Yuma,56
+PALAU,null,,
+PUERTO RICO,null,,
+TENNESSEE,null,,
+NEW MEXICO,null,,
+NEW JERSEY,null,,
+MICRONESIA,null,,
+OKLAHOMA,null,,
+NORTHERN MARIANA ISLANDS,null,,
+YAP,null,,
+GUAM,null,,
+INDIANA,null,,
+MONTANA,null,,
+NEW YORK,null,,
+VERMONT,null,,
+WYOMING,null,,
+VIRGINIA,null,,
+SOUTH DAKOTA,null,,
+CALIFORNIA,null,,
+WASHINGTON,null,,
+NEBRASKA,null,,
+MARSHALL ISLANDS,null,,
+VIRGIN ISLANDS,null,,
+IOWA,null,,
+ALASKA,null,,
+ARKANSAS,null,,
+MASSACHUSETTS,null,,
+HAWAII,null,,
+IDAHO,null,,
+KANSAS,null,,
+LOUISIANA,null,,
+COLORADO,null,,
+CANADA-U.S.,null,,
+CONNECTICUT,null,,
+PENNSYLVANIA,null,,
+NORTH CAROLINA,null,,
+MISSISSIPPI,null,,
+WISCONSIN,null,,
+MISSOURI,null,,
+UTAH,null,,
+TRUK,null,,
+MICHIGAN,null,,
+MARYLAND,null,,
+SOUTH CAROLINA,null,,
+NORTH DAKOTA,null,,
+NEW HAMPSHIRE,null,,
+MINNESOTA,null,,
+U.S.-MEXICO,null,,
+U.S.-CANADA,null,,
+KOSRAE,null,,
+NEVADA,null,,
+TEXAS,null,,
+WEST VIRGINIA,null,,
+OREGON,null,,
+GEORGIA,null,,
+MIDWAY ISLANDS,null,,
+COLUMBIA,null,,
+PONAPE,null,,
+S.DAK.,null,,
+DELAWARE,null,,
+ILLINOIS,null,,
+AMERICAN SAMOA,null,,
+ALABAMA,null,,
+MAINE,null,,
+KENTUCKY,null,,
+OHIO,null,,
+ARIZONA,null,,
+FLORIDA,null,,
+KENTUCKY,Adair,Adair,122
+OKLAHOMA,Adair,Adair,122
+MISSOURI,Adair,Adair,122
+IOWA,Adair,Adair,122
+OHIO,Adams,Adams,418
+NEBRASKA,Adams,Adams,418
+WASHINGTON,Adams,Adams,418
+IOWA,Adams,Adams,418
+NORTH DAKOTA,Adams,Adams,418
+IDAHO,Adams,Adams,418
+INDIANA,Adams,Adams,418
+WISCONSIN,Adams,Adams,418
+MISSISSIPPI,Adams,Adams,418
+ILLINOIS,Adams,Adams,418
+PENNSYLVANIA,Adams,Adams,418
+COLORADO,Adams,Adams,418
+SOUTH CAROLINA,Aiken,Aiken,171
+MICHIGAN,Alger,Alger,41
+KANSAS,Allen,Allen,194
+LOUISIANA,Allen,Allen,194
+OHIO,Allen,Allen,194
+KENTUCKY,Allen,Allen,194
+INDIANA,Allen,Allen,194
+MISSISSIPPI,Amite,Amite,38
+MINNESOTA,Anoka,Anoka,34
+NORTH CAROLINA,Anson,Anson,29
+OKLAHOMA,Atoka,Atoka,31
+NORTH CAROLINA,Avery,Avery,42
+GEORGIA,Bacon,Bacon,7
+FLORIDA,Baker,Baker,79
+OREGON,Baker,Baker,79
+GEORGIA,Baker,Baker,79
+GEORGIA,Banks,Banks,17
+MISSOURI,Barry,Barry,80
+MICHIGAN,Barry,Barry,80
+MISSOURI,Bates,Bates,36
+PENNSYLVANIA,Berks,Berks,225
+TEXAS,Bexar,Bexar,74
+PENNSYLVANIA,Blair,Blair,114
+VIRGINIA,Bland,Bland,26
+IDAHO,Boise,Boise,25
+NEBRASKA,Boone,Boone,300
+MISSOURI,Boone,Boone,300
+ARKANSAS,Boone,Boone,300
+INDIANA,Boone,Boone,300
+KENTUCKY,Boone,Boone,300
+IOWA,Boone,Boone,300
+WEST VIRGINIA,Boone,Boone,300
+ILLINOIS,Boone,Boone,300
+TEXAS,Bowie,Bowie,47
+KENTUCKY,Boyle,Boyle,24
+NEW YORK,Bronx,Bronx,34
+MINNESOTA,Brown,Brown,262
+SOUTH DAKOTA,Brown,Brown,262
+NEBRASKA,Brown,Brown,262
+KANSAS,Brown,Brown,262
+INDIANA,Brown,Brown,262
+TEXAS,Brown,Brown,262
+WISCONSIN,Brown,Brown,262
+OHIO,Brown,Brown,262
+ILLINOIS,Brown,Brown,262
+SOUTH DAKOTA,Brule,Brule,10
+OKLAHOMA,Bryan,Bryan,70
+GEORGIA,Bryan,Bryan,70
+PENNSYLVANIA,Bucks,Bucks,308
+GEORGIA,Burke,Burke,94
+NORTH DAKOTA,Burke,Burke,94
+NORTH CAROLINA,Burke,Burke,94
+IDAHO,Butte,Butte,115
+CALIFORNIA,Butte,Butte,115
+SOUTH DAKOTA,Butte,Butte,115
+GEORGIA,Butts,Butts,12
+UTAH,Cache,Cache,40
+OKLAHOMA,Caddo,Caddo,195
+LOUISIANA,Caddo,Caddo,195
+IDAHO,Camas,Camas,11
+PUERTO RICO,Camuy,Camuy,12
+KENTUCKY,Casey,Casey,36
+PUERTO RICO,Cayey,Cayey,8
+MARYLAND,Cecil,Cecil,307
+NEBRASKA,Cedar,Cedar,71
+MISSOURI,Cedar,Cedar,71
+IOWA,Cedar,Cedar,71
+PUERTO RICO,Ceiba,Ceiba,4
+KANSAS,Chase,Chase,25
+NEBRASKA,Chase,Chase,25
+MICRONESIA,Chuuk,Chuuk,189
+FM,Chuuk,Chuuk,189
+PUERTO RICO,Cidra,Cidra,6
+PUERTO RICO,Cieba,,
+MICHIGAN,Clare,Clare,19
+WISCONSIN,Clark,Clark,557
+SOUTH DAKOTA,Clark,Clark,557
+KANSAS,Clark,Clark,557
+NEVADA,Clark,Clark,557
+MISSOURI,Clark,Clark,557
+OHIO,Clark,Clark,557
+WASHINGTON,Clark,Clark,557
+IDAHO,Clark,Clark,557
+ILLINOIS,Clark,Clark,557
+ARKANSAS,Clark,Clark,557
+INDIANA,Clark,Clark,557
+KENTUCKY,Clark,Clark,557
+KANSAS,Cloud,Cloud,14
+PUERTO RICO,Coamo,Coamo,14
+TENNESSEE,Cocke,Cocke,72
+ILLINOIS,Coles,Coles,30
+TEXAS,Comal,Comal,36
+TEXAS,Cooke,Cooke,30
+ALABAMA,Coosa,Coosa,42
+VIRGINIA,Craig,Craig,37
+OKLAHOMA,Craig,Craig,37
+TEXAS,Crane,Crane,2
+OKLAHOMA,Creek,Creek,33
+GEORGIA,Crisp,Crisp,18
+OREGON,Crook,Crook,31
+WYOMING,Crook,Crook,31
+ARKANSAS,Cross,Cross,42
+OREGON,Curry,Curry,37
+NEW MEXICO,Curry,Curry,37
+OHIO,Darke,Darke,78
+NORTH CAROLINA,Davie,Davie,43
+IOWA,Davis,Davis,800
+UTAH,Davis,Davis,800
+NEBRASKA,Dawes,Dawes,14
+TEXAS,Delta,Delta,110
+COLORADO,Delta,Delta,110
+MICHIGAN,Delta,Delta,110
+ARKANSAS,Desha,Desha,36
+NEBRASKA,Deuel,Deuel,16
+SOUTH DAKOTA,Deuel,Deuel,16
+SOUTH DAKOTA,Dewey,Dewey,40
+OKLAHOMA,Dewey,Dewey,40
+FLORIDA,Dixie,Dixie,16
+NEBRASKA,Dixon,Dixon,11
+GEORGIA,Dodge,Dodge,109
+WISCONSIN,Dodge,Dodge,109
+NEBRASKA,Dodge,Dodge,109
+MINNESOTA,Dodge,Dodge,109
+GEORGIA,Dooly,Dooly,14
+MASSACHUSETTS,Dukes,Dukes,33
+NEBRASKA,Dundy,Dundy,10
+TEXAS,Duval,Duval,186
+FLORIDA,Duval,Duval,186
+COLORADO,Eagle,Eagle,33
+GEORGIA,Early,Early,29
+MICHIGAN,Eaton,Eaton,32
+TEXAS,Ector,Ector,13
+ILLINOIS,Edgar,Edgar,44
+KANSAS,Ellis,Ellis,77
+TEXAS,Ellis,Ellis,77
+OKLAHOMA,Ellis,Ellis,77
+UTAH,Emery,Emery,20
+IOWA,Emmet,Emmet,43
+MICHIGAN,Emmet,Emmet,43
+TEXAS,Erath,Erath,26
+VIRGINIA,Essex,Essex,382
+NEW HAMPSHIRE,Essex,Essex,382
+NEW JERSEY,Essex,Essex,382
+NEW YORK,Essex,Essex,382
+VERMONT,Essex,Essex,382
+NEW MEXICO,Essex,Essex,382
+MASSACHUSETTS,Essex,Essex,382
+GEORGIA,Evans,Evans,11
+TEXAS,Falls,Falls,35
+SOUTH DAKOTA,Faulk,Faulk,14
+WASHINGTON,Ferry,Ferry,22
+VIRGINIA,Floyd,Floyd,266
+KENTUCKY,Floyd,Floyd,266
+INDIANA,Floyd,Floyd,266
+TEXAS,Floyd,Floyd,266
+IOWA,Floyd,Floyd,266
+GEORGIA,Floyd,Floyd,266
+TEXAS,Foard,Foard,5
+TEXAS,Garza,Garza,10
+NORTH CAROLINA,Gates,Gates,51
+KANSAS,Geary,Geary,6
+TENNESSEE,Giles,Giles,120
+VIRGINIA,Giles,Giles,120
+CALIFORNIA,Glenn,Glenn,36
+GEORGIA,Glynn,Glynn,111
+OKLAHOMA,Grady,Grady,49
+GEORGIA,Grady,Grady,49
+COLORADO,Grand,Grand,32
+UTAH,Grand,Grand,32
+INDIANA,Grant,Grant,439
+OKLAHOMA,Grant,Grant,439
+SOUTH DAKOTA,Grant,Grant,439
+NEBRASKA,Grant,Grant,439
+LOUISIANA,Grant,Grant,439
+KANSAS,Grant,Grant,439
+NORTH DAKOTA,Grant,Grant,439
+MINNESOTA,Grant,Grant,439
+OREGON,Grant,Grant,439
+WEST VIRGINIA,Grant,Grant,439
+KENTUCKY,Grant,Grant,439
+WISCONSIN,Grant,Grant,439
+ARKANSAS,Grant,Grant,439
+WASHINGTON,Grant,Grant,439
+NEW MEXICO,Grant,Grant,439
+KENTUCKY,Green,Green,53
+WISCONSIN,Green,Green,53
+OKLAHOMA,Greer,Greer,13
+TEXAS,Gregg,Gregg,20
+WEST VIRGINIA,Hardy,Hardy,31
+NEBRASKA,Hayes,Hayes,3
+GEORGIA,Heard,Heard,41
+INDIANA,Henry,Henry,398
+GEORGIA,Henry,Henry,398
+MISSOURI,Henry,Henry,398
+TENNESSEE,Henry,Henry,398
+IOWA,Henry,Henry,398
+ILLINOIS,Henry,Henry,398
+ALABAMA,Henry,Henry,398
+KENTUCKY,Henry,Henry,398
+VIRGINIA,Henry,Henry,398
+OHIO,Henry,Henry,398
+MISSISSIPPI,Hinds,Hinds,133
+SOUTH CAROLINA,Horry,Horry,254
+OHIO,Huron,Huron,73
+MICHIGAN,Huron,Huron,73
+IDAHO,Idaho,Idaho,80
+MICHIGAN,Ionia,Ionia,26
+MICHIGAN,Iosco,Iosco,29
+TEXAS,Irion,Irion,8
+GEORGIA,Irwin,Irwin,13
+ARKANSAS,Izard,Izard,48
+SOUTH DAKOTA,Jones,Jones,163
+MISSISSIPPI,Jones,Jones,163
+TEXAS,Jones,Jones,163
+GEORGIA,Jones,Jones,163
+NORTH CAROLINA,Jones,Jones,163
+IOWA,Jones,Jones,163
+HAWAII,Kauai,Kauai,68
+NEBRASKA,Keith,Keith,16
+CALIFORNIA,Kings,Kings,66
+NEW YORK,Kings,Kings,66
+OKLAHOMA,Kiowa,Kiowa,36
+COLORADO,Kiowa,Kiowa,36
+KANSAS,Kiowa,Kiowa,36
+KENTUCKY,Knott,Knott,43
+PALAU,Koror,Koror,1
+PUERTO RICO,Lajas,Lajas,16
+GEORGIA,Lamar,Lamar,152
+TEXAS,Lamar,Lamar,152
+ALABAMA,Lamar,Lamar,152
+MISSISSIPPI,Lamar,Lamar,152
+PUERTO RICO,Lares,Lares,14
+KENTUCKY,Larue,Larue,19
+IDAHO,Latah,Latah,32
+MISSISSIPPI,Leake,Leake,50
+IDAHO,Lemhi,Lemhi,23
+MISSOURI,Lewis,Lewis,337
+WASHINGTON,Lewis,Lewis,337
+IDAHO,Lewis,Lewis,337
+WEST VIRGINIA,Lewis,Lewis,337
+KENTUCKY,Lewis,Lewis,337
+TENNESSEE,Lewis,Lewis,337
+NEW YORK,Lewis,Lewis,337
+TEXAS,Llano,Llano,17
+NEBRASKA,Logan,Logan,366
+NORTH DAKOTA,Logan,Logan,366
+ARKANSAS,Logan,Logan,366
+COLORADO,Logan,Logan,366
+KENTUCKY,Logan,Logan,366
+ILLINOIS,Logan,Logan,366
+KANSAS,Logan,Logan,366
+OHIO,Logan,Logan,366
+WEST VIRGINIA,Logan,Logan,366
+OKLAHOMA,Logan,Logan,366
+PUERTO RICO,Loiza,Loiza,22
+OHIO,Lucas,Lucas,89
+IOWA,Lucas,Lucas,89
+SOUTH DAKOTA,Lyman,Lyman,9
+TENNESSEE,Macon,Macon,243
+ALABAMA,Macon,Macon,243
+MISSOURI,Macon,Macon,243
+GEORGIA,Macon,Macon,243
+ILLINOIS,Macon,Macon,243
+NORTH CAROLINA,Macon,Macon,243
+OKLAHOMA,Major,Major,20
+CALIFORNIA,Marin,Marin,90
+ILLINOIS,Mason,Mason,189
+WEST VIRGINIA,Mason,Mason,189
+KENTUCKY,Mason,Mason,189
+MICHIGAN,Mason,Mason,189
+WASHINGTON,Mason,Mason,189
+TEXAS,Mason,Mason,189
+TENNESSEE,Maury,Maury,116
+OKLAHOMA,Mayes,Mayes,26
+SOUTH DAKOTA,Meade,Meade,69
+KENTUCKY,Meade,Meade,69
+KANSAS,Meade,Meade,69
+OHIO,Meigs,Meigs,108
+TENNESSEE,Meigs,Meigs,108
+INDIANA,Miami,Miami,100
+KANSAS,Miami,Miami,100
+OHIO,Miami,Miami,100
+TEXAS,Milam,Milam,47
+IOWA,Mills,Mills,40
+TEXAS,Mills,Mills,40
+SOUTH DAKOTA,Miner,Miner,8
+WEST VIRGINIA,Mingo,Mingo,81
+CALIFORNIA,Modoc,Modoc,65
+SOUTH DAKOTA,Moody,Moody,7
+TEXAS,Moore,Moore,90
+NORTH CAROLINA,Moore,Moore,90
+TENNESSEE,Moore,Moore,90
+MINNESOTA,Mower,Mower,23
+NEBRASKA,Nance,Nance,7
+OKLAHOMA,Noble,Noble,91
+OHIO,Noble,Noble,91
+INDIANA,Noble,Noble,91
+TEXAS,Nolan,Nolan,16
+TENNESSEE,Obion,Obion,52
+NEW JERSEY,Ocean,Ocean,247
+MISSOURI,Osage,Osage,104
+OKLAHOMA,Osage,Osage,104
+KANSAS,Osage,Osage,104
+COLORADO,Otero,Otero,72
+NEW MEXICO,Otero,Otero,72
+COLORADO,Ouray,Ouray,12
+IDAHO,Owhee,,
+MISSOURI,Ozark,Ozark,52
+INDIANA,Parke,Parke,57
+FLORIDA,Pasco,Pasco,56
+OKLAHOMA,Payne,Payne,21
+GEORGIA,Peach,Peach,30
+TEXAS,Pecos,Pecos,17
+WISCONSIN,Pepin,Pepin,13
+MISSOURI,Perry,Perry,408
+ARKANSAS,Perry,Perry,408
+PENNSYLVANIA,Perry,Perry,408
+MISSISSIPPI,Perry,Perry,408
+KENTUCKY,Perry,Perry,408
+ALABAMA,Perry,Perry,408
+ILLINOIS,Perry,Perry,408
+TENNESSEE,Perry,Perry,408
+OHIO,Perry,Perry,408
+INDIANA,Perry,Perry,408
+ILLINOIS,Piatt,Piatt,24
+ARIZONA,Pinal,Pinal,92
+UTAH,Piute,Piute,13
+PUERTO RICO,Ponce,Ponce,94
+INDIANA,Posey,Posey,35
+IDAHO,Power,Power,14
+KANSAS,Pratt,Pratt,13
+WISCONSIN,Price,Price,16
+GEORGIA,Rabun,Rabun,19
+TEXAS,Rains,Rains,14
+MISSOURI,Ralls,Ralls,23
+KANSAS,Riley,Riley,18
+TENNESSEE,Roane,Roane,210
+WEST VIRGINIA,Roane,Roane,210
+KANSAS,Rooks,Rooks,9
+COLORADO,Routt,Routt,23
+KENTUCKY,Rowan,Rowan,119
+NORTH CAROLINA,Rowan,Rowan,119
+VIRGINIA,Salem,Salem,110
+NEW JERSEY,Salem,Salem,110
+NEBRASKA,Sarpy,Sarpy,19
+TENNESSEE,Scott,Scott,385
+VIRGINIA,Scott,Scott,385
+INDIANA,Scott,Scott,385
+MISSOURI,Scott,Scott,385
+ARKANSAS,Scott,Scott,385
+KANSAS,Scott,Scott,385
+IOWA,Scott,Scott,385
+MINNESOTA,Scott,Scott,385
+KENTUCKY,Scott,Scott,385
+ILLINOIS,Scott,Scott,385
+MISSISSIPPI,Scott,Scott,385
+ARKANSAS,Sharp,Sharp,24
+NORTH DAKOTA,Sioux,Sioux,38
+NEBRASKA,Sioux,Sioux,38
+IOWA,Sioux,Sioux,38
+ALASKA,Sitka,Sitka,8
+NORTH DAKOTA,Slope,Slope,8
+TENNESSEE,Smith,Smith,132
+MISSISSIPPI,Smith,Smith,132
+TEXAS,Smith,Smith,132
+KANSAS,Smith,Smith,132
+VIRGINIA,Smyth,Smyth,37
+SOUTH DAKOTA,Spink,Spink,22
+NORTH DAKOTA,Stark,Stark,166
+ILLINOIS,Stark,Stark,166
+OHIO,Stark,Stark,166
+TEXAS,Starr,Starr,47
+MISSOURI,Stone,Stone,87
+MISSISSIPPI,Stone,Stone,87
+ARKANSAS,Stone,Stone,87
+IOWA,Story,Story,22
+SOUTH DAKOTA,Sully,Sully,4
+VIRGINIA,Surry,Surry,100
+NORTH CAROLINA,Surry,Surry,100
+NORTH CAROLINA,Swain,Swain,32
+MINNESOTA,Swift,Swift,10
+MISSOURI,Taney,Taney,36
+TEXAS,Terry,Terry,11
+IDAHO,Teton,Teton,59
+WYOMING,Teton,Teton,59
+MONTANA,Teton,Teton,59
+OKLAHOMA,Texas,Texas,97
+MISSOURI,Texas,Texas,97
+NEW YORK,Tioga,Tioga,187
+PENNSYLVANIA,Tioga,Tioga,187
+TEXAS,Titus,Titus,21
+MONTANA,Toole,Toole,18
+GEORGIA,Towns,Towns,16
+KANSAS,Trego,Trego,7
+KENTUCKY,Trigg,Trigg,25
+SOUTH DAKOTA,Tripp,Tripp,11
+GEORGIA,Troup,Troup,117
+OKLAHOMA,Tulsa,Tulsa,37
+WEST VIRGINIA,Tyler,Tyler,62
+TEXAS,Tyler,Tyler,62
+WYOMING,Uinta,Uinta,23
+IOWA,Union,Union,649
+OREGON,Union,Union,649
+NEW JERSEY,Union,Union,649
+NEW MEXICO,Union,Union,649
+KENTUCKY,Union,Union,649
+INDIANA,Union,Union,649
+OHIO,Union,Union,649
+NORTH CAROLINA,Union,Union,649
+SOUTH CAROLINA,Union,Union,649
+ILLINOIS,Union,Union,649
+SOUTH DAKOTA,Union,Union,649
+FLORIDA,Union,Union,649
+MISSISSIPPI,Union,Union,649
+TENNESSEE,Union,Union,649
+LOUISIANA,Union,Union,649
+GEORGIA,Union,Union,649
+PENNSYLVANIA,Union,Union,649
+ARKANSAS,Union,Union,649
+WYOMING,Unita,,
+GEORGIA,Upson,Upson,29
+TEXAS,Upton,Upton,5
+NORTH CAROLINA,Vance,Vance,39
+WISCONSIN,Vilas,Vilas,15
+MAINE,Waldo,Waldo,130
+NORTH DAKOTA,Walsh,Walsh,28
+OREGON,Wasco,Wasco,47
+MICHIGAN,Wayne,Wayne,761
+ILLINOIS,Wayne,Wayne,761
+NEW YORK,Wayne,Wayne,761
+OHIO,Wayne,Wayne,761
+INDIANA,Wayne,Wayne,761
+UTAH,Wayne,Wayne,761
+MISSISSIPPI,Wayne,Wayne,761
+NEBRASKA,Wayne,Wayne,761
+KENTUCKY,Wayne,Wayne,761
+TENNESSEE,Wayne,Wayne,761
+IOWA,Wayne,Wayne,761
+WEST VIRGINIA,Wayne,Wayne,761
+MISSOURI,Wayne,Wayne,761
+NORTH CAROLINA,Wayne,Wayne,761
+GEORGIA,Wayne,Wayne,761
+PENNSYLVANIA,Wayne,Wayne,761
+UTAH,Weber,Weber,702
+NORTH DAKOTA,Wells,Wells,47
+INDIANA,Wells,Wells,47
+GEORGIA,White,White,187
+TENNESSEE,White,White,187
+ARKANSAS,White,White,187
+ILLINOIS,White,White,187
+INDIANA,White,White,187
+KENTUCKY,Wolfe,Wolfe,34
+OKLAHOMA,Woods,Woods,16
+MISSOURI,Worth,Worth,67
+GEORGIA,Worth,Worth,67
+IOWA,Worth,Worth,67
+VIRGINIA,Wythe,Wythe,74
+NORTH CAROLINA,Yancy,,
+NEW YORK,Yates,Yates,42
+PUERTO RICO,Yauco,Yauco,34
+MISSISSIPPI,Yazoo,Yazoo,55
+TEXAS,Young,Young,18
+LOUISIANA,Acadia,Acadia,39
+PUERTO RICO,Aguada,Aguada,8
+MINNESOTA,Aitkin,Aitkin,38
+NEW YORK,Albany,Albany,123
+WYOMING,Albany,Albany,123
+MICHIGAN,Alcona,Alcona,23
+MISSISSIPPI,Alcorn,Alcorn,28
+MICHIGAN,Alpena,Alpena,17
+CALIFORNIA,Alpine,Alpine,14
+CALIFORNIA,Amador,Amador,34
+VIRGINIA,Amelia,Amelia,27
+PUERTO RICO,Anasco,Anasco,13
+MISSOURI,Andrew,Andrew,26
+MICHIGAN,Antrim,Antrim,20
+ARIZONA,Apache,Apache,95
+TEXAS,Archer,Archer,13
+MICHIGAN,Arenac,Arenac,26
+PUERTO RICO,Arroyo,Arroyo,5
+NEBRASKA,Arthur,Arthur,8
+ARKANSAS,Ashley,Ashley,51
+WASHINGTON,Asotin,Asotin,15
+OHIO,Athens,Athens,100
+MISSISSIPPI,Attala,Attala,35
+SOUTH DAKOTA,Aurora,Aurora,5
+TEXAS,Austin,Austin,24
+TEXAS,Bailey,Bailey,9
+NEBRASKA,Banner,Banner,1
+MICHIGAN,Baraga,Baraga,23
+KANSAS,Barber,Barber,17
+NORTH DAKOTA,Barnes,Barnes,24
+KENTUCKY,Barren,Barren,40
+WISCONSIN,Barron,Barron,33
+GEORGIA,Barrow,Barrow,12
+KANSAS,Barton,Barton,54
+MISSOURI,Barton,Barton,54
+GEORGIA,Bartow,Bartow,71
+ARKANSAS,Baxter,Baxter,50
+TEXAS,Baylor,Baylor,9
+SOUTH DAKOTA,Beadle,Beadle,16
+OKLAHOMA,Beaver,Beaver,133
+PENNSYLVANIA,Beaver,Beaver,133
+UTAH,Beaver,Beaver,133
+MINNESOTA,Becker,Becker,27
+NORTH DAKOTA,Benson,Benson,24
+INDIANA,Benton,Benton,321
+TENNESSEE,Benton,Benton,321
+OREGON,Benton,Benton,321
+MISSOURI,Benton,Benton,321
+ARKANSAS,Benton,Benton,321
+WASHINGTON,Benton,Benton,321
+MISSISSIPPI,Benton,Benton,321
+MINNESOTA,Benton,Benton,321
+IOWA,Benton,Benton,321
+MICHIGAN,Benzie,Benzie,15
+NEW JERSEY,Bergen,Bergen,108
+NORTH CAROLINA,Bertie,Bertie,49
+ALASKA,Bethel,,
+NORTH CAROLINA,Bladen,Bladen,49
+NEBRASKA,Blaine,Blaine,73
+MONTANA,Blaine,Blaine,73
+IDAHO,Blaine,Blaine,73
+OKLAHOMA,Blaine,Blaine,73
+TEXAS,Blanco,Blanco,9
+TENNESSEE,Blount,Blount,282
+ALABAMA,Blount,Blount,282
+IDAHO,Bonner,Bonner,61
+TEXAS,Borden,Borden,3
+TEXAS,Bosque,Bosque,21
+NORTH DAKOTA,Bowman,Bowman,8
+MICHIGAN,Branch,Branch,28
+TEXAS,Brazos,Brazos,37
+IOWA,Bremer,Bremer,21
+WEST VIRGINIA,Brooke,Brooke,32
+GEORGIA,Brooks,Brooks,36
+TEXAS,Brooks,Brooks,36
+NEW YORK,Broome,Broome,91
+ILLINOIS,Bureau,Bureau,47
+TEXAS,Burnet,Burnet,24
+KANSAS,Butler,Butler,498
+IOWA,Butler,Butler,498
+PENNSYLVANIA,Butler,Butler,498
+MISSOURI,Butler,Butler,498
+NEBRASKA,Butler,Butler,498
+KENTUCKY,Butler,Butler,498
+ALABAMA,Butler,Butler,498
+OHIO,Butler,Butler,498
+WEST VIRGINIA,Cabell,Cabell,60
+PUERTO RICO,Caguas,Caguas,26
+GEORGIA,Camden,Camden,319
+NORTH CAROLINA,Camden,Camden,319
+NEW JERSEY,Camden,Camden,319
+MISSOURI,Camden,Camden,319
+TENNESSEE,Cannon,Cannon,39
+IDAHO,Canyon,Canyon,37
+UTAH,Carbon,Carbon,184
+PENNSYLVANIA,Carbon,Carbon,184
+WYOMING,Carbon,Carbon,184
+MONTANA,Carbon,Carbon,184
+TEXAS,Carson,Carson,17
+OKLAHOMA,Carter,Carter,198
+MONTANA,Carter,Carter,198
+KENTUCKY,Carter,Carter,198
+TENNESSEE,Carter,Carter,198
+MISSOURI,Carter,Carter,198
+MINNESOTA,Carver,Carver,27
+IDAHO,Cassia,Cassia,35
+TEXAS,Castro,Castro,15
+PUERTO RICO,Catano,Catano,7
+NEW MEXICO,Catron,Catron,46
+NEW YORK,Cayuga,Cayuga,117
+PENNSYLVANIA,Centre,Centre,145
+NEW MEXICO,Chaves,Chaves,39
+WASHINGTON,Chelan,Chelan,44
+NEBRASKA,Cherry,Cherry,27
+ARKANSAS,Chicot,Chicot,43
+NORTH CAROLINA,Chowan,Chowan,29
+PUERTO RICO,Ciales,Ciales,18
+NEW MEXICO,Cibola,Cibola,61
+FLORIDA,Citrus,Citrus,27
+ALABAMA,Clarke,Clarke,320
+IOWA,Clarke,Clarke,320
+MISSISSIPPI,Clarke,Clarke,320
+GEORGIA,Clarke,Clarke,320
+VIRGINIA,Clarke,Clarke,320
+GEORGIA,Clinch,Clinch,25
+GEORGIA,Coffee,Coffee,184
+TENNESSEE,Coffee,Coffee,184
+ALABAMA,Coffee,Coffee,184
+KANSAS,Coffey,Coffey,12
+NEBRASKA,Colfax,Colfax,59
+NEW MEXICO,Colfax,Colfax,59
+TEXAS,Collin,Collin,66
+CALIFORNIA,Colusa,Colusa,30
+TEXAS,Concho,Concho,10
+ARKANSAS,Conway,Conway,52
+MISSOURI,Cooper,Cooper,24
+MISSISSIPPI,Copiah,Copiah,36
+SOUTH DAKOTA,Corson,Corson,17
+TEXAS,Cottle,Cottle,13
+OKLAHOMA,Cotton,Cotton,9
+GEORGIA,Coweta,Coweta,78
+KANSAS,Cowley,Cowley,28
+NORTH CAROLINA,Craven,Craven,82
+TEXAS,Crosby,Crosby,15
+NEBRASKA,Cuming,Cuming,8
+COLORADO,Custer,Custer,117
+NEBRASKA,Custer,Custer,117
+IDAHO,Custer,Custer,117
+MONTANA,Custer,Custer,117
+SOUTH DAKOTA,Custer,Custer,117
+OKLAHOMA,Custer,Custer,117
+MINNESOTA,Dakota,Dakota,47
+NEBRASKA,Dakota,Dakota,47
+TEXAS,Dallam,Dallam,15
+TEXAS,Dallas,Dallas,234
+IOWA,Dallas,Dallas,234
+ALABAMA,Dallas,Dallas,234
+ARKANSAS,Dallas,Dallas,234
+MISSOURI,Dallas,Dallas,234
+NEBRASKA,Dawson,Dawson,67
+MONTANA,Dawson,Dawson,67
+TEXAS,Dawson,Dawson,67
+GEORGIA,Dawson,Dawson,67
+NEW MEXICO,DeBaca,DeBaca,12
+ILLINOIS,DeKalb,DeKalb,353
+MISSOURI,DeKalb,DeKalb,353
+GEORGIA,DeKalb,DeKalb,353
+TENNESSEE,DeKalb,DeKalb,353
+ALABAMA,DeKalb,DeKalb,353
+FLORIDA,DeSoto,DeSoto,59
+MISSISSIPPI,DeSoto,DeSoto,59
+TEXAS,DeWitt,DeWitt,27
+ALASKA,Denali,Denali,11
+TEXAS,Denton,Denton,54
+COLORADO,Denver,Denver,6
+NORTH DAKOTA,Dickey,Dickey,15
+SOUTH CAROLINA,Dillon,Dillon,47
+TEXAS,Dimmit,Dimmit,12
+NORTH DAKOTA,Divide,Divide,11
+TEXAS,Donley,Donley,9
+PUERTO RICO,Dorado,Dorado,11
+ILLINOIS,DuPage,DuPage,68
+INDIANA,Dubois,Dubois,28
+NORTH CAROLINA,Duplin,Duplin,59
+NORTH CAROLINA,Durham,Durham,64
+GEORGIA,Echols,Echols,11
+COLORADO,Elbert,Elbert,42
+GEORGIA,Elbert,Elbert,42
+ALABAMA,Elmore,Elmore,100
+IDAHO,Elmore,Elmore,100
+NORTH DAKOTA,Emmons,Emmons,12
+KENTUCKY,Estill,Estill,36
+ALABAMA,Etowah,Etowah,119
+NEVADA,Eureka,Eureka,24
+MONTANA,Fallon,Fallon,7
+GEORGIA,Fannin,Fannin,132
+TEXAS,Fannin,Fannin,132
+MONTANA,Fergus,Fergus,50
+KANSAS,Finney,Finney,16
+TEXAS,Fisher,Fisher,24
+WISCONSIN,Forest,Forest,73
+PENNSYLVANIA,Forest,Forest,73
+NORTH DAKOTA,Foster,Foster,10
+CALIFORNIA,Fresno,Fresno,159
+GEORGIA,Fulton,Fulton,533
+KENTUCKY,Fulton,Fulton,533
+ILLINOIS,Fulton,Fulton,533
+NEW YORK,Fulton,Fulton,533
+INDIANA,Fulton,Fulton,533
+ARKANSAS,Fulton,Fulton,533
+PENNSYLVANIA,Fulton,Fulton,533
+OHIO,Fulton,Fulton,533
+NEBRASKA,Furnas,Furnas,12
+TEXAS,Gaines,Gaines,8
+OHIO,Gallia,Gallia,92
+NEBRASKA,Garden,Garden,6
+OKLAHOMA,Garvin,Garvin,28
+NORTH CAROLINA,Gaston,Gaston,70
+OHIO,Geauga,Geauga,47
+ALABAMA,Geneva,Geneva,35
+MISSOURI,Gentry,Gentry,34
+MISSISSIPPI,George,George,24
+INDIANA,Gibson,Gibson,95
+TENNESSEE,Gibson,Gibson,95
+GEORGIA,Gilmer,Gilmer,77
+WEST VIRGINIA,Gilmer,Gilmer,77
+COLORADO,Gilpin,Gilpin,15
+FLORIDA,Glades,Glades,16
+TEXAS,Goliad,Goliad,16
+GEORGIA,Gordon,Gordon,35
+WYOMING,Goshen,Goshen,17
+NEBRASKA,Gosper,Gosper,3
+NORTH CAROLINA,Graham,Graham,70
+ARIZONA,Graham,Graham,70
+KANSAS,Graham,Graham,70
+KENTUCKY,Graves,Graves,41
+MISSOURI,Greene,Greene,708
+ALABAMA,Greene,Greene,708
+NORTH CAROLINA,Greene,Greene,708
+NEW YORK,Greene,Greene,708
+GEORGIA,Greene,Greene,708
+PENNSYLVANIA,Greene,Greene,708
+ARKANSAS,Greene,Greene,708
+VIRGINIA,Greene,Greene,708
+IOWA,Greene,Greene,708
+INDIANA,Greene,Greene,708
+OHIO,Greene,Greene,708
+MISSISSIPPI,Greene,Greene,708
+ILLINOIS,Greene,Greene,708
+TENNESSEE,Greene,Greene,708
+NORTH DAKOTA,Griggs,Griggs,10
+TEXAS,Grimes,Grimes,25
+ILLINOIS,Grundy,Grundy,115
+TENNESSEE,Grundy,Grundy,115
+IOWA,Grundy,Grundy,115
+MISSOURI,Grundy,Grundy,115
+PUERTO RICO,Gurabo,Gurabo,4
+SOUTH DAKOTA,Haakon,Haakon,16
+ALASKA,Haines,Haines,5
+SOUTH DAKOTA,Hamlin,Hamlin,11
+SOUTH DAKOTA,Hanson,Hanson,8
+FLORIDA,Hardee,Hardee,22
+SOUTH DAKOTA,Hardin,Hardin,219
+TENNESSEE,Hardin,Hardin,219
+ILLINOIS,Hardin,Hardin,219
+IOWA,Hardin,Hardin,219
+KENTUCKY,Hardin,Hardin,219
+TEXAS,Hardin,Hardin,219
+OHIO,Hardin,Hardin,219
+NEBRASKA,Harlan,Harlan,112
+KENTUCKY,Harlan,Harlan,112
+OKLAHOMA,Harmon,Harmon,12
+OREGON,Harney,Harney,32
+KANSAS,Harper,Harper,22
+OKLAHOMA,Harper,Harper,22
+TEXAS,Harris,Harris,189
+GEORGIA,Harris,Harris,189
+KANSAS,Harvey,Harvey,17
+HAWAII,Hawaii,Hawaii,166
+FLORIDA,Hendry,Hendry,12
+OHIO,Holmes,Holmes,126
+MISSISSIPPI,Holmes,Holmes,126
+FLORIDA,Holmes,Holmes,126
+NEBRASKA,Hooker,Hooker,5
+TEXAS,Howard,Howard,538
+NEBRASKA,Howard,Howard,538
+IOWA,Howard,Howard,538
+INDIANA,Howard,Howard,538
+ARKANSAS,Howard,Howard,538
+MISSOURI,Howard,Howard,538
+MARYLAND,Howard,Howard,538
+MISSOURI,Howell,Howell,45
+NEW JERSEY,Hudson,Hudson,25
+SOUTH DAKOTA,Hughes,Hughes,25
+OKLAHOMA,Hughes,Hughes,25
+LOUISIANA,Iberia,Iberia,70
+MICHIGAN,Ingham,Ingham,27
+MINNESOTA,Isanti,Isanti,29
+WASHINGTON,Island,Island,52
+MINNESOTA,Itasca,Itasca,54
+MARSHALL ISLANDS,Jaluit,,
+SOUTH CAROLINA,Jasper,Jasper,289
+MISSOURI,Jasper,Jasper,289
+IOWA,Jasper,Jasper,289
+ILLINOIS,Jasper,Jasper,289
+MISSISSIPPI,Jasper,Jasper,289
+INDIANA,Jasper,Jasper,289
+GEORGIA,Jasper,Jasper,289
+TEXAS,Jasper,Jasper,289
+PUERTO RICO,Jayuya,Jayuya,14
+IDAHO,Jerome,Jerome,13
+ILLINOIS,Jersey,Jersey,25
+KANSAS,Jewell,Jewell,14
+PUERTO RICO,Juncos,Juncos,6
+WISCONSIN,Juneau,Juneau,35
+ALASKA,Juneau,Juneau,35
+TEXAS,Karnes,Karnes,23
+KANSAS,Kearny,Kearny,4
+MISSISSIPPI,Kemper,Kemper,34
+TEXAS,Kenedy,Kenedy,8
+KENTUCKY,Kenton,Kenton,53
+IOWA,Keokuk,Keokuk,24
+NORTH DAKOTA,Kidder,Kidder,9
+TEXAS,Kimble,Kimble,10
+TEXAS,Kinney,Kinney,10
+WASHINGTON,Kitsap,Kitsap,123
+MICRONESIA,Kosrae,Kosrae,34
+FM,Kosrae,Kosrae,34
+ARIZONA,La Paz,La Paz,30
+NEVADA,Lander,Lander,29
+GEORGIA,Lanier,Lanier,4
+MICHIGAN,Lapeer,Lapeer,21
+CALIFORNIA,Lassen,Lassen,59
+KENTUCKY,Laurel,Laurel,44
+TEXAS,Lavaca,Lavaca,28
+PENNSYLVANIA,Lehigh,Lehigh,171
+NORTH CAROLINA,Lenoir,Lenoir,105
+KENTUCKY,Leslie,Leslie,34
+ARKANSAS,Lonoke,Lonoke,125
+OHIO,Lorain,Lorain,54
+TENNESSEE,Loudon,Loudon,56
+IOWA,Louisa,Louisa,72
+VIRGINIA,Louisa,Louisa,72
+TEXAS,Loving,Loving,1
+MICHIGAN,Macomb,Macomb,39
+CALIFORNIA,Madera,Madera,58
+PUERTO RICO,Manati,Manati,17
+AMERICAN SAMOA,Manu'a,Manu'a,29
+MISSOURI,Maries,Maries,24
+ARKANSAS,Marion,Marion,800
+ILLINOIS,Marion,Marion,800
+TENNESSEE,Marion,Marion,800
+WEST VIRGINIA,Marion,Marion,800
+FLORIDA,Marion,Marion,800
+ALABAMA,Marion,Marion,800
+OHIO,Marion,Marion,800
+KENTUCKY,Marion,Marion,800
+KANSAS,Marion,Marion,800
+MISSISSIPPI,Marion,Marion,800
+SOUTH CAROLINA,Marion,Marion,800
+IOWA,Marion,Marion,800
+MISSOURI,Marion,Marion,800
+TEXAS,Marion,Marion,800
+GEORGIA,Marion,Marion,800
+INDIANA,Marion,Marion,800
+OREGON,Marion,Marion,800
+INDIANA,Martin,Martin,116
+MINNESOTA,Martin,Martin,116
+TEXAS,Martin,Martin,116
+KENTUCKY,Martin,Martin,116
+NORTH CAROLINA,Martin,Martin,116
+FLORIDA,Martin,Martin,116
+ILLINOIS,Massac,Massac,16
+PUERTO RICO,Mauabo,,
+MONTANA,McCone,McCone,8
+SOUTH DAKOTA,McCook,McCook,8
+PENNSYLVANIA,McKean,McKean,106
+ILLINOIS,McLean,McLean,112
+KENTUCKY,McLean,McLean,112
+NORTH DAKOTA,McLean,McLean,112
+MINNESOTA,McLeod,McLeod,17
+TENNESSEE,McMinn,McMinn,91
+OHIO,Medina,Medina,66
+TEXAS,Medina,Medina,66
+MINNESOTA,Meeker,Meeker,21
+TEXAS,Menard,Menard,30
+ILLINOIS,Menard,Menard,30
+CALIFORNIA,Merced,Merced,43
+NEW JERSEY,Mercer,Mercer,426
+WEST VIRGINIA,Mercer,Mercer,426
+NORTH DAKOTA,Mercer,Mercer,426
+ILLINOIS,Mercer,Mercer,426
+KENTUCKY,Mercer,Mercer,426
+MISSOURI,Mercer,Mercer,426
+OHIO,Mercer,Mercer,426
+PENNSYLVANIA,Mercer,Mercer,426
+MISSOURI,Miller,Miller,80
+GEORGIA,Miller,Miller,80
+ARKANSAS,Miller,Miller,80
+ALABAMA,Mobile,Mobile,206
+COLORADO,Moffat,Moffat,22
+ARIZONA,Mohaue,,
+ARIZONA,Mohave,Mohave,65
+IOWA,Monona,Monona,13
+MISSOURI,Monroe,Monroe,897
+IOWA,Monroe,Monroe,897
+FLORIDA,Monroe,Monroe,897
+KENTUCKY,Monroe,Monroe,897
+TENNESSEE,Monroe,Monroe,897
+ILLINOIS,Monroe,Monroe,897
+GEORGIA,Monroe,Monroe,897
+INDIANA,Monroe,Monroe,897
+PENNSYLVANIA,Monroe,Monroe,897
+ALABAMA,Monroe,Monroe,897
+NEW YORK,Monroe,Monroe,897
+OHIO,Monroe,Monroe,897
+MISSISSIPPI,Monroe,Monroe,897
+MICHIGAN,Monroe,Monroe,897
+WEST VIRGINIA,Monroe,Monroe,897
+WISCONSIN,Monroe,Monroe,897
+ARKANSAS,Monroe,Monroe,897
+UTAH,Morgan,Morgan,437
+GEORGIA,Morgan,Morgan,437
+KENTUCKY,Morgan,Morgan,437
+COLORADO,Morgan,Morgan,437
+OHIO,Morgan,Morgan,437
+INDIANA,Morgan,Morgan,437
+ALABAMA,Morgan,Morgan,437
+ILLINOIS,Morgan,Morgan,437
+WEST VIRGINIA,Morgan,Morgan,437
+MISSOURI,Morgan,Morgan,437
+TENNESSEE,Morgan,Morgan,437
+KANSAS,Morris,Morris,169
+TEXAS,Morris,Morris,169
+NEW JERSEY,Morris,Morris,169
+OREGON,Morrow,Morrow,54
+OHIO,Morrow,Morrow,54
+NORTH DAKOTA,Morton,Morton,30
+KANSAS,Morton,Morton,30
+TEXAS,Motley,Motley,8
+GEORGIA,Murray,Murray,56
+OKLAHOMA,Murray,Murray,56
+MINNESOTA,Murray,Murray,56
+FLORIDA,Nassau,Nassau,178
+NEW YORK,Nassau,Nassau,178
+ARIZONA,Navajo,Navajo,98
+VIRGINIA,Nelson,Nelson,101
+NORTH DAKOTA,Nelson,Nelson,101
+KENTUCKY,Nelson,Nelson,101
+SOUTH DAKOTA,Nelson,Nelson,101
+NEBRASKA,Nemaha,Nemaha,30
+KANSAS,Nemaha,Nemaha,30
+KANSAS,Neosho,Neosho,15
+ARKANSAS,Nevada,Nevada,153
+CALIFORNIA,Nevada,Nevada,153
+MISSOURI,Newton,Newton,341
+GEORGIA,Newton,Newton,341
+ARKANSAS,Newton,Newton,341
+INDIANA,Newton,Newton,341
+MISSISSIPPI,Newton,Newton,341
+TEXAS,Newton,Newton,341
+MINNESOTA,Nobles,Nobles,17
+MINNESOTA,Norman,Norman,21
+KANSAS,Norton,Norton,13
+OKLAHOMA,Nowata,Nowata,14
+TEXAS,Nueces,Nueces,32
+MICHIGAN,Oceana,Oceana,17
+GEORGIA,Oconee,Oconee,238
+SOUTH CAROLINA,Oconee,Oconee,238
+WISCONSIN,Oconto,Oconto,35
+MICHIGAN,Ogemaw,Ogemaw,17
+KENTUCKY,Oldham,Oldham,48
+TEXAS,Oldham,Oldham,48
+NORTH DAKOTA,Oliver,Oliver,7
+WISCONSIN,Oneida,Oneida,223
+IDAHO,Oneida,Oneida,223
+NEW YORK,Oneida,Oneida,223
+NORTH CAROLINA,Onslow,Onslow,129
+VIRGINIA,Orange,Orange,810
+NEW YORK,Orange,Orange,810
+NORTH CAROLINA,Orange,Orange,810
+TEXAS,Orange,Orange,810
+FLORIDA,Orange,Orange,810
+VERMONT,Orange,Orange,810
+CALIFORNIA,Orange,Orange,810
+INDIANA,Orange,Orange,810
+MISSOURI,Oregon,Oregon,47
+MICHIGAN,Oscoda,Oscoda,8
+NEW YORK,Oswego,Oswego,158
+MICHIGAN,Otsego,Otsego,135
+NEW YORK,Otsego,Otsego,135
+MICHIGAN,Ottawa,Ottawa,132
+OHIO,Ottawa,Ottawa,132
+KANSAS,Ottawa,Ottawa,132
+OKLAHOMA,Ottawa,Ottawa,132
+KENTUCKY,Owsley,Owsley,25
+OHIO,Owyhee,Owyhee,53
+IDAHO,Owyhee,Owyhee,53
+MAINE,Oxford,Oxford,126
+TEXAS,Panola,Panola,59
+MISSISSIPPI,Panola,Panola,59
+TEXAS,Parker,Parker,47
+TEXAS,Parmer,Parmer,10
+KANSAS,Pawnee,Pawnee,55
+NEBRASKA,Pawnee,Pawnee,55
+OKLAHOMA,Pawnee,Pawnee,55
+NORTH CAROLINA,Pender,Pender,55
+ILLINOIS,Peoria,Peoria,55
+NORTH CAROLINA,Person,Person,36
+MISSOURI,Pettis,Pettis,18
+NEBRASKA,Phelps,Phelps,42
+MISSOURI,Phelps,Phelps,42
+NEBRASKA,Pierce,Pierce,211
+WASHINGTON,Pierce,Pierce,211
+NORTH DAKOTA,Pierce,Pierce,211
+WISCONSIN,Pierce,Pierce,211
+GEORGIA,Pierce,Pierce,211
+COLORADO,Pitkin,Pitkin,16
+CALIFORNIA,Placer,Placer,104
+WYOMING,Platte,Platte,87
+NEBRASKA,Platte,Platte,87
+MISSOURI,Platte,Platte,87
+CALIFORNIA,Plumas,Plumas,65
+INDIANA,Porter,Porter,65
+PENNSYLVANIA,Potter,Potter,106
+SOUTH DAKOTA,Potter,Potter,106
+TEXAS,Potter,Potter,106
+MONTANA,Powell,Powell,39
+KENTUCKY,Powell,Powell,39
+OHIO,Preble,Preble,41
+COLORADO,Pueblo,Pueblo,40
+WEST VIRGINIA,Putnam,Putnam,534
+OHIO,Putnam,Putnam,534
+MISSOURI,Putnam,Putnam,534
+TENNESSEE,Putnam,Putnam,534
+ILLINOIS,Putnam,Putnam,534
+GEORGIA,Putnam,Putnam,534
+FLORIDA,Putnam,Putnam,534
+INDIANA,Putnam,Putnam,534
+NEW YORK,Putnam,Putnam,534
+NEW YORK,Queens,Queens,73
+WISCONSIN,Racine,Racine,37
+NORTH DAKOTA,Ramsey,Ramsey,51
+MINNESOTA,Ramsey,Ramsey,51
+MISSISSIPPI,Rankin,Rankin,98
+NORTH DAKOTA,Ransom,Ransom,11
+TEXAS,Reagan,Reagan,8
+TEXAS,Reeves,Reeves,26
+PUERTO RICO,Rincon,Rincon,4
+MISSOURI,Ripley,Ripley,80
+INDIANA,Ripley,Ripley,80
+OKLAHOMA,Rogers,Rogers,28
+MINNESOTA,Roseau,Roseau,21
+LOUISIANA,Sabine,Sabine,56
+TEXAS,Sabine,Sabine,56
+NORTHERN MARIANA,Saipan,Saipan,14
+NORTHERN MARIANA ISLANDS,Saipan,Saipan,14
+NEBRASKA,Saline,Saline,138
+KANSAS,Saline,Saline,138
+MISSOURI,Saline,Saline,138
+ILLINOIS,Saline,Saline,138
+ARKANSAS,Saline,Saline,138
+SOUTH CAROLINA,Saluda,Saluda,27
+WISCONSIN,Sawyer,Sawyer,23
+GEORGIA,Schley,Schley,6
+OHIO,Scioto,Scioto,82
+TEXAS,Scurry,Scurry,15
+ARKANSAS,Searcy,Searcy,48
+OHIO,Seneca,Seneca,98
+NEW YORK,Seneca,Seneca,98
+UTAH,Sevier,Sevier,139
+ARKANSAS,Sevier,Sevier,139
+TENNESSEE,Sevier,Sevier,139
+NEBRASKA,Seward,Seward,18
+KANSAS,Seward,Seward,18
+CALIFORNIA,Shasta,Shasta,107
+TENNESSEE,Shelby,Shelby,515
+KENTUCKY,Shelby,Shelby,515
+INDIANA,Shelby,Shelby,515
+MISSOURI,Shelby,Shelby,515
+ILLINOIS,Shelby,Shelby,515
+IOWA,Shelby,Shelby,515
+TEXAS,Shelby,Shelby,515
+ALABAMA,Shelby,Shelby,515
+OHIO,Shelby,Shelby,515
+MINNESOTA,Sibley,Sibley,11
+CALIFORNIA,Sierra,Sierra,76
+NEW MEXICO,Sierra,Sierra,76
+WASHINGTON,Skagit,Skagit,66
+PENNSYLVANIA,Snyder,Snyder,46
+CALIFORNIA,Solano,Solano,67
+CALIFORNIA,Sonoma,Sonoma,171
+NORTH CAROLINA,Stanly,Stanly,50
+INDIANA,Starke,Starke,19
+NORTH DAKOTA,Steele,Steele,29
+MINNESOTA,Steele,Steele,29
+NORTH CAROLINA,Stokes,Stokes,48
+NEVADA,Storey,Storey,9
+UTAH,Summit,Summit,144
+COLORADO,Summit,Summit,144
+OHIO,Summit,Summit,144
+TENNESSEE,Sumner,Sumner,135
+KANSAS,Sumner,Sumner,135
+SOUTH CAROLINA,Sumter,Sumter,259
+FLORIDA,Sumter,Sumter,259
+ALABAMA,Sumter,Sumter,259
+GEORGIA,Sumter,Sumter,259
+DELAWARE,Sussex,Sussex,746
+VIRGINIA,Sussex,Sussex,746
+NEW JERSEY,Sussex,Sussex,746
+CALIFORNIA,Sutter,Sutter,49
+TEXAS,Sutton,Sutton,1
+MARYLAND,Talbot,Talbot,196
+GEORGIA,Talbot,Talbot,196
+WEST VIRGINIA,Taylor,Taylor,172
+FLORIDA,Taylor,Taylor,172
+GEORGIA,Taylor,Taylor,172
+WISCONSIN,Taylor,Taylor,172
+KENTUCKY,Taylor,Taylor,172
+TEXAS,Taylor,Taylor,172
+IOWA,Taylor,Taylor,172
+CALIFORNIA,Tehama,Tehama,90
+COLORADO,Teller,Teller,18
+LOUISIANA,Tensas,Tensas,60
+NEBRASKA,Thayer,Thayer,11
+GEORGIA,Thomas,Thomas,46
+NEBRASKA,Thomas,Thomas,46
+KANSAS,Thomas,Thomas,46
+NORTHERN MARIANA ISLANDS,Tinian,Tinian,2
+NORTHERN MARIANA,Tinian,Tinian,2
+MISSISSIPPI,Tippah,Tippah,24
+TENNESSEE,Tipton,Tipton,69
+INDIANA,Tipton,Tipton,69
+UTAH,Tooele,Tooele,46
+GEORGIA,Toombs,Toombs,17
+NORTH DAKOTA,Towner,Towner,12
+NORTH DAKOTA,Traill,Traill,19
+TEXAS,Travis,Travis,73
+WEST VIRGINIA,Tucker,Tucker,33
+CALIFORNIA,Tulare,Tulare,178
+MISSISSIPPI,Tunica,Tunica,33
+GEORGIA,Turner,Turner,24
+SOUTH DAKOTA,Turner,Turner,24
+GEORGIA,Twiggs,Twiggs,16
+UTAH,Uintah,Uintah,28
+NEW YORK,Ulster,Ulster,208
+TENNESSEE,Unicoi,Unicoi,28
+UTAH,Unitah,,
+TEXAS,Upshur,Upshur,110
+WEST VIRGINIA,Upshur,Upshur,110
+PUERTO RICO,Utuado,Utuado,18
+TEXAS,Uvalde,Uvalde,25
+IDAHO,Valley,Valley,64
+NEBRASKA,Valley,Valley,64
+MONTANA,Valley,Valley,64
+WISCONSIN,Vernon,Vernon,157
+LOUISIANA,Vernon,Vernon,157
+MISSOURI,Vernon,Vernon,157
+OHIO,Vinton,Vinton,34
+ILLINOIS,Wabash,Wabash,42
+INDIANA,Wabash,Wabash,42
+MINNESOTA,Wadena,Wadena,12
+TEXAS,Walker,Walker,232
+GEORGIA,Walker,Walker,232
+ALABAMA,Walker,Walker,232
+TEXAS,Waller,Waller,20
+GEORGIA,Walton,Walton,92
+FLORIDA,Walton,Walton,92
+OHIO,Warren,Warren,712
+ILLINOIS,Warren,Warren,712
+KENTUCKY,Warren,Warren,712
+VIRGINIA,Warren,Warren,712
+MISSOURI,Warren,Warren,712
+TENNESSEE,Warren,Warren,712
+IOWA,Warren,Warren,712
+MISSISSIPPI,Warren,Warren,712
+GEORGIA,Warren,Warren,712
+NORTH CAROLINA,Warren,Warren,712
+NEW YORK,Warren,Warren,712
+INDIANA,Warren,Warren,712
+NEW JERSEY,Warren,Warren,712
+PENNSYLVANIA,Warren,Warren,712
+MINNESOTA,Waseca,Waseca,13
+NEVADA,Washoe,Washoe,62
+WYOMING,Weston,Weston,15
+WEST VIRGINIA,Wetzel,Wetzel,67
+MONTANA,Wibaux,Wibaux,5
+ALABAMA,Wilcox,Wilcox,71
+GEORGIA,Wilcox,Wilcox,71
+NORTH CAROLINA,Wilkes,Wilkes,103
+GEORGIA,Wilkes,Wilkes,103
+MINNESOTA,Wilkin,Wilkin,14
+TENNESSEE,Wilson,Wilson,220
+TEXAS,Wilson,Wilson,220
+NORTH CAROLINA,Wilson,Wilson,220
+KANSAS,Wilson,Wilson,220
+MINNESOTA,Winona,Winona,35
+MINNESOTA,Wright,Wright,83
+MISSOURI,Wright,Wright,83
+IOWA,Wright,Wright,83
+NORTH CAROLINA,Yadkin,Yadkin,41
+WASHINGTON,Yakima,Yakima,71
+NORTH CAROLINA,Yancey,Yancey,42
+TEXAS,Yoakum,Yoakum,6
+TEXAS,Zapata,Zapata,21
+TEXAS,Zavala,Zavala,6
+VERMONT,Addison,Addison,64
+FLORIDA,Alachua,Alachua,89
+CALIFORNIA,Alameda,Alameda,84
+COLORADO,Alamosa,Alamosa,10
+OKLAHOMA,Alfalfa,Alfalfa,18
+MICHIGAN,Allegan,Allegan,68
+VIRGINIA,Amherst,Amherst,70
+TEXAS,Andrews,Andrews,7
+GEORGIA,Appling,Appling,26
+TEXAS,Aransas,Aransas,10
+PUERTO RICO,Arecibo,Arecibo,56
+OHIO,Ashland,Ashland,62
+WISCONSIN,Ashland,Ashland,62
+MISSOURI,Audrain,Audrain,23
+IOWA,Audubon,Audubon,14
+VIRGINIA,Augusta,Augusta,101
+ALABAMA,Autauga,Autauga,49
+GEORGIA,Baldwin,Baldwin,127
+ALABAMA,Baldwin,Baldwin,127
+KENTUCKY,Ballard,Ballard,18
+SOUTH CAROLINA,Bamberg,Bamberg,20
+TEXAS,Bandera,Bandera,11
+IDAHO,Bannock,Bannock,21
+WEST VIRGINIA,Barbour,Barbour,106
+ALABAMA,Barbour,Barbour,106
+TEXAS,Bastrop,Bastrop,29
+PUERTO RICO,Bayamon,Bayamon,38
+OKLAHOMA,Beckham,Beckham,15
+PENNSYLVANIA,Bedford,Bedford,253
+VIRGINIA,Bedford,Bedford,253
+TENNESSEE,Bedford,Bedford,253
+NEW HAMPSHIRE,Belknap,Belknap,47
+OHIO,Belmont,Belmont,96
+MINNESOTA,Beltram,,
+IDAHO,Benewah,Benewah,34
+SOUTH DAKOTA,Bennett,Bennett,11
+MICHIGAN,Berrien,Berrien,85
+GEORGIA,Berrien,Berrien,85
+IDAHO,Bingham,Bingham,44
+TENNESSEE,Bledsoe,Bledsoe,33
+MISSISSIPPI,Bolivar,Bolivar,68
+LOUISIANA,Bossier,Bossier,98
+COLORADO,Boulder,Boulder,84
+KANSAS,Bourbon,Bourbon,44
+KENTUCKY,Bourbon,Bourbon,44
+KENTUCKY,Bracken,Bracken,26
+ARKANSAS,Bradley,Bradley,140
+TENNESSEE,Bradley,Bradley,140
+WEST VIRGINIA,Braxton,Braxton,67
+FLORIDA,Brevard,Brevard,68
+TEXAS,Briscoe,Briscoe,5
+MASSACHUSETTS,Bristol,Bristol,193
+RHODE ISLAND,Bristol,Bristol,193
+FLORIDA,Broward,Broward,143
+SOUTH DAKOTA,Buffalo,Buffalo,48
+NEBRASKA,Buffalo,Buffalo,48
+WISCONSIN,Buffalo,Buffalo,48
+KENTUCKY,Bullitt,Bullitt,32
+GEORGIA,Bulloch,Bulloch,80
+ALABAMA,Bullock,Bullock,43
+WISCONSIN,Burnett,Burnett,23
+MICHIGAN,Calhoun,Calhoun,388
+SOUTH CAROLINA,Calhoun,Calhoun,388
+ARKANSAS,Calhoun,Calhoun,388
+MISSISSIPPI,Calhoun,Calhoun,388
+GEORGIA,Calhoun,Calhoun,388
+ILLINOIS,Calhoun,Calhoun,388
+TEXAS,Calhoun,Calhoun,388
+ALABAMA,Calhoun,Calhoun,388
+FLORIDA,Calhoun,Calhoun,388
+IOWA,Calhoun,Calhoun,388
+WEST VIRGINIA,Calhoun,Calhoun,388
+WISCONSIN,Calumet,Calumet,32
+MARYLAND,Calvert,Calvert,388
+PENNSYLVANIA,Cambria,Cambria,202
+TEXAS,Cameron,Cameron,114
+PENNSYLVANIA,Cameron,Cameron,114
+LOUISIANA,Cameron,Cameron,114
+GEORGIA,Candler,Candler,9
+IDAHO,Caribou,Caribou,23
+MINNESOTA,Carlton,Carlton,30
+OHIO,Carroll,Carroll,1184
+ILLINOIS,Carroll,Carroll,1184
+GEORGIA,Carroll,Carroll,1184
+MISSOURI,Carroll,Carroll,1184
+MARYLAND,Carroll,Carroll,1184
+MISSISSIPPI,Carroll,Carroll,1184
+IOWA,Carroll,Carroll,1184
+NEW HAMPSHIRE,Carroll,Carroll,1184
+TENNESSEE,Carroll,Carroll,1184
+KENTUCKY,Carroll,Carroll,1184
+VIRGINIA,Carroll,Carroll,1184
+INDIANA,Carroll,Carroll,1184
+ARKANSAS,Carroll,Carroll,1184
+MONTANA,Cascade,Cascade,61
+NORTH CAROLINA,Caswell,Caswell,43
+NORTH CAROLINA,Catawba,Catawba,37
+GEORGIA,Catoosa,Catoosa,50
+COLORADO,Chaffee,Chaffee,21
+MARYLAND,Charles,Charles,314
+GEORGIA,Chatham,Chatham,181
+NORTH CAROLINA,Chatham,Chatham,181
+NEW YORK,Chemung,Chemung,35
+SOUTH CAROLINA,Chester,Chester,344
+TENNESSEE,Chester,Chester,344
+PENNSYLVANIA,Chester,Chester,344
+ALABAMA,Chilton,Chilton,43
+MINNESOTA,Chisago,Chisago,19
+OKLAHOMA,Choctaw,Choctaw,124
+ALABAMA,Choctaw,Choctaw,124
+MISSISSIPPI,Choctaw,Choctaw,124
+MONTANA,Choteau,,
+WASHINGTON,Clallam,Clallam,51
+PENNSYLVANIA,Clarion,Clarion,122
+OREGON,Clatsop,Clatsop,47
+IOWA,Clayton,Clayton,242
+GEORGIA,Clayton,Clayton,242
+INDIANA,Clinton,Clinton,364
+PENNSYLVANIA,Clinton,Clinton,364
+ILLINOIS,Clinton,Clinton,364
+MISSOURI,Clinton,Clinton,364
+OHIO,Clinton,Clinton,364
+IOWA,Clinton,Clinton,364
+MICHIGAN,Clinton,Clinton,364
+NEW YORK,Clinton,Clinton,364
+KENTUCKY,Clinton,Clinton,364
+MISSISSIPPI,Coahoma,Coahoma,58
+ARIZONA,Cochise,Cochise,102
+TEXAS,Cochran,Cochran,7
+ALABAMA,Colbert,Colbert,93
+TEXAS,Coleman,Coleman,28
+FLORIDA,Collier,Collier,47
+PUERTO RICO,Comerio,Comerio,8
+ALABAMA,Conecuh,Conecuh,52
+COLORADO,Conejos,Conejos,26
+PUERTO RICO,Corozal,Corozal,6
+PUERTO RICO,Corozaz,,
+TEXAS,Coryell,Coryell,42
+WASHINGTON,Cowlitz,Cowlitz,43
+COLORADO,Crowley,Crowley,6
+PUERTO RICO,Culebra,Culebra,2
+ALABAMA,Cullman,Cullman,87
+UTAH,Daggett,Daggett,5
+MONTANA,Daniels,Daniels,13
+PENNSYLVANIA,Dauphin,Dauphin,197
+INDIANA,Daviess,Daviess,92
+MISSOURI,Daviess,Daviess,92
+KENTUCKY,Daviess,Daviess,92
+SOUTH DAKOTA,Davison,Davison,9
+NEW MEXICO,De Baca,,
+TENNESSEE,De Kalb,De Kalb,25
+ILLINOIS,De Kalb,De Kalb,25
+MISSOURI,De Kalb,De Kalb,25
+GEORGIA,De Kalb,De Kalb,25
+ALABAMA,De Kalb,De Kalb,25
+INDIANA,De Kalb,De Kalb,25
+FLORIDA,De Soto,De Soto,46
+MISSISSIPPI,De Soto,De Soto,46
+LOUISIANA,De Soto,De Soto,46
+ILLINOIS,De Witt,De Witt,22
+TEXAS,De Witt,De Witt,22
+IOWA,Decatur,Decatur,137
+KANSAS,Decatur,Decatur,137
+TENNESSEE,Decatur,Decatur,137
+INDIANA,Decatur,Decatur,137
+GEORGIA,Decatur,Decatur,137
+COLORADO,Delores,,
+TEXAS,Dickens,Dickens,12
+TENNESSEE,Dickson,Dickson,61
+COLORADO,Dolores,Dolores,5
+WISCONSIN,Douglas,Douglas,577
+GEORGIA,Douglas,Douglas,577
+OREGON,Douglas,Douglas,577
+WASHINGTON,Douglas,Douglas,577
+MINNESOTA,Douglas,Douglas,577
+NEVADA,Douglas,Douglas,577
+ILLINOIS,Douglas,Douglas,577
+KANSAS,Douglas,Douglas,577
+SOUTH DAKOTA,Douglas,Douglas,577
+NEBRASKA,Douglas,Douglas,577
+MISSOURI,Douglas,Douglas,577
+COLORADO,Douglas,Douglas,577
+ILLINOIS,Du Page,,
+IOWA,Dubuque,Dubuque,54
+MISSOURI,Dunklin,Dunklin,67
+AMERICAN SAMOA,Eastern,Eastern,65
+SOUTH DAKOTA,Edmunds,Edmunds,12
+KANSAS,Edwards,Edwards,25
+TEXAS,Edwards,Edwards,25
+ILLINOIS,Edwards,Edwards,25
+TEXAS,El Paso,El Paso,91
+COLORADO,El Paso,El Paso,91
+INDIANA,Elkhart,Elkhart,26
+KENTUCKY,Elliott,Elliott,35
+GEORGIA,Emanuel,Emanuel,26
+VIRGINIA,Fairfax,Fairfax,380
+PUERTO RICO,Fajardo,Fajardo,18
+TEXAS,Fayette,Fayette,1025
+TENNESSEE,Fayette,Fayette,1025
+IOWA,Fayette,Fayette,1025
+ALABAMA,Fayette,Fayette,1025
+OHIO,Fayette,Fayette,1025
+GEORGIA,Fayette,Fayette,1025
+WEST VIRGINIA,Fayette,Fayette,1025
+INDIANA,Fayette,Fayette,1025
+ILLINOIS,Fayette,Fayette,1025
+PENNSYLVANIA,Fayette,Fayette,1025
+KENTUCKY,Fayette,Fayette,1025
+FLORIDA,Flagler,Flagler,23
+KENTUCKY,Fleming,Fleming,35
+PUERTO RICO,Florida,Florida,1
+MISSISSIPPI,Forrest,Forrest,56
+GEORGIA,Forsyth,Forsyth,170
+NORTH CAROLINA,Forsyth,Forsyth,170
+WYOMING,Fremont,Fremont,123
+COLORADO,Fremont,Fremont,123
+IOWA,Fremont,Fremont,123
+IDAHO,Fremont,Fremont,123
+FLORIDA,Gadsden,Gadsden,33
+ARKANSAS,Garland,Garland,36
+KENTUCKY,Garrard,Garrard,23
+MARYLAND,Garrett,Garrett,72
+MICHIGAN,Genesee,Genesee,97
+NEW YORK,Genesee,Genesee,97
+OREGON,Gilliam,Gilliam,14
+MONTANA,Glacier,Glacier,31
+MICHIGAN,Gladwin,Gladwin,22
+MICHIGAN,Gogebic,Gogebic,38
+MINNESOTA,Goodhue,Goodhue,36
+IDAHO,Gooding,Gooding,7
+NEW HAMPSHIRE,Grafton,Grafton,116
+MONTANA,Granite,Granite,25
+MICHIGAN,Gratiot,Gratiot,28
+VIRGINIA,Grayson,Grayson,172
+TEXAS,Grayson,Grayson,172
+KENTUCKY,Grayson,Grayson,172
+KANSAS,Greeley,Greeley,15
+NEBRASKA,Greeley,Greeley,15
+KENTUCKY,Greenup,Greenup,43
+SOUTH DAKOTA,Gregory,Gregory,11
+MISSISSIPPI,Grenada,Grenada,27
+PUERTO RICO,Guanica,Guanica,13
+PUERTO RICO,Guayama,Guayama,23
+IOWA,Guthrie,Guthrie,17
+GEORGIA,Gwinett,,
+NORTH CAROLINA,Halifax,Halifax,155
+VIRGINIA,Halifax,Halifax,155
+TENNESSEE,Hamblen,Hamblen,142
+MASSACHUSETTS,Hampden,Hampden,129
+VIRGINIA,Hampton,Hampton,40
+SOUTH CAROLINA,Hampton,Hampton,40
+GEORGIA,Hancock,Hancock,388
+OHIO,Hancock,Hancock,388
+MAINE,Hancock,Hancock,388
+TENNESSEE,Hancock,Hancock,388
+ILLINOIS,Hancock,Hancock,388
+IOWA,Hancock,Hancock,388
+KENTUCKY,Hancock,Hancock,388
+MISSISSIPPI,Hancock,Hancock,388
+INDIANA,Hancock,Hancock,388
+WEST VIRGINIA,Hancock,Hancock,388
+VIRGINIA,Hanover,Hanover,113
+NEW MEXICO,Harding,Harding,25
+SOUTH DAKOTA,Harding,Harding,25
+MARYLAND,Harford,Harford,594
+NORTH CAROLINA,Harnett,Harnett,39
+TEXAS,Hartley,Hartley,9
+OKLAHOMA,Haskell,Haskell,36
+TEXAS,Haskell,Haskell,36
+KANSAS,Haskell,Haskell,36
+PUERTO RICO,Hatillo,Hatillo,12
+TENNESSEE,Hawkins,Hawkins,88
+NORTH CAROLINA,Haywood,Haywood,91
+TENNESSEE,Haywood,Haywood,91
+VIRGINIA,Henrico,Henrico,117
+KENTUCKY,Hickman,Hickman,66
+TENNESSEE,Hickman,Hickman,66
+MISSOURI,Hickory,Hickory,15
+NEW MEXICO,Hidalgo,Hidalgo,130
+TEXAS,Hidalgo,Hidalgo,130
+OHIO,Hocking,Hocking,45
+TEXAS,Hockley,Hockley,15
+KENTUCKY,Hopkins,Hopkins,102
+TEXAS,Hopkins,Hopkins,102
+MINNESOTA,Houston,Houston,305
+TEXAS,Houston,Houston,305
+TENNESSEE,Houston,Houston,305
+ALABAMA,Houston,Houston,305
+GEORGIA,Houston,Houston,305
+MINNESOTA,Hubbard,Hubbard,20
+PUERTO RICO,Humacao,Humacao,19
+PENNSYLVANIA,Indiana,Indiana,184
+NORTH CAROLINA,Iredell,Iredell,92
+PUERTO RICO,Isabela,Isabela,3
+SOUTH DAKOTA,Jackson,Jackson,984
+COLORADO,Jackson,Jackson,984
+TENNESSEE,Jackson,Jackson,984
+GEORGIA,Jackson,Jackson,984
+WISCONSIN,Jackson,Jackson,984
+OHIO,Jackson,Jackson,984
+OREGON,Jackson,Jackson,984
+KENTUCKY,Jackson,Jackson,984
+ILLINOIS,Jackson,Jackson,984
+ARKANSAS,Jackson,Jackson,984
+MISSISSIPPI,Jackson,Jackson,984
+MISSOURI,Jackson,Jackson,984
+NORTH CAROLINA,Jackson,Jackson,984
+TEXAS,Jackson,Jackson,984
+FLORIDA,Jackson,Jackson,984
+IOWA,Jackson,Jackson,984
+OKLAHOMA,Jackson,Jackson,984
+ALABAMA,Jackson,Jackson,984
+MICHIGAN,Jackson,Jackson,984
+LOUISIANA,Jackson,Jackson,984
+KANSAS,Jackson,Jackson,984
+INDIANA,Jackson,Jackson,984
+WEST VIRGINIA,Jackson,Jackson,984
+MINNESOTA,Jackson,Jackson,984
+GEORGIA,Jenkins,Jenkins,13
+SOUTH DAKOTA,Jerauld,Jerauld,5
+IOWA,Johnson,Johnson,353
+KENTUCKY,Johnson,Johnson,353
+TEXAS,Johnson,Johnson,353
+INDIANA,Johnson,Johnson,353
+KANSAS,Johnson,Johnson,353
+NEBRASKA,Johnson,Johnson,353
+MISSOURI,Johnson,Johnson,353
+ARKANSAS,Johnson,Johnson,353
+ILLINOIS,Johnson,Johnson,353
+GEORGIA,Johnson,Johnson,353
+WYOMING,Johnson,Johnson,353
+TENNESSEE,Johnson,Johnson,353
+PENNSYLVANIA,Juniata,Juniata,61
+MINNESOTA,Kanabec,Kanabec,11
+WEST VIRGINIA,Kanawha,Kanawha,208
+TEXAS,Kaufman,Kaufman,42
+NEBRASKA,Kearney,Kearney,9
+ILLINOIS,Kendall,Kendall,35
+TEXAS,Kendall,Kendall,35
+WISCONSIN,Kenosha,Kenosha,31
+SOUTH CAROLINA,Kershaw,Kershaw,96
+NEBRASKA,Kimball,Kimball,8
+KANSAS,Kingman,Kingman,25
+MINNESOTA,Kittson,Kittson,20
+OREGON,Klamath,Klamath,68
+TEXAS,Kleberg,Kleberg,7
+IOWA,Kossuth,Kossuth,24
+NORTH DAKOTA,LaMoure,LaMoure,16
+LOUISIANA,LaSalle,,
+KANSAS,Labette,Labette,22
+MISSOURI,Laclede,Laclede,54
+WYOMING,Laramie,Laramie,26
+COLORADO,Larimer,Larimer,67
+OKLAHOMA,Latimer,Latimer,21
+SOUTH CAROLINA,Laurens,Laurens,84
+GEORGIA,Laurens,Laurens,84
+PENNSYLVANIA,Lebanon,Lebanon,102
+MISSISSIPPI,Leflore,Leflore,42
+MICHIGAN,Lenawee,Lenawee,50
+KENTUCKY,Letcher,Letcher,67
+GEORGIA,Liberty,Liberty,184
+MONTANA,Liberty,Liberty,184
+TEXAS,Liberty,Liberty,184
+FLORIDA,Liberty,Liberty,184
+OHIO,Licking,Licking,74
+MISSOURI,Lincoln,Lincoln,854
+NEW MEXICO,Lincoln,Lincoln,854
+OKLAHOMA,Lincoln,Lincoln,854
+WEST VIRGINIA,Lincoln,Lincoln,854
+MINNESOTA,Lincoln,Lincoln,854
+NORTH CAROLINA,Lincoln,Lincoln,854
+KANSAS,Lincoln,Lincoln,854
+LOUISIANA,Lincoln,Lincoln,854
+WASHINGTON,Lincoln,Lincoln,854
+SOUTH DAKOTA,Lincoln,Lincoln,854
+NEBRASKA,Lincoln,Lincoln,854
+MAINE,Lincoln,Lincoln,854
+OREGON,Lincoln,Lincoln,854
+ARKANSAS,Lincoln,Lincoln,854
+MONTANA,Lincoln,Lincoln,854
+COLORADO,Lincoln,Lincoln,854
+IDAHO,Lincoln,Lincoln,854
+MISSISSIPPI,Lincoln,Lincoln,854
+TENNESSEE,Lincoln,Lincoln,854
+KENTUCKY,Lincoln,Lincoln,854
+WISCONSIN,Lincoln,Lincoln,854
+NEVADA,Lincoln,Lincoln,854
+WYOMING,Lincoln,Lincoln,854
+GEORGIA,Lincoln,Lincoln,854
+VIRGINIA,Loudoun,Loudoun,121
+ALABAMA,Lowndes,Lowndes,165
+MISSISSIPPI,Lowndes,Lowndes,165
+GEORGIA,Lowndes,Lowndes,165
+TEXAS,Lubbock,Lubbock,30
+GEORGIA,Lumpkin,Lumpkin,10
+PENNSYLVANIA,Luzerne,Luzerne,269
+NEBRASKA,Madison,Madison,1058
+TEXAS,Madison,Madison,1058
+VIRGINIA,Madison,Madison,1058
+IOWA,Madison,Madison,1058
+FLORIDA,Madison,Madison,1058
+NORTH CAROLINA,Madison,Madison,1058
+MISSISSIPPI,Madison,Madison,1058
+INDIANA,Madison,Madison,1058
+ILLINOIS,Madison,Madison,1058
+NEW YORK,Madison,Madison,1058
+TENNESSEE,Madison,Madison,1058
+ALABAMA,Madison,Madison,1058
+OHIO,Madison,Madison,1058
+MISSOURI,Madison,Madison,1058
+LOUISIANA,Madison,Madison,1058
+IDAHO,Madison,Madison,1058
+KENTUCKY,Madison,Madison,1058
+ARKANSAS,Madison,Madison,1058
+GEORGIA,Madison,Madison,1058
+MONTANA,Madison,Madison,1058
+IOWA,Mahaska,Mahaska,30
+OREGON,Malheur,Malheur,49
+FLORIDA,Manatee,Manatee,57
+ALABAMA,Marengo,Marengo,57
+PUERTO RICO,Maricao,Maricao,20
+VIRGINIA,Mathews,Mathews,39
+PUERTO RICO,Maunabo,Maunabo,5
+OKLAHOMA,McClain,McClain,15
+ILLINOIS,McHenry,McHenry,93
+NORTH DAKOTA,McHenry,McHenry,93
+TENNESSEE,McNairy,McNairy,38
+MONTANA,Meagher,Meagher,34
+MICHIGAN,Mecosta,Mecosta,20
+KENTUCKY,Menifee,Menifee,16
+NEBRASKA,Merrick,Merrick,13
+MICHIGAN,Midland,Midland,42
+TEXAS,Midland,Midland,42
+PENNSYLVANIA,Mifflin,Mifflin,65
+UTAH,Millard,Millard,38
+COLORADO,Mineral,Mineral,104
+NEVADA,Mineral,Mineral,104
+MONTANA,Mineral,Mineral,104
+WEST VIRGINIA,Mineral,Mineral,104
+PENNSYLVANIA,Montour,Montour,21
+PUERTO RICO,Morovis,Morovis,3
+NEBRASKA,Morrill,Morrill,21
+PUERTO RICO,Naguabo,Naguabo,25
+WYOMING,Natrona,Natrona,35
+TEXAS,Navarro,Navarro,46
+MISSISSIPPI,Neshoba,Neshoba,43
+MICHIGAN,Newaygo,Newaygo,35
+RHODE ISLAND,Newport,Newport,32
+NEW YORK,Niagara,Niagara,93
+MISSOURI,Nodaway,Nodaway,36
+MASSACHUSETTS,Norfolk,Norfolk,165
+VIRGINIA,Norfolk,Norfolk,165
+MISSISSIPPI,Noxubee,Noxubee,23
+IOWA,O'Brien,O'Brien,18
+MICHIGAN,Oakland,Oakland,90
+MINNESOTA,Olmsted,Olmsted,27
+NEW YORK,Ontario,Ontario,88
+VERMONT,Orleans,Orleans,166
+LOUISIANA,Orleans,Orleans,166
+NEW YORK,Orleans,Orleans,166
+KANSAS,Osborne,Osborne,12
+FLORIDA,Osceola,Osceola,42
+MICHIGAN,Osceola,Osceola,42
+IOWA,Osceola,Osceola,42
+TENNESSEE,Overton,Overton,53
+WISCONSIN,Ozaukee,Ozaukee,22
+WASHINGTON,Pacific,Pacific,56
+NORTH CAROLINA,Pamlico,Pamlico,36
+NEW JERSEY,Passaic,Passaic,55
+VIRGINIA,Patrick,Patrick,26
+IDAHO,Payette,Payette,16
+PALAU,Peleliu,Peleliu,1
+NORTH DAKOTA,Pembina,Pembina,25
+SOUTH DAKOTA,Perkins,Perkins,24
+NEBRASKA,Perkins,Perkins,24
+GEORGIA,Pickens,Pickens,176
+ALABAMA,Pickens,Pickens,176
+SOUTH CAROLINA,Pickens,Pickens,176
+TENNESSEE,Pickett,Pickett,29
+MICRONESIA,Pohnpei,Pohnpei,273
+FM,Pohnpei,Pohnpei,273
+MONTANA,Pondera,Pondera,27
+WISCONSIN,Portage,Portage,98
+OHIO,Portage,Portage,98
+MONTANA,Prairie,Prairie,47
+ARKANSAS,Prairie,Prairie,47
+WEST VIRGINIA,Preston,Preston,111
+COLORADO,Prowers,Prowers,19
+INDIANA,Pulaski,Pulaski,365
+GEORGIA,Pulaski,Pulaski,365
+VIRGINIA,Pulaski,Pulaski,365
+ARKANSAS,Pulaski,Pulaski,365
+ILLINOIS,Pulaski,Pulaski,365
+MISSOURI,Pulaski,Pulaski,365
+KENTUCKY,Pulaski,Pulaski,365
+GEORGIA,Quitman,Quitman,29
+MISSISSIPPI,Quitman,Quitman,29
+WEST VIRGINIA,Raleigh,Raleigh,145
+TEXAS,Randall,Randall,8
+LOUISIANA,Rapides,Rapides,106
+MONTANA,Ravalli,Ravalli,45
+KANSAS,Rawlins,Rawlins,11
+MINNESOTA,Redwood,Redwood,18
+TEXAS,Refugio,Refugio,12
+WEST VIRGINIA,Ritchie,Ritchie,57
+VIRGINIA,Roanoke,Roanoke,236
+SOUTH DAKOTA,Roberts,Roberts,31
+TEXAS,Roberts,Roberts,31
+NORTH CAROLINA,Robeson,Robeson,64
+NORTH DAKOTA,Rolette,Rolette,12
+MONTANA,Rosebud,Rosebud,28
+TEXAS,Runnels,Runnels,15
+KENTUCKY,Russell,Russell,169
+ALABAMA,Russell,Russell,169
+VIRGINIA,Russell,Russell,169
+KANSAS,Russell,Russell,169
+VERMONT,Rutland,Rutland,83
+MICHIGAN,Saginaw,Saginaw,49
+PUERTO RICO,Salinas,Salinas,24
+NORTH CAROLINA,Sampson,Sampson,70
+SOUTH DAKOTA,Sanborn,Sanborn,7
+MONTANA,Sanders,Sanders,30
+MICHIGAN,Sanilac,Sanilac,44
+UTAH,Sanpete,Sanpete,27
+NORTH DAKOTA,Sargent,Sargent,17
+GEORGIA,Screven,Screven,33
+SOUTH DAKOTA,Shannon,Shannon,45
+MISSOURI,Shannon,Shannon,45
+MISSISSIPPI,Sharkey,Sharkey,36
+WISCONSIN,Shawano,Shawano,42
+KANSAS,Shawnee,Shawnee,25
+OREGON,Sherman,Sherman,34
+TEXAS,Sherman,Sherman,34
+NEBRASKA,Sherman,Sherman,34
+KANSAS,Sherman,Sherman,34
+MISSISSIPPI,Simpson,Simpson,52
+KENTUCKY,Simpson,Simpson,52
+NEW MEXICO,Socorro,Socorro,60
+KENTUCKY,Spencer,Spencer,59
+INDIANA,Spencer,Spencer,59
+WASHINGTON,Spokane,Spokane,95
+SOUTH DAKOTA,Stanley,Stanley,9
+KANSAS,Stanton,Stanton,8
+NEBRASKA,Stanton,Stanton,8
+MINNESOTA,Stearns,Stearns,44
+NEW YORK,Steuben,Steuben,180
+INDIANA,Steuben,Steuben,180
+WASHINGTON,Stevens,Stevens,67
+MINNESOTA,Stevens,Stevens,67
+KANSAS,Stevens,Stevens,67
+GEORGIA,Stewart,Stewart,45
+TENNESSEE,Stewart,Stewart,45
+VIRGINIA,Suffolk,Suffolk,347
+NEW YORK,Suffolk,Suffolk,347
+MASSACHUSETTS,Suffolk,Suffolk,347
+WEST VIRGINIA,Summers,Summers,53
+TEXAS,Swisher,Swisher,9
+TEXAS,Tarrant,Tarrant,72
+GEORGIA,Telfair,Telfair,13
+GEORGIA,Terrell,Terrell,26
+TEXAS,Terrell,Terrell,26
+OKLAHOMA,Tillman,Tillman,9
+CONNECTICUT,Tolland,Tolland,50
+KENTUCKY,Trimble,Trimble,7
+CALIFORNIA,Trinity,Trinity,80
+TEXAS,Trinity,Trinity,80
+MICHIGAN,Tuscola,Tuscola,36
+NORTH CAROLINA,Tyrrell,Tyrrell,20
+PUERTO RICO,Uieques,,
+PENNSYLVANIA,Venango,Venango,125
+CALIFORNIA,Ventura,Ventura,80
+PUERTO RICO,Vieques,Vieques,10
+FLORIDA,Volusia,Volusia,79
+MINNESOTA,Wabasha,Wabasha,23
+OKLAHOMA,Wagoner,Wagoner,22
+FLORIDA,Wakulla,Wakulla,34
+KANSAS,Wallace,Wallace,4
+OREGON,Wallowa,Wallowa,26
+IOWA,Wapello,Wapello,24
+INDIANA,Warrick,Warrick,44
+UTAH,Wasatch,Wasatch,18
+OKLAHOMA,Washita,Washita,18
+NORTH CAROLINA,Watauga,Watauga,59
+WISCONSIN,Waupaca,Waupaca,36
+TENNESSEE,Weakley,Weakley,38
+MISSOURI,Webster,Webster,250
+NEBRASKA,Webster,Webster,250
+KENTUCKY,Webster,Webster,250
+IOWA,Webster,Webster,250
+LOUISIANA,Webster,Webster,250
+WEST VIRGINIA,Webster,Webster,250
+GEORGIA,Webster,Webster,250
+MISSISSIPPI,Webster,Webster,250
+AMERICAN SAMOA,Western,Western,44
+MICHIGAN,Wexford,Wexford,22
+TEXAS,Wharton,Wharton,34
+WASHINGTON,Whatcom,Whatcom,87
+OREGON,Wheeler,Wheeler,46
+GEORGIA,Wheeler,Wheeler,46
+NEBRASKA,Wheeler,Wheeler,46
+TEXAS,Wheeler,Wheeler,46
+INDIANA,Whitley,Whitley,68
+KENTUCKY,Whitley,Whitley,68
+WASHINGTON,Whitman,Whitman,92
+KANSAS,Wichita,Wichita,18
+TEXAS,Wichita,Wichita,18
+TEXAS,Willacy,Willacy,13
+CONNECTICUT,Windham,Windham,148
+VERMONT,Windham,Windham,148
+VERMONT,Windsor,Windsor,100
+TEXAS,Winkler,Winkler,6
+MISSISSIPPI,Winston,Winston,70
+ALABAMA,Winston,Winston,70
+KANSAS,Woodson,Woodson,11
+OHIO,Wyandot,Wyandot,24
+WEST VIRGINIA,Wyoming,Wyoming,216
+NEW YORK,Wyoming,Wyoming,216
+PENNSYLVANIA,Wyoming,Wyoming,216
+PUERTO RICO,Yabucoa,Yabucoa,7
+ALASKA,Yakutat,Yakutat,2
+OREGON,Yamhill,Yamhill,35
+SOUTH DAKOTA,Yankton,Yankton,18
+ARIZONA,Yavapai,Yavapai,167
+SOUTH DAKOTA,Ziebach,Ziebach,10
+VIRGINIA,Accomack,Accomack,114
+PUERTO RICO,Adjuntas,Adjuntas,19
+PUERTO RICO,Aibonito,Aibonito,8
+NORTH CAROLINA,Alamance,Alamance,98
+MARYLAND,Allegany,Allegany,196
+NEW YORK,Allegany,Allegany,196
+KANSAS,Anderson,Anderson,343
+TENNESSEE,Anderson,Anderson,343
+INDIANA,Anderson,Anderson,343
+SOUTH CAROLINA,Anderson,Anderson,343
+KENTUCKY,Anderson,Anderson,343
+TEXAS,Anderson,Anderson,343
+TEXAS,Angelina,Angelina,46
+NEBRASKA,Antelope,Antelope,8
+COLORADO,Arapahoe,Arapahoe,16
+ARKANSAS,Arkansas,Arkansas,45
+TEXAS,Atascosa,Atascosa,26
+MISSOURI,Atchison,Atchison,48
+KANSAS,Atchison,Atchison,48
+GEORGIA,Atkinson,Atkinson,9
+NEW JERSEY,Atlantic,Atlantic,105
+OHIO,Auglaize,Auglaize,30
+SOUTH CAROLINA,Barnwell,Barnwell,22
+WISCONSIN,Bayfield,Bayfield,32
+NORTH CAROLINA,Beaufort,Beaufort,257
+SOUTH CAROLINA,Beaufort,Beaufort,257
+MINNESOTA,Beltrami,Beltrami,40
+GEORGIA,Ben Hill,Ben Hill,7
+SOUTH CAROLINA,Berkeley,Berkeley,221
+WEST VIRGINIA,Berkeley,Berkeley,221
+WYOMING,Big Horn,Big Horn,42
+MONTANA,Big Horn,Big Horn,42
+NORTH DAKOTA,Billings,Billings,7
+GEORGIA,Bleckley,Bleckley,13
+IDAHO,Boundary,Boundary,23
+PENNSYLVANIA,Bradford,Bradford,168
+FLORIDA,Bradford,Bradford,168
+GEORGIA,Brantley,Brantley,21
+TEXAS,Brazoria,Brazoria,60
+TEXAS,Brewster,Brewster,64
+VIRGINIA,Buchanan,Buchanan,122
+MISSOURI,Buchanan,Buchanan,122
+IOWA,Buchanan,Buchanan,122
+NORTH CAROLINA,Buncombe,Buncombe,123
+NORTH DAKOTA,Burleigh,Burleigh,20
+TEXAS,Burleson,Burleson,21
+NORTH CAROLINA,Cabarrus,Cabarrus,37
+NORTH CAROLINA,Caldwell,Caldwell,198
+KENTUCKY,Caldwell,Caldwell,198
+TEXAS,Caldwell,Caldwell,198
+LOUISIANA,Caldwell,Caldwell,198
+MISSOURI,Caldwell,Caldwell,198
+TEXAS,Callahan,Callahan,14
+MISSOURI,Callaway,Callaway,44
+KENTUCKY,Calloway,Calloway,31
+VIRGINIA,Campbell,Campbell,208
+TENNESSEE,Campbell,Campbell,208
+SOUTH DAKOTA,Campbell,Campbell,208
+KENTUCKY,Campbell,Campbell,208
+WYOMING,Campbell,Campbell,208
+OKLAHOMA,Canadian,Canadian,14
+NEW JERSEY,Cape May,Cape May,87
+KENTUCKY,Carlisle,Carlisle,11
+PUERTO RICO,Carolina,Carolina,21
+VIRGINIA,Caroline,Caroline,238
+MARYLAND,Caroline,Caroline,238
+NORTH CAROLINA,Carteret,Carteret,103
+NORTH DAKOTA,Cavalier,Cavalier,23
+TEXAS,Chambers,Chambers,80
+ALABAMA,Chambers,Chambers,80
+MISSOURI,Chariton,Chariton,38
+GEORGIA,Charlton,Charlton,23
+TENNESSEE,Cheatham,Cheatham,34
+NEW YORK,Chenango,Chenango,94
+TEXAS,Cherokee,Cherokee,513
+ALABAMA,Cherokee,Cherokee,513
+OKLAHOMA,Cherokee,Cherokee,513
+SOUTH CAROLINA,Cherokee,Cherokee,513
+NORTH CAROLINA,Cherokee,Cherokee,513
+IOWA,Cherokee,Cherokee,513
+GEORGIA,Cherokee,Cherokee,513
+KANSAS,Cherokee,Cherokee,513
+NEW HAMPSHIRE,Cheshire,Cheshire,85
+NEBRASKA,Cheyenne,Cheyenne,25
+KANSAS,Cheyenne,Cheyenne,25
+COLORADO,Cheyenne,Cheyenne,25
+MICHIGAN,Chippewa,Chippewa,102
+MINNESOTA,Chippewa,Chippewa,102
+WISCONSIN,Chippewa,Chippewa,102
+MONTANA,Chouteau,Chouteau,29
+OKLAHOMA,Cimarron,Cimarron,13
+ALABAMA,Cleburne,Cleburne,73
+ARKANSAS,Cleburne,Cleburne,73
+OHIO,Clermont,Clermont,100
+ARIZONA,Coconino,Coconino,127
+SOUTH CAROLINA,Colleton,Colleton,68
+TEXAS,Colorado,Colorado,31
+GEORGIA,Colquitt,Colquitt,25
+PENNSYLVANIA,Columbia,Columbia,478
+WASHINGTON,Columbia,Columbia,478
+OREGON,Columbia,Columbia,478
+ARKANSAS,Columbia,Columbia,478
+WISCONSIN,Columbia,Columbia,478
+FLORIDA,Columbia,Columbia,478
+GEORGIA,Columbia,Columbia,478
+NEW YORK,Columbia,Columbia,478
+GEORGIA,Columbus,Columbus,102
+NORTH CAROLINA,Columbus,Columbus,102
+OKLAHOMA,Comanche,Comanche,63
+KANSAS,Comanche,Comanche,63
+TEXAS,Comanche,Comanche,63
+WYOMING,Converse,Converse,22
+NEW YORK,Cortland,Cortland,53
+COLORADO,Costilla,Costilla,17
+KANSAS,Crawford,Crawford,435
+MICHIGAN,Crawford,Crawford,435
+WISCONSIN,Crawford,Crawford,435
+ILLINOIS,Crawford,Crawford,435
+INDIANA,Crawford,Crawford,435
+PENNSYLVANIA,Crawford,Crawford,435
+MISSOURI,Crawford,Crawford,435
+ARKANSAS,Crawford,Crawford,435
+GEORGIA,Crawford,Crawford,435
+OHIO,Crawford,Crawford,435
+IOWA,Crawford,Crawford,435
+ALABAMA,Crenshaw,Crenshaw,40
+TENNESSEE,Crockett,Crockett,36
+TEXAS,Crockett,Crockett,36
+VIRGINIA,Culpeper,Culpeper,76
+OHIO,Cuyahoga,Cuyahoga,125
+TENNESSEE,Davidson,Davidson,228
+NORTH CAROLINA,Davidson,Davidson,228
+INDIANA,Dearborn,Dearborn,37
+OHIO,Defiance,Defiance,19
+OKLAHOMA,Delaware,Delaware,443
+PENNSYLVANIA,Delaware,Delaware,443
+IOWA,Delaware,Delaware,443
+NEW YORK,Delaware,Delaware,443
+INDIANA,Delaware,Delaware,443
+OHIO,Delaware,Delaware,443
+NEW MEXICO,Dona Ana,Dona Ana,66
+KANSAS,Doniphan,Doniphan,18
+UTAH,Duchesne,Duchesne,23
+NEW YORK,Dutchess,Dutchess,149
+TEXAS,Eastland,Eastland,27
+KENTUCKY,Edmonson,Edmonson,35
+ALABAMA,Escambia,Escambia,128
+FLORIDA,Escambia,Escambia,128
+ARKANSAS,Faulkner,Faulkner,48
+VIRGINIA,Fauquier,Fauquier,117
+TENNESSEE,Fentress,Fentress,40
+MINNESOTA,Fillmore,Fillmore,54
+NEBRASKA,Fillmore,Fillmore,54
+MONTANA,Flathead,Flathead,77
+SOUTH CAROLINA,Florence,Florence,198
+WISCONSIN,Florence,Florence,198
+VIRGINIA,Fluvanna,Fluvanna,31
+INDIANA,Fountain,Fountain,31
+MAINE,Franklin,Franklin,1254
+GEORGIA,Franklin,Franklin,1254
+PENNSYLVANIA,Franklin,Franklin,1254
+OHIO,Franklin,Franklin,1254
+NORTH CAROLINA,Franklin,Franklin,1254
+IOWA,Franklin,Franklin,1254
+KANSAS,Franklin,Franklin,1254
+KENTUCKY,Franklin,Franklin,1254
+MISSOURI,Franklin,Franklin,1254
+ILLINOIS,Franklin,Franklin,1254
+VIRGINIA,Franklin,Franklin,1254
+FLORIDA,Franklin,Franklin,1254
+INDIANA,Franklin,Franklin,1254
+NEBRASKA,Franklin,Franklin,1254
+NEW YORK,Franklin,Franklin,1254
+MISSISSIPPI,Franklin,Franklin,1254
+TENNESSEE,Franklin,Franklin,1254
+TEXAS,Franklin,Franklin,1254
+MASSACHUSETTS,Franklin,Franklin,1254
+ALABAMA,Franklin,Franklin,1254
+ARKANSAS,Franklin,Franklin,1254
+LOUISIANA,Franklin,Franklin,1254
+WASHINGTON,Franklin,Franklin,1254
+VERMONT,Franklin,Franklin,1254
+IDAHO,Franklin,Franklin,1254
+MARYLAND,Fredrick,,
+MINNESOTA,Freeborn,Freeborn,32
+NEBRASKA,Frontier,Frontier,8
+KENTUCKY,Gallatin,Gallatin,128
+ILLINOIS,Gallatin,Gallatin,128
+MONTANA,Gallatin,Gallatin,128
+UTAH,Gardield,,
+UTAH,Garfield,Garfield,101
+COLORADO,Garfield,Garfield,101
+WASHINGTON,Garfield,Garfield,101
+OKLAHOMA,Garfield,Garfield,101
+NEBRASKA,Garfield,Garfield,101
+MONTANA,Garfield,Garfield,101
+GEORGIA,Glascock,Glascock,10
+TEXAS,Gonzales,Gonzales,37
+TENNESSEE,Grainger,Grainger,50
+ARIZONA,Greenlee,Greenlee,26
+PUERTO RICO,Guaynabo,Guaynabo,21
+OHIO,Guernsey,Guernsey,79
+NORTH CAROLINA,Guilford,Guilford,142
+COLORADO,Gunnison,Gunnison,34
+GEORGIA,Gwinnett,Gwinnett,232
+TEXAS,Hamilton,Hamilton,754
+TENNESSEE,Hamilton,Hamilton,754
+NEW YORK,Hamilton,Hamilton,754
+NEBRASKA,Hamilton,Hamilton,754
+ILLINOIS,Hamilton,Hamilton,754
+INDIANA,Hamilton,Hamilton,754
+OHIO,Hamilton,Hamilton,754
+IOWA,Hamilton,Hamilton,754
+KANSAS,Hamilton,Hamilton,754
+FLORIDA,Hamilton,Hamilton,754
+TEXAS,Hansford,Hansford,9
+GEORGIA,Haralson,Haralson,18
+TEXAS,Hardeman,Hardeman,45
+TENNESSEE,Hardeman,Hardeman,45
+OHIO,Harrison,Harrison,357
+TEXAS,Harrison,Harrison,357
+INDIANA,Harrison,Harrison,357
+KENTUCKY,Harrison,Harrison,357
+IOWA,Harrison,Harrison,357
+MISSISSIPPI,Harrison,Harrison,357
+WEST VIRGINIA,Harrison,Harrison,357
+MISSOURI,Harrison,Harrison,357
+CONNECTICUT,Hartford,Hartford,124
+TEXAS,Hemphill,Hemphill,6
+MINNESOTA,Hennepin,Hennepin,72
+NEW YORK,Herkimer,Herkimer,108
+FLORIDA,Hernando,Hernando,35
+NORTH CAROLINA,Hertford,Hertford,40
+VIRGINIA,Highland,Highland,74
+OHIO,Highland,Highland,74
+COLORADO,Hinsdale,Hinsdale,3
+KANSAS,Hodgeman,Hodgeman,6
+HAWAII,Honolulu,Honolulu,96
+MICHIGAN,Houghton,Houghton,74
+TEXAS,Hudspeth,Hudspeth,21
+COLORADO,Huerfano,Huerfano,25
+CALIFORNIA,Humboldt,Humboldt,180
+IOWA,Humboldt,Humboldt,180
+NEVADA,Humboldt,Humboldt,180
+CALIFORNIA,Imperial,Imperial,71
+ARIZONA,Imperial,Imperial,71
+ILLINOIS,Iroquois,Iroquois,48
+MICHIGAN,Isabella,Isabella,27
+MISSISSIPPI,Itawamba,Itawamba,28
+INDIANA,Jennings,Jennings,21
+TEXAS,Jim Hogg,Jim Hogg,9
+OKLAHOMA,Johnston,Johnston,98
+NORTH CAROLINA,Johnston,Johnston,98
+MICHIGAN,Kalkaska,Kalkaska,23
+ILLINOIS,Kankakee,Kankakee,57
+MAINE,Kennebec,Kennebec,107
+WISCONSIN,Kewaunee,Kewaunee,33
+MICHIGAN,Keweenaw,Keweenaw,28
+WASHINGTON,Kittitas,Kittitas,42
+IDAHO,Kootenai,Kootenai,59
+NORTH DAKOTA,La Moure,,
+COLORADO,La Plata,La Plata,31
+INDIANA,La Porte,La Porte,61
+ILLINOIS,La Salle,La Salle,103
+LOUISIANA,La Salle,La Salle,103
+TEXAS,La Salle,La Salle,103
+INDIANA,Lagrange,Lagrange,43
+VERMONT,Lamoille,Lamoille,33
+TEXAS,Lampasas,Lampasas,15
+WISCONSIN,Langlade,Langlade,28
+OHIO,Lawrence,Lawrence,580
+MISSOURI,Lawrence,Lawrence,580
+SOUTH DAKOTA,Lawrence,Lawrence,580
+MISSISSIPPI,Lawrence,Lawrence,580
+ALABAMA,Lawrence,Lawrence,580
+KENTUCKY,Lawrence,Lawrence,580
+INDIANA,Lawrence,Lawrence,580
+PENNSYLVANIA,Lawrence,Lawrence,580
+ILLINOIS,Lawrence,Lawrence,580
+TENNESSEE,Lawrence,Lawrence,580
+ARKANSAS,Lawrence,Lawrence,580
+OKLAHOMA,Le Flore,Le Flore,82
+MINNESOTA,Le Sueur,Le Sueur,20
+MICHIGAN,Leelanau,Leelanau,30
+TEXAS,Lipscomb,Lipscomb,11
+TEXAS,Live Oak,Live Oak,22
+PUERTO RICO,Luquillo,Luquillo,13
+PENNSYLVANIA,Lycoming,Lycoming,121
+MICHIGAN,Mackinac,Mackinac,35
+ILLINOIS,Macoupin,Macoupin,50
+KENTUCKY,Magoffin,Magoffin,58
+MINNESOTA,Mahnomen,Mahnomen,7
+OHIO,Mahoning,Mahoning,105
+VIRGINIA,Manassas,,
+MICHIGAN,Manistee,Manistee,30
+CANADA-U.S.,Manitoba,,
+WISCONSIN,Marathon,Marathon,63
+ARIZONA,Maricopa,Maricopa,742
+CALIFORNIA,Mariposa,Mariposa,38
+SOUTH CAROLINA,Marlboro,Marlboro,40
+ILLINOIS,Marshall,Marshall,460
+MISSISSIPPI,Marshall,Marshall,460
+SOUTH DAKOTA,Marshall,Marshall,460
+WEST VIRGINIA,Marshall,Marshall,460
+ALABAMA,Marshall,Marshall,460
+OKLAHOMA,Marshall,Marshall,460
+KANSAS,Marshall,Marshall,460
+MINNESOTA,Marshall,Marshall,460
+IOWA,Marshall,Marshall,460
+KENTUCKY,Marshall,Marshall,460
+INDIANA,Marshall,Marshall,460
+TENNESSEE,Marshall,Marshall,460
+TEXAS,Maverick,Maverick,13
+PUERTO RICO,Mayaguez,Mayaguez,34
+KENTUCKY,McCreary,McCreary,32
+MISSOURI,McDonald,McDonald,59
+NORTH CAROLINA,McDowell,McDowell,148
+WEST VIRGINIA,McDowell,McDowell,148
+GEORGIA,McDuffie,McDuffie,18
+GEORGIA,McIntosh,McIntosh,56
+OKLAHOMA,McIntosh,McIntosh,56
+NORTH DAKOTA,McIntosh,McIntosh,56
+NORTH DAKOTA,McKenzie,McKenzie,22
+NEW MEXICO,McKinley,McKinley,83
+TEXAS,McLennan,McLennan,64
+TEXAS,McMullen,McMullen,5
+SOUTH DAKOTA,Mellette,Mellette,7
+KENTUCKY,Metcalfe,Metcalfe,21
+IDAHO,Minidoka,Minidoka,14
+MONTANA,Missoula,Missoula,76
+GEORGIA,Mitchell,Mitchell,102
+NORTH CAROLINA,Mitchell,Mitchell,102
+KANSAS,Mitchell,Mitchell,102
+TEXAS,Mitchell,Mitchell,102
+IOWA,Mitchell,Mitchell,102
+MISSOURI,Moniteau,Moniteau,16
+NEW JERSEY,Monmouth,Monmouth,232
+TEXAS,Montague,Montague,27
+MICHIGAN,Montcalm,Montcalm,30
+CALIFORNIA,Monterey,Monterey,81
+COLORADO,Montrose,Montrose,27
+MINNESOTA,Morrison,Morrison,29
+ILLINOIS,Moultrie,Moultrie,18
+GEORGIA,Muscogee,Muscogee,190
+MICHIGAN,Muskegon,Muskegon,30
+OKLAHOMA,Muskogee,Muskogee,31
+VIRGINIA,New Kent,New Kent,28
+NEW YORK,New York,New York,8
+SOUTH CAROLINA,Newberry,Newberry,43
+KENTUCKY,Nicholas,Nicholas,87
+WEST VIRGINIA,Nicholas,Nicholas,87
+MINNESOTA,Nicollet,Nicollet,16
+WYOMING,Niobrara,Niobrara,9
+VIRGINIA,Nottoway,Nottoway,17
+NEBRASKA,Nuckolls,Nuckolls,15
+FLORIDA,Okaloosa,Okaloosa,42
+WASHINGTON,Okanogan,Okanogan,55
+OKLAHOMA,Okfuskee,Okfuskee,22
+OKLAHOMA,Oklahoma,Oklahoma,34
+OKLAHOMA,Okmulgee,Okmulgee,29
+NEW YORK,Onondaga,Onondaga,183
+PUERTO RICO,Orocouis,,
+PUERTO RICO,Orocovis,Orocovis,5
+LOUISIANA,Ouachita,Ouachita,181
+ARKANSAS,Ouachita,Ouachita,181
+PUERTO RICO,Patillas,Patillas,6
+OHIO,Paulding,Paulding,202
+GEORGIA,Paulding,Paulding,202
+MISSOURI,Pemiscot,Pemiscot,75
+PUERTO RICO,Penuelas,Penuelas,13
+NEVADA,Pershing,Pershing,29
+COLORADO,Phillips,Phillips,109
+KANSAS,Phillips,Phillips,109
+MONTANA,Phillips,Phillips,109
+ARKANSAS,Phillips,Phillips,109
+OHIO,Pickaway,Pickaway,47
+FLORIDA,Pinellas,Pinellas,73
+IOWA,Plymouth,Plymouth,310
+MASSACHUSETTS,Plymouth,Plymouth,310
+ARKANSAS,Poinsett,Poinsett,58
+OKLAHOMA,Pontotoc,Pontotoc,78
+MISSISSIPPI,Pontotoc,Pontotoc,78
+VIRGINIA,Powhatan,Powhatan,30
+MISSISSIPPI,Prentiss,Prentiss,25
+TEXAS,Presidio,Presidio,26
+NORTH CAROLINA,Randolph,Randolph,403
+ARKANSAS,Randolph,Randolph,403
+WEST VIRGINIA,Randolph,Randolph,403
+MISSOURI,Randolph,Randolph,403
+ALABAMA,Randolph,Randolph,403
+INDIANA,Randolph,Randolph,403
+ILLINOIS,Randolph,Randolph,403
+GEORGIA,Randolph,Randolph,403
+MINNESOTA,Red Lake,Red Lake,12
+MINNESOTA,Renville,Renville,23
+NORTH DAKOTA,Renville,Renville,23
+KANSAS,Republic,Republic,19
+MISSOURI,Reynolds,Reynolds,36
+LOUISIANA,Richland,Richland,380
+WISCONSIN,Richland,Richland,380
+MONTANA,Richland,Richland,380
+OHIO,Richland,Richland,380
+NORTH DAKOTA,Richland,Richland,380
+SOUTH CAROLINA,Richland,Richland,380
+ILLINOIS,Richland,Richland,380
+VIRGINIA,Richmond,Richmond,329
+NORTH CAROLINA,Richmond,Richmond,329
+GEORGIA,Richmond,Richmond,329
+NEW YORK,Richmond,Richmond,329
+IOWA,Ringgold,Ringgold,14
+GEORGIA,Rockdale,Rockdale,11
+NEW YORK,Rockland,Rockland,68
+TEXAS,Rockwall,Rockwall,11
+MARSHALL ISLANDS,Rongelap,,
+COLORADO,Saguache,Saguache,19
+UTAH,San Jaun,,
+NEW MEXICO,San Juan,San Juan,201
+PUERTO RICO,San Juan,San Juan,201
+WASHINGTON,San Juan,San Juan,201
+COLORADO,San Juan,San Juan,201
+UTAH,San Juan,San Juan,201
+TEXAS,San Saba,San Saba,19
+NEW MEXICO,Sandoual,,
+NEW MEXICO,Sandoval,Sandoval,69
+OHIO,Sandusky,Sandusky,42
+ILLINOIS,Sangamon,Sangamon,92
+NEW MEXICO,Santa Fe,Santa Fe,69
+FLORIDA,Sarasota,Sarasota,46
+NEW YORK,Saratoga,Saratoga,129
+NEBRASKA,Saunders,Saunders,21
+ILLINOIS,Schuyler,Schuyler,70
+NEW YORK,Schuyler,Schuyler,70
+MISSOURI,Schuyler,Schuyler,70
+NORTH CAROLINA,Scotland,Scotland,87
+MISSOURI,Scotland,Scotland,87
+KANSAS,Sedgwick,Sedgwick,75
+COLORADO,Sedgwick,Sedgwick,75
+OKLAHOMA,Seminole,Seminole,124
+FLORIDA,Seminole,Seminole,124
+GEORGIA,Seminole,Seminole,124
+OKLAHOMA,Sequoyah,Sequoyah,37
+KANSAS,Sheridan,Sheridan,68
+WYOMING,Sheridan,Sheridan,68
+MONTANA,Sheridan,Sheridan,68
+NORTH DAKOTA,Sheridan,Sheridan,68
+NEBRASKA,Sheridan,Sheridan,68
+IDAHO,Shoshone,Shoshone,65
+CALIFORNIA,Siskiyou,Siskiyou,103
+WASHINGTON,Skamania,Skamania,23
+MARYLAND,Somerset,Somerset,457
+NEW JERSEY,Somerset,Somerset,457
+MAINE,Somerset,Somerset,457
+PENNSYLVANIA,Somerset,Somerset,457
+GEORGIA,Spalding,Spalding,19
+VIRGIN ISLANDS,St. John,St. John,30
+LOUISIANA,St. Mary,St. Mary,84
+KANSAS,Stafford,Stafford,63
+VIRGINIA,Stafford,Stafford,63
+TEXAS,Stephens,Stephens,53
+OKLAHOMA,Stephens,Stephens,53
+GEORGIA,Stephens,Stephens,53
+TEXAS,Sterling,Sterling,2
+MISSOURI,Stoddard,Stoddard,63
+NORTH DAKOTA,Stutsman,Stutsman,32
+WYOMING,Sublette,Sublette,18
+MISSOURI,Sullivan,Sullivan,504
+INDIANA,Sullivan,Sullivan,504
+TENNESSEE,Sullivan,Sullivan,504
+PENNSYLVANIA,Sullivan,Sullivan,504
+NEW YORK,Sullivan,Sullivan,504
+NEW HAMPSHIRE,Sullivan,Sullivan,504
+FLORIDA,Suwannee,Suwannee,27
+GEORGIA,Tattnall,Tattnall,13
+ILLINOIS,Tazewell,Tazewell,155
+VIRGINIA,Tazewell,Tazewell,155
+WASHINGTON,Thurston,Thurston,61
+NEBRASKA,Thurston,Thurston,61
+PUERTO RICO,Toa Alta,Toa Alta,5
+PUERTO RICO,Toa Baja,Toa Baja,13
+NEW YORK,Tompkins,Tompkins,80
+NEW MEXICO,Torrance,Torrance,76
+MINNESOTA,Traverse,Traverse,8
+MONTANA,Treasure,Treasure,4
+GEORGIA,Treutlen,Treutlen,9
+OHIO,Trumbull,Trumbull,118
+CALIFORNIA,Tuolumne,Tuolumne,123
+OREGON,Umatilla,Umatilla,72
+NEW MEXICO,Valencia,Valencia,41
+OHIO,Van Wert,Van Wert,25
+TEXAS,Victoria,Victoria,22
+PUERTO RICO,Villalba,Villalba,8
+MISSISSIPPI,Walthall,Walthall,22
+WISCONSIN,Walworth,Walworth,50
+SOUTH DAKOTA,Walworth,Walworth,50
+WYOMING,Washakie,Washakie,7
+WISCONSIN,Washburn,Washburn,15
+MINNESOTA,Watonwan,Watonwan,12
+WISCONSIN,Waukesha,Waukesha,66
+WISCONSIN,Waushara,Waushara,24
+OREGON,Wheeller,,
+MARYLAND,Wicomico,Wicomico,252
+OHIO,Williams,Williams,89
+NORTH DAKOTA,Williams,Williams,89
+IOWA,Woodbury,Woodbury,26
+KENTUCKY,Woodford,Woodford,46
+ILLINOIS,Woodford,Woodford,46
+ARKANSAS,Woodruff,Woodruff,40
+OKLAHOMA,Woodward,Woodward,14
+SOUTH CAROLINA,Abbeville,Abbeville,41
+PUERTO RICO,Aguadilla,Aguadilla,22
+VIRGINIA,Albemarle,Albemarle,237
+ILLINOIS,Alexander,Alexander,40
+NORTH CAROLINA,Alexander,Alexander,40
+IOWA,Allamakee,Allamakee,26
+NORTH CAROLINA,Alleghany,Alleghany,58
+VIRGINIA,Alleghany,Alleghany,58
+PENNSYLVANIA,Allegheny,Allegheny,425
+SOUTH CAROLINA,Allendale,Allendale,28
+ALASKA,Anchorage,Anchorage,21
+IOWA,Appanoose,Appanoose,30
+COLORADO,Archuleta,Archuleta,18
+VIRGINIA,Arlington,Arlington,73
+PENNSYLVANIA,Armstrong,Armstrong,175
+TEXAS,Armstrong,Armstrong,175
+MAINE,Aroostook,Aroostook,210
+LOUISIANA,Ascension,Ascension,48
+OHIO,Ashtabula,Ashtabula,86
+LOUISIANA,Avoyelles,Avoyelles,54
+MARYLAND,Baltimore,Baltimore,916
+IDAHO,Bear Lake,Bear Lake,32
+MASSACHUSETTS,Berkshire,Berkshire,142
+LOUISIANA,Bienville,Bienville,49
+MINNESOTA,Big Stone,Big Stone,15
+INDIANA,Blackford,Blackford,10
+MISSOURI,Bollinger,Bollinger,42
+SOUTH DAKOTA,Bon Homme,Bon Homme,8
+VIRGINIA,Botetourt,Botetourt,57
+NORTH DAKOTA,Bottineau,Bottineau,26
+NEBRASKA,Box Butte,Box Butte,8
+UTAH,Box Elder,Box Elder,56
+KENTUCKY,Breathitt,Breathitt,64
+SOUTH DAKOTA,Brookings,Brookings,16
+NORTH CAROLINA,Brunswick,Brunswick,164
+VIRGINIA,Brunswick,Brunswick,164
+PUERTO RICO,Cabo Rojo,Cabo Rojo,39
+CALIFORNIA,Calaveras,Calaveras,109
+LOUISIANA,Calcasieu,Calcasieu,63
+VERMONT,Caledonia,Caledonia,62
+PUERTO RICO,Canovanas,,
+LOUISIANA,Catahoula,Catahoula,40
+OHIO,Champaign,Champaign,89
+ILLINOIS,Champaign,Champaign,89
+FLORIDA,Charlotte,Charlotte,70
+VIRGINIA,Charlotte,Charlotte,70
+GEORGIA,Chattooga,Chattooga,26
+MICHIGAN,Cheboygan,Cheboygan,40
+IOWA,Chickasaw,Chickasaw,50
+MISSISSIPPI,Chickasaw,Chickasaw,50
+TEXAS,Childress,Childress,8
+MISSOURI,Christian,Christian,119
+KENTUCKY,Christian,Christian,119
+ILLINOIS,Christian,Christian,119
+NEVADA,Churchill,Churchill,21
+OREGON,Clackamas,Clackamas,155
+TENNESSEE,Claiborne,Claiborne,134
+MISSISSIPPI,Claiborne,Claiborne,134
+LOUISIANA,Claiborne,Claiborne,134
+SOUTH CAROLINA,Clarendon,Clarendon,43
+NORTH CAROLINA,Cleveland,Cleveland,134
+OKLAHOMA,Cleveland,Cleveland,134
+ARKANSAS,Cleveland,Cleveland,134
+SOUTH DAKOTA,Codington,Codington,15
+LOUISIANA,Concordia,Concordia,48
+OHIO,Coshocton,Coshocton,53
+ALABAMA,Covington,Covington,98
+MISSISSIPPI,Covington,Covington,98
+ARKANSAS,Craighead,Craighead,78
+MINNESOTA,Crow Wing,Crow Wing,40
+TEXAS,Culberson,Culberson,12
+NORTH CAROLINA,Currituck,Currituck,35
+CALIFORNIA,Del Norte,Del Norte,23
+OREGON,Deschutes,Deschutes,24
+VIRGINIA,Dickenson,Dickenson,51
+MICHIGAN,Dickinson,Dickinson,71
+KANSAS,Dickinson,Dickinson,71
+IOWA,Dickinson,Dickinson,71
+VIRGINIA,Dinwiddie,Dinwiddie,51
+WEST VIRGINIA,Doddridge,Doddridge,36
+GEORGIA,Dougherty,Dougherty,147
+NORTH CAROLINA,Edgecombe,Edgecombe,79
+SOUTH CAROLINA,Edgefield,Edgefield,29
+GEORGIA,Effingham,Effingham,58
+ILLINOIS,Effingham,Effingham,58
+CALIFORNIA,El Dorado,El Dorado,169
+KANSAS,Ellsworth,Ellsworth,13
+NEVADA,Esmeralda,Esmeralda,28
+CONNECTICUT,Fairfield,Fairfield,254
+OHIO,Fairfield,Fairfield,254
+SOUTH CAROLINA,Fairfield,Fairfield,254
+MINNESOTA,Faribault,Faribault,19
+TEXAS,Fort Bend,Fort Bend,48
+MARYLAND,Frederick,Frederick,769
+VIRGINIA,Frederick,Frederick,769
+TEXAS,Freestone,Freestone,26
+TEXAS,Galveston,Galveston,42
+MISSOURI,Gasconade,Gasconade,34
+FLORIDA,Gilchrist,Gilchrist,19
+TEXAS,Gillespie,Gillespie,19
+TEXAS,Glasscock,Glasscock,5
+VIRGINIA,Goochland,Goochland,116
+NORTH CAROLINA,Granville,Granville,34
+KANSAS,Greenwood,Greenwood,136
+SOUTH CAROLINA,Greenwood,Greenwood,136
+NEW MEXICO,Guadalupe,Guadalupe,54
+TEXAS,Guadalupe,Guadalupe,54
+GEORGIA,Habersham,Habersham,29
+MASSACHUSETTS,Hampshire,Hampshire,144
+WEST VIRGINIA,Hampshire,Hampshire,144
+ARKANSAS,Hempstead,Hempstead,55
+NORTH CAROLINA,Henderson,Henderson,301
+TENNESSEE,Henderson,Henderson,301
+ILLINOIS,Henderson,Henderson,301
+KENTUCKY,Henderson,Henderson,301
+TEXAS,Henderson,Henderson,301
+INDIANA,Hendricks,Hendricks,36
+NORTH DAKOTA,Hettinger,Hettinger,7
+FLORIDA,Highlands,Highlands,29
+MICHIGAN,Hillsdale,Hillsdale,28
+NEBRASKA,Hitchcock,Hitchcock,6
+TENNESSEE,Humphreys,Humphreys,65
+MISSISSIPPI,Humphreys,Humphreys,65
+NEW JERSEY,Hunterdon,Hunterdon,141
+LOUISIANA,Iberville,Iberville,61
+MISSISSIPPI,Issaquena,Issaquena,17
+ILLINOIS,Jefferson,Jefferson,2060
+KANSAS,Jefferson,Jefferson,2060
+OKLAHOMA,Jefferson,Jefferson,2060
+WASHINGTON,Jefferson,Jefferson,2060
+ARKANSAS,Jefferson,Jefferson,2060
+WISCONSIN,Jefferson,Jefferson,2060
+NEW YORK,Jefferson,Jefferson,2060
+FLORIDA,Jefferson,Jefferson,2060
+GEORGIA,Jefferson,Jefferson,2060
+IOWA,Jefferson,Jefferson,2060
+MISSISSIPPI,Jefferson,Jefferson,2060
+NEBRASKA,Jefferson,Jefferson,2060
+OHIO,Jefferson,Jefferson,2060
+MISSOURI,Jefferson,Jefferson,2060
+ALABAMA,Jefferson,Jefferson,2060
+IDAHO,Jefferson,Jefferson,2060
+WEST VIRGINIA,Jefferson,Jefferson,2060
+INDIANA,Jefferson,Jefferson,2060
+TENNESSEE,Jefferson,Jefferson,2060
+MONTANA,Jefferson,Jefferson,2060
+LOUISIANA,Jefferson,Jefferson,2060
+COLORADO,Jefferson,Jefferson,2060
+PENNSYLVANIA,Jefferson,Jefferson,2060
+KENTUCKY,Jefferson,Jefferson,2060
+OREGON,Jefferson,Jefferson,2060
+TEXAS,Jefferson,Jefferson,2060
+KENTUCKY,Jessamine,Jessamine,18
+TEXAS,Jim Wells,Jim Wells,22
+OREGON,Josephine,Josephine,34
+MICHIGAN,Kalamazoo,Kalamazoo,41
+MINNESOTA,Kandiyohi,Kandiyohi,17
+NEBRASKA,Keya Paha,Keya Paha,9
+SOUTH DAKOTA,Kingsbury,Kingsbury,12
+WASHINGTON,Klickitat,Klickitat,50
+INDIANA,Kosciusko,Kosciusko,68
+WISCONSIN,La Crosse,La Crosse,26
+WISCONSIN,Lafayette,Lafayette,173
+ARKANSAS,Lafayette,Lafayette,173
+LOUISIANA,Lafayette,Lafayette,173
+MISSOURI,Lafayette,Lafayette,173
+MISSISSIPPI,Lafayette,Lafayette,173
+FLORIDA,Lafayette,Lafayette,173
+LOUISIANA,Lafourche,Lafourche,63
+VIRGINIA,Lancaster,Lancaster,467
+SOUTH CAROLINA,Lancaster,Lancaster,467
+PENNSYLVANIA,Lancaster,Lancaster,467
+NEBRASKA,Lancaster,Lancaster,467
+SOUTH DAKOTA,Lawerence,,
+SOUTH CAROLINA,Lexington,Lexington,155
+ALABAMA,Limestone,Limestone,169
+TEXAS,Limestone,Limestone,169
+VIRGINIA,Lunenburg,Lunenburg,32
+WISCONSIN,Manitowac,,
+WISCONSIN,Manitowoc,Manitowoc,53
+WISCONSIN,Marinette,Marinette,31
+MICHIGAN,Marquette,Marquette,95
+WISCONSIN,Marquette,Marquette,95
+TEXAS,Matagorda,Matagorda,30
+SOUTH CAROLINA,McCormick,McCormick,23
+KENTUCKY,McCracken,McCracken,39
+TEXAS,McCulloch,McCulloch,29
+OKLAHOMA,McCurtain,McCurtain,56
+ILLINOIS,McDonough,McDonough,22
+NEBRASKA,McPherson,McPherson,30
+SOUTH DAKOTA,McPherson,McPherson,30
+KANSAS,McPherson,McPherson,30
+CALIFORNIA,Mendocino,Mendocino,143
+WISCONSIN,Menominee,Menominee,54
+MICHIGAN,Menominee,Menominee,54
+NEW HAMPSHIRE,Merrimack,Merrimack,117
+NEW JERSEY,Middlesex,Middlesex,557
+CONNECTICUT,Middlesex,Middlesex,557
+MASSACHUSETTS,Middlesex,Middlesex,557
+VIRGINIA,Middlesex,Middlesex,557
+WISCONSIN,Milwaukee,Milwaukee,24
+SOUTH DAKOTA,Minnehaha,Minnehaha,55
+MICHIGAN,Missaukee,Missaukee,21
+COLORADO,Montezuma,Montezuma,16
+LOUISIANA,Morehouse,Morehouse,36
+SOUTH DAKOTA,Mountrail,Mountrail,19
+NORTH DAKOTA,Mountrail,Mountrail,19
+OREGON,Multnomah,Multnomah,99
+IOWA,Muscatine,Muscatine,20
+OHIO,Muskingum,Muskingum,85
+MASSACHUSETTS,Nantucket,Nantucket,28
+PUERTO RICO,Naranjito,Naranjito,2
+CONNECTICUT,New Haven,New Haven,130
+IDAHO,Nez Perce,Nez Perce,40
+ALASKA,Nome (CA),Nome (CA),42
+TEXAS,Ochiltree,Ochiltree,6
+MISSISSIPPI,Oktibbeha,Oktibbeha,90
+MICHIGAN,Ontonagon,Ontonagon,38
+WISCONSIN,Outagamie,Outagamie,31
+IOWA,Palo Alto,Palo Alto,13
+WEST VIRGINIA,Pendleton,Pendleton,61
+KENTUCKY,Pendleton,Pendleton,61
+MAINE,Penobscot,Penobscot,196
+MONTANA,Petroleum,Petroleum,6
+MINNESOTA,Pipestone,Pipestone,13
+OKLAHOMA,Pittsburg,Pittsburg,52
+WEST VIRGINIA,Pleasants,Pleasants,31
+IOWA,Poweshiek,Poweshiek,17
+TEXAS,Red River,Red River,81
+LOUISIANA,Red River,Red River,81
+CALIFORNIA,Riverside,Riverside,227
+KENTUCKY,Robertson,Robertson,90
+TEXAS,Robertson,Robertson,90
+TENNESSEE,Robertson,Robertson,90
+MONTANA,Roosevelt,Roosevelt,54
+KANSAS,Roosevelt,Roosevelt,54
+NEW MEXICO,Roosevelt,Roosevelt,54
+MICHIGAN,Roscommon,Roscommon,19
+MAINE,Sagadahoc,Sagadahoc,45
+UTAH,Salt Lake,Salt Lake,2026
+CALIFORNIA,San Diego,San Diego,227
+CALIFORNIA,San Mateo,San Mateo,102
+NEW YORK,Schoharie,Schoharie,73
+ARKANSAS,Sebastian,Sebastian,54
+WISCONSIN,Sheboygan,Sheboygan,35
+MINNESOTA,Sherburne,Sherburne,11
+WASHINGTON,Snohomish,Snohomish,123
+TEXAS,Somervell,Somervell,6
+MISSOURI,St. Clair,St. Clair,293
+ILLINOIS,St. Clair,St. Clair,293
+ALABAMA,St. Clair,St. Clair,293
+MICHIGAN,St. Clair,St. Clair,293
+VIRGIN ISLANDS,St. Croix,St. Croix,175
+WISCONSIN,St. Croix,St. Croix,175
+LOUISIANA,St. James,St. James,42
+FLORIDA,St. Johns,St. Johns,55
+MINNESOTA,St. Louis,St. Louis,398
+MISSOURI,St. Louis,St. Louis,398
+FLORIDA,St. Lucie,St. Lucie,24
+TEXAS,Stonewall,Stonewall,8
+NEW HAMPSHIRE,Strafford,Strafford,56
+MISSISSIPPI,Sunflower,Sunflower,52
+ALABAMA,Talladega,Talladega,152
+OREGON,Tillamook,Tillamook,53
+TEXAS,Tom Green,Tom Green,21
+TENNESSEE,Trousdale,Trousdale,15
+TEXAS,Val Verde,Val Verde,23
+MICHIGAN,Van Buren,Van Buren,127
+ARKANSAS,Van Buren,Van Buren,127
+IOWA,Van Buren,Van Buren,127
+TENNESSEE,Van Buren,Van Buren,127
+TEXAS,Van Zandt,Van Zandt,37
+PUERTO RICO,Vega Alta,Vega Alta,7
+PUERTO RICO,Vega Baja,Vega Baja,14
+LOUISIANA,Vermilion,Vermilion,119
+ILLINOIS,Vermilion,Vermilion,119
+KANSAS,Wabaunsee,Wabaunsee,16
+WASHINGTON,Wahkiakum,Wahkiakum,17
+MICHIGAN,Washtenaw,Washtenaw,47
+MONTANA,Wheatland,Wheatland,12
+ILLINOIS,Whiteside,Whiteside,44
+GEORGIA,Whitfield,Whitfield,33
+TEXAS,Wilbarger,Wilbarger,15
+MISSISSIPPI,Wilkinson,Wilkinson,39
+GEORGIA,Wilkinson,Wilkinson,39
+IOWA,Winnebago,Winnebago,163
+WISCONSIN,Winnebago,Winnebago,163
+ILLINOIS,Winnebago,Winnebago,163
+MARYLAND,Worcester,Worcester,486
+MASSACHUSETTS,Worcester,Worcester,486
+KANSAS,Wyandotte,Wyandotte,28
+MISSISSIPPI,Yalobusha,Yalobusha,25
+VIRGINIA,Appomattox,Appomattox,17
+LOUISIANA,Assumption,Assumption,62
+MASSACHUSETTS,Barnstable,Barnstable,149
+LOUISIANA,Beauregard,Beauregard,37
+MONTANA,Beaverhead,Beaverhead,35
+VERMONT,Bennington,Bennington,49
+NEW MEXICO,Bernalillo,Bernalillo,70
+IOWA,Black Hawk,Black Hawk,32
+MINNESOTA,Blue Earth,Blue Earth,22
+IDAHO,Bonneville,Bonneville,25
+MONTANA,Broadwater,Broadwater,19
+VIRGINIA,Buckingham,Buckingham,50
+NEW JERSEY,Burlington,Burlington,247
+SOUTH CAROLINA,Charleston,Charleston,312
+MICHIGAN,Charlevoix,Charlevoix,21
+NEW YORK,Chautauqua,Chautauqua,181
+KANSAS,Chautauqua,Chautauqua,181
+VIRGINIA,Chesapeake,,
+VERMONT,Chittenden,Chittenden,57
+PENNSYLVANIA,Clearfield,Clearfield,216
+MINNESOTA,Clearwater,Clearwater,64
+IDAHO,Clearwater,Clearwater,64
+OHIO,Columbiana,Columbiana,82
+MINNESOTA,Cottonwood,Cottonwood,8
+KENTUCKY,Crittenden,Crittenden,96
+ARKANSAS,Crittenden,Crittenden,96
+VIRGINIA,Cumberland,Cumberland,881
+NORTH CAROLINA,Cumberland,Cumberland,881
+NEW JERSEY,Cumberland,Cumberland,881
+PENNSYLVANIA,Cumberland,Cumberland,881
+TENNESSEE,Cumberland,Cumberland,881
+MAINE,Cumberland,Cumberland,881
+KENTUCKY,Cumberland,Cumberland,881
+ILLINOIS,Cumberland,Cumberland,881
+SOUTH CAROLINA,Darlington,Darlington,116
+TEXAS,Deaf Smith,Deaf Smith,8
+MONTANA,Deer Lodge,Deer Lodge,19
+IOWA,Des Moines,Des Moines,25
+ALASKA,Dillingham,,
+SOUTH CAROLINA,Dorchester,Dorchester,262
+MARYLAND,Dorchester,Dorchester,262
+WISCONSIN,Eau Claire,Eau Claire,21
+LOUISIANA,Evangeline,Evangeline,35
+SOUTH DAKOTA,Fall River,Fall River,18
+SOUTH CAROLINA,Georgetown,Georgetown,133
+NEW JERSEY,Gloucester,Gloucester,177
+VIRGINIA,Gloucester,Gloucester,177
+VERMONT,Grand Isle,Grand Isle,13
+WISCONSIN,Green Lake,Green Lake,22
+WEST VIRGINIA,Greenbrier,Greenbrier,117
+SOUTH CAROLINA,Greenville,Greenville,353
+PUERTO RICO,Guayanilla,Guayanilla,19
+OREGON,Hood River,Hood River,19
+ARKANSAS,Hot Spring,Hot Spring,39
+PENNSYLVANIA,Huntingdon,Huntingdon,108
+INDIANA,Huntington,Huntington,25
+TEXAS,Hutchinson,Hutchinson,30
+SOUTH DAKOTA,Hutchinson,Hutchinson,30
+VIRGINIA,James City,James City,37
+PUERTO RICO,Jauna Diaz,,
+GEORGIA,Jeff Davis,Jeff Davis,15
+TEXAS,Jeff Davis,Jeff Davis,15
+ILLINOIS,Jo Daviess,Jo Daviess,31
+PUERTO RICO,Juana Diaz,Juana Diaz,45
+OKLAHOMA,Kingfisher,Kingfisher,17
+COLORADO,Kit Carson,Kit Carson,8
+PENNSYLVANIA,Lackawanna,Lackawanna,110
+COLORADO,Las Animas,Las Animas,52
+PUERTO RICO,Las Marias,Las Marias,17
+TENNESSEE,Lauderdale,Lauderdale,238
+MISSISSIPPI,Lauderdale,Lauderdale,238
+ALABAMA,Lauderdale,Lauderdale,238
+CONNECTICUT,Litchfield,Litchfield,137
+KENTUCKY,Livingston,Livingston,277
+MISSOURI,Livingston,Livingston,277
+MICHIGAN,Livingston,Livingston,277
+LOUISIANA,Livingston,Livingston,277
+ILLINOIS,Livingston,Livingston,277
+NEW YORK,Livingston,Livingston,277
+NEW MEXICO,Los Alamos,Los Alamos,3
+GEORGIA,Meriwether,Meriwether,45
+FLORIDA,Miami-Dade,Miami-Dade,129
+MINNESOTA,Mille Lacs,Mille Lacs,17
+WEST VIRGINIA,Monongalia,Monongalia,117
+KANSAS,Montgomery,Montgomery,2032
+ILLINOIS,Montgomery,Montgomery,2032
+PENNSYLVANIA,Montgomery,Montgomery,2032
+MISSISSIPPI,Montgomery,Montgomery,2032
+TEXAS,Montgomery,Montgomery,2032
+MARYLAND,Montgomery,Montgomery,2032
+ALABAMA,Montgomery,Montgomery,2032
+ARKANSAS,Montgomery,Montgomery,2032
+TENNESSEE,Montgomery,Montgomery,2032
+KENTUCKY,Montgomery,Montgomery,2032
+GEORGIA,Montgomery,Montgomery,2032
+MISSOURI,Montgomery,Montgomery,2032
+OHIO,Montgomery,Montgomery,2032
+NORTH CAROLINA,Montgomery,Montgomery,2032
+VIRGINIA,Montgomery,Montgomery,2032
+NEW YORK,Montgomery,Montgomery,2032
+INDIANA,Montgomery,Montgomery,2032
+IOWA,Montgomery,Montgomery,2032
+KENTUCKY,Muhlenberg,Muhlenberg,49
+DELAWARE,New Castle,New Castle,774
+CONNECTICUT,New London,New London,124
+MISSOURI,New Madrid,New Madrid,56
+GEORGIA,Oglethorpe,Oglethorpe,18
+FLORIDA,Okeechobee,Okeechobee,15
+SOUTH CAROLINA,Orangeburg,Orangeburg,132
+MINNESOTA,Otter Tail,Otter Tail,43
+FLORIDA,Palm Beach,Palm Beach,98
+TEXAS,Palo Pinto,Palo Pinto,20
+NORTH CAROLINA,Pasquotank,Pasquotank,34
+SOUTH DAKOTA,Pennington,Pennington,70
+MINNESOTA,Pennington,Pennington,70
+NORTH CAROLINA,Perquimans,Perquimans,28
+IOWA,Pocahontas,Pocahontas,78
+WEST VIRGINIA,Pocahontas,Pocahontas,78
+RHODE ISLAND,Providence,Providence,124
+OKLAHOMA,Pushmataha,Pushmataha,36
+NEBRASKA,Red Willow,Red Willow,12
+NEW YORK,Rensselaer,Rensselaer,109
+NEBRASKA,Richardson,Richardson,12
+NEW MEXICO,Rio Arriba,Rio Arriba,123
+COLORADO,Rio Blanco,Rio Blanco,7
+PUERTO RICO,Rio Grande,Rio Grande,40
+COLORADO,Rio Grande,Rio Grande,40
+VIRGINIA,Rockbridge,Rockbridge,53
+KENTUCKY,Rockcastle,Rockcastle,34
+VIRGINIA,Rockingham,Rockingham,349
+NEW HAMPSHIRE,Rockingham,Rockingham,349
+NORTH CAROLINA,Rockingham,Rockingham,349
+TENNESSEE,Rutherford,Rutherford,285
+NORTH CAROLINA,Rutherford,Rutherford,285
+CALIFORNIA,Sacramento,Sacramento,92
+VIRGIN ISLANDS,Saint John,,
+LOUISIANA,Saint Mary,,
+CALIFORNIA,San Benito,San Benito,20
+PUERTO RICO,San German,San German,14
+COLORADO,San Miguel,San Miguel,135
+NEW MEXICO,San Miguel,San Miguel,135
+ARIZONA,Santa Cruz,Santa Cruz,80
+CALIFORNIA,Santa Cruz,Santa Cruz,80
+FLORIDA,Santa Rosa,Santa Rosa,45
+TEXAS,Schleicher,Schleicher,3
+PENNSYLVANIA,Schuylkill,Schuylkill,223
+TENNESSEE,Sequatchie,Sequatchie,13
+VIRGINIA,Shenandoah,Shenandoah,58
+MICHIGAN,Shiawassee,Shiawassee,32
+MONTANA,Silver Bow,Silver Bow,41
+LOUISIANA,St. Helena,St. Helena,12
+INDIANA,St. Joseph,St. Joseph,63
+MICHIGAN,St. Joseph,St. Joseph,63
+LOUISIANA,St. Landry,St. Landry,76
+LOUISIANA,St. Martin,St. Martin,40
+MARYLAND,St. Mary's,St. Mary's,229
+VIRGIN ISLANDS,St. Thomas,St. Thomas,41
+CALIFORNIA,Stanislaus,Stanislaus,43
+ILLINOIS,Stephenson,Stephenson,38
+MONTANA,Stillwater,Stillwater,19
+WYOMING,Sweetwater,Sweetwater,40
+GEORGIA,Taliaferro,Taliaferro,9
+ALABAMA,Tallapoosa,Tallapoosa,80
+LOUISIANA,Tangipahoa,Tangipahoa,71
+LOUISIANA,Terrebonne,Terrebonne,61
+INDIANA,Tippecanoe,Tippecanoe,48
+MISSISSIPPI,Tishomingo,Tishomingo,30
+ALABAMA,Tuscaloosa,Tuscaloosa,405
+OHIO,Tuscarawas,Tuscarawas,72
+IDAHO,TwIn Falls,,
+IDAHO,Twin Falls,Twin Falls,41
+INDIANA,Vermillion,Vermillion,36
+ARKANSAS,Washington,Washington,2127
+NORTH CAROLINA,Washington,Washington,2127
+KANSAS,Washington,Washington,2127
+OHIO,Washington,Washington,2127
+TEXAS,Washington,Washington,2127
+IOWA,Washington,Washington,2127
+OREGON,Washington,Washington,2127
+OKLAHOMA,Washington,Washington,2127
+TENNESSEE,Washington,Washington,2127
+VERMONT,Washington,Washington,2127
+COLORADO,Washington,Washington,2127
+VIRGINIA,Washington,Washington,2127
+INDIANA,Washington,Washington,2127
+UTAH,Washington,Washington,2127
+MISSOURI,Washington,Washington,2127
+NEW YORK,Washington,Washington,2127
+DISTRICT OF COLU,Washington,Washington,2127
+MISSISSIPPI,Washington,Washington,2127
+LOUISIANA,Washington,Washington,2127
+GEORGIA,Washington,Washington,2127
+WISCONSIN,Washington,Washington,2127
+MAINE,Washington,Washington,2127
+KENTUCKY,Washington,Washington,2127
+NEBRASKA,Washington,Washington,2127
+ALABAMA,Washington,Washington,2127
+MINNESOTA,Washington,Washington,2127
+RHODE ISLAND,Washington,Washington,2127
+ILLINOIS,Washington,Washington,2127
+MARYLAND,Washington,Washington,2127
+IDAHO,Washington,Washington,2127
+FLORIDA,Washington,Washington,2127
+PENNSYLVANIA,Washington,Washington,2127
+NEVADA,White Pine,White Pine,42
+ILLINOIS,Williamson,Williamson,321
+TENNESSEE,Williamson,Williamson,321
+TEXAS,Williamson,Williamson,321
+IOWA,Winneshiek,Winneshiek,28
+PUERTO RICO,Barceconeta,,
+PUERTO RICO,Barceloneta,Barceloneta,11
+INDIANA,Bartholomew,Bartholomew,46
+ALASKA,Bethel (CA),Bethel (CA),52
+ALASKA,Bristol Bay,Bristol Bay,6
+IOWA,Buena Vista,Buena Vista,16
+NEVADA,Carson City,,
+NEW YORK,Cattaraugus,Cattaraugus,116
+IOWA,Cerro Gordo,Cerro Gordo,25
+SOUTH DAKOTA,Charles Mix,Charles Mix,13
+COLORADO,Clear Creek,Clear Creek,20
+PUERTO RICO,De Penuelas,,
+WISCONSIN,Fond du Lac,Fond du Lac,65
+NORTH DAKOTA,Grand Forks,Grand Forks,26
+VIRGINIA,Greensville,Greensville,41
+PUERTO RICO,Hormigueros,Hormigueros,7
+WYOMING,Hot Springs,Hot Springs,10
+VIRGINIA,King George,King George,49
+MINNESOTA,Koochiching,Koochiching,42
+PUERTO RICO,Las Piedras,Las Piedras,6
+KANSAS,Leavenworth,Leavenworth,33
+CALIFORNIA,Los Angeles,Los Angeles,497
+NORTH CAROLINA,Mecklenburg,Mecklenburg,385
+VIRGINIA,Mecklenburg,Mecklenburg,385
+MISSOURI,Mississippi,Mississippi,150
+ARKANSAS,Mississippi,Mississippi,150
+MICHIGAN,Montmorency,Montmorency,13
+MONTANA,Musselshell,Musselshell,14
+TEXAS,Nacogdoches,Nacogdoches,47
+TEXAS,Nacoydoches,,
+NORTH CAROLINA,New Hanover,New Hanover,77
+ALASKA,North Slope,North Slope,15
+PENNSYLVANIA,Northampton,Northampton,315
+VIRGINIA,Northampton,Northampton,315
+NORTH CAROLINA,Northampton,Northampton,315
+MISSISSIPPI,Pearl River,Pearl River,34
+MAINE,Piscataquis,Piscataquis,87
+LOUISIANA,Plaquemines,Plaquemines,87
+MARYLAND,Queen Annes,,
+ILLINOIS,Rock Island,Rock Island,31
+OKLAHOMA,Roger Mills,Roger Mills,17
+AMERICAN SAMOA,Rose Island,,
+ALABAMA,Saint Clair,,
+MISSOURI,Saint Clair,,
+MICHIGAN,Saint Clair,,
+ILLINOIS,Saint Clair,,
+WISCONSIN,Saint Croix,,
+VIRGIN ISLANDS,Saint Croix,,
+LOUISIANA,Saint James,,
+FLORIDA,Saint Johns,,
+MISSOURI,Saint Louis,,
+MINNESOTA,Saint Louis,,
+FLORIDA,Saint Lucie,,
+MARYLAND,Saint Marys,,
+TEXAS,San Jacinto,San Jacinto,26
+CALIFORNIA,San Joaquin,San Joaquin,92
+PUERTO RICO,San Lorenzo,San Lorenzo,5
+CALIFORNIA,Santa Clara,Santa Clara,110
+NEW YORK,Schenectady,Schenectady,50
+MICHIGAN,Schoolcraft,Schoolcraft,26
+TEXAS,Shackelford,Shackelford,6
+VIRGINIA,Southampton,Southampton,54
+SOUTH CAROLINA,Spartanburg,Spartanburg,287
+LOUISIANA,St. Bernard,St. Bernard,44
+MISSOURI,St. Charles,St. Charles,92
+LOUISIANA,St. Charles,St. Charles,92
+ARKANSAS,St. Francis,St. Francis,71
+LOUISIANA,St. Tammany,St. Tammany,166
+PENNSYLVANIA,Susquehanna,Susquehanna,99
+MONTANA,Sweet Grass,Sweet Grass,9
+INDIANA,Switzerland,Switzerland,23
+WISCONSIN,Trempealeau,Trempealeau,31
+INDIANA,Vanderburgh,Vanderburgh,33
+WAKE ISLAND,Wake Island,,
+WASHINGTON,Walla Walla,Walla Walla,78
+NEW YORK,Westchester,Westchester,196
+MONTANA,Yellowstone,Yellowstone,31
+PUERTO RICO,Aguas Buenas,Aguas Buenas,3
+MAINE,Androscoggin,Androscoggin,81
+MARYLAND,Anne Arundel,Anne Arundel,1048
+BAKER ISLAND,Baker Island,,
+PUERTO RICO,Barranquitas,Barranquitas,6
+KENTUCKY,Breckinridge,Breckinridge,64
+VIRGINIA,Charles City,Charles City,28
+SOUTH CAROLINA,Chesterfield,Chesterfield,203
+VIRGINIA,Chesterfield,Chesterfield,203
+CALIFORNIA,Contra Costa,Contra Costa,108
+LOUISIANA,East Carroll,East Carroll,22
+VIRGINIA,Galax (city),Galax (city),2
+WASHINGTON,Grays Harbor,Grays Harbor,86
+NEW HAMPSHIRE,Hillsborough,Hillsborough,187
+FLORIDA,Hillsborough,Hillsborough,187
+ARKANSAS,Independence,Independence,72
+FLORIDA,Indian River,Indian River,19
+MONTANA,Judith Basin,Judith Basin,26
+VIRGINIA,King William,King William,40
+KINGMAN REEF,Kingman Reef,,
+ARKANSAS,Little River,Little River,35
+LOUISIANA,Natchitoches,Natchitoches,77
+PENNSYLVANIA,Northhampton,,
+WASHINGTON,Pend Oreille,Pend Oreille,26
+PENNSYLVANIA,Philadelphia,Philadelphia,158
+VIRGINIA,Pittsylvania,Pittsylvania,124
+KANSAS,Pottawatomie,Pottawatomie,58
+OKLAHOMA,Pottawatomie,Pottawatomie,58
+MONTANA,Powder River,Powder River,17
+MICHIGAN,Presque Isle,Presque Isle,33
+PUERTO RICO,Quebradillas,Quebradillas,2
+MARYLAND,Queen Anne's,Queen Anne's,193
+VIRGINIA,Rappahannock,Rappahannock,34
+LOUISIANA,Saint Helena,,
+MICHIGAN,Saint Joseph,,
+INDIANA,Saint Joseph,,
+LOUISIANA,Saint Landry,,
+LOUISIANA,Saint Martin,,
+VIRGIN ISLANDS,Saint Thomas,,
+VIRGINIA,Salem (city),Salem (city),84
+TEXAS,San Patricio,San Patricio,35
+PUERTO RICO,Santa Isabel,Santa Isabel,22
+NEBRASKA,Scotts Bluff,Scotts Bluff,40
+VIRGINIA,Spotsylvania,Spotsylvania,66
+MISSOURI,St. Francois,St. Francois,54
+NEW YORK,St. Lawrence,St. Lawrence,181
+MISSISSIPPI,Tallahatchie,Tallahatchie,34
+TEXAS,Throckmorton,Throckmorton,14
+NORTH CAROLINA,Transylvania,Transylvania,94
+UNKNOWN,Undetermined,Undetermined,159
+ALASKA,Undetermined,Undetermined,159
+PALAU,Undetermined,Undetermined,159
+MH,Undetermined,Undetermined,159
+ALASKA,Wade Hampton,,
+LOUISIANA,West Carroll,West Carroll,19
+VIRGINIA,Westmoreland,Westmoreland,384
+PENNSYLVANIA,Westmoreland,Westmoreland,384
+SOUTH CAROLINA,Williamsburg,Williamsburg,70
+GEORGIA,Chattahoochee,Chattahoochee,12
+TEXAS,Collingsworth,Collingsworth,9
+PUERTO RICO,De Rio Grande,,
+NORTH DAKOTA,Golden Valley,Golden Valley,18
+MONTANA,Golden Valley,Golden Valley,18
+VIRGINIA,Isle of Wight,Isle of Wight,45
+JARVIS ISLAND,Jarvis Island,,
+JOHNSTON ATOLL,Johnson Atoll,,
+ALASKA,Kodiak Island,Kodiak Island,16
+MINNESOTA,Lac Qui Parle,,
+MINNESOTA,Lac qui Parle,Lac qui Parle,12
+VIRGINIA,Norton (city),Norton (city),3
+PALMYRA ATOLL,Palmyra Atoll,,
+LOUISIANA,Pointe Coupee,Pointe Coupee,78
+PUERTO RICO,Ponce, Jayuya,,
+IOWA,Pottawattamie,Pottawattamie,29
+VIRGINIA,Prince Edward,Prince Edward,20
+VIRGINIA,Prince George,Prince George,49
+PUERTO RICO,Sabana Grande,Sabana Grande,8
+LOUISIANA,Saint Bernard,,
+LOUISIANA,Saint Charles,,
+MISSOURI,Saint Charles,,
+ARKANSAS,Saint Francis,,
+LOUISIANA,Saint Tammany,,
+TEXAS,San Augustine,San Augustine,27
+CALIFORNIA,San Francisco,San Francisco,48
+PUERTO RICO,San Sabastian,,
+PUERTO RICO,San Sebastian,San Sebastian,9
+CALIFORNIA,Santa Barbara,Santa Barbara,78
+AMERICAN SAMOA,Swains Island,Swains Island,3
+PUERTO RICO,Trujillo Alto,Trujillo Alto,6
+ALASKA,Yukon-Koyukuk,,
+ALASKA,Aleutians East,Aleutians East,13
+ALASKA,Aleutians West,,
+VIRGINIA,Bedford (city),Bedford (city),1
+VIRGINIA,Bristol (city),Bristol (city),17
+MISSOURI,Cape Girardeau,Cape Girardeau,53
+LOUISIANA,East Feliciana,East Feliciana,27
+VIRGINIA,Emporia (city),Emporia (city),4
+VIRGINIA,Fairfax (city),Fairfax (city),15
+VIRGINIA,Fredericksburg,,
+MICHIGAN,Grand Traverse,Grand Traverse,27
+VIRGINIA,Hampton (city),Hampton (city),46
+HOWLAND ISLAND,Howland Island,,
+JOHNSTON ATOLL,Johnston Atoll,,
+VIRGINIA,King and Queen,King and Queen,53
+MIDWAY ISLAND,Midway Islands,,
+MIDWAY ISLANDS,Midway Islands,,
+NAVASSA ISLAND,Navassa Island,,
+VIRGINIA,Norfolk (city),Norfolk (city),100
+PENNSYLVANIA,Northumberland,Northumberland,194
+VIRGINIA,Northumberland,Northumberland,194
+MARYLAND,Prince Georges,,
+VIRGINIA,Prince William,Prince William,225
+VIRGINIA,Radford (city),Radford (city),18
+VIRGINIA,Roanoke (city),Roanoke (city),182
+MISSOURI,Saint Francois,,
+NEW YORK,Saint Lawrence,,
+CALIFORNIA,San Bernardino,San Bernardino,349
+MISSOURI,Ste. Genevieve,Ste. Genevieve,35
+VIRGINIA,Suffolk (city),Suffolk (city),166
+ALASKA,Valdez-Cordova,,
+VIRGINIA,Virginia Beach,,
+LOUISIANA,West Feliciana,West Feliciana,33
+VIRGINIA,Danville (city),Danville (city),42
+ALASKA,Dillingham (CA),Dillingham (CA),16
+VIRGINIA,Franklin (city),Franklin (city),1
+VIRGINIA,Hopewell (city),Hopewell (city),6
+MISSISSIPPI,Jefferson Davis,Jefferson Davis,42
+LOUISIANA,Jefferson Davis,Jefferson Davis,42
+ALASKA,Kenai Peninsula,Kenai Peninsula,41
+MONTANA,Lewis and Clark,Lewis and Clark,52
+VIRGINIA,Manassas (city),Manassas (city),2
+NORTHERN MARIANA,Northern Island,,
+VIRGINIA,Poquoson (city),Poquoson (city),11
+MARYLAND,Prince George's,Prince George's,408
+VIRGINIA,Richmond (city),Richmond (city),13
+CALIFORNIA,San Luis Obispo,San Luis Obispo,74
+VIRGINIA,Staunton (city),Staunton (city),9
+MINNESOTA,Yellow Medicine,Yellow Medicine,13
+ALASKA,Aleutian Islands,,
+MARYLAND,Baltimore (city),Baltimore (city),115
+CANADA-U.S.,British Columbia,,
+VIRGINIA,Covington (city),Covington (city),7
+LOUISIANA,East Baton Rouge,East Baton Rouge,513
+VIRGINIA,Independent City,,
+NEVADA,Independent City,,
+MISSOURI,Independent City,,
+MARYLAND,Independent City,,
+ALASKA,Kenai Penninsula,,
+VIRGINIA,Lexington (city),Lexington (city),3
+VIRGINIA,Lynchburg (city),Lynchburg (city),42
+NORTHERN MARIANA ISLANDS,Northern Islands,Northern Islands,2
+NORTHERN MARIANA,Northern Islands,Northern Islands,2
+ALASKA,Northwest Arctic,Northwest Arctic,21
+MISSOURI,Saint Louis City,,
+MISSOURI,Sainte Genevieve,,
+MISSOURI,St. Louis (city),St. Louis (city),19
+LOUISIANA,West Baton Rouge,West Baton Rouge,43
+VIRGINIA,Alexandria (city),Alexandria (city),35
+VIRGINIA,Chesapeake (city),Chesapeake (city),84
+ALASKA,Ketchikan Gateway,Ketchikan Gateway,9
+MINNESOTA,Lake of the Woods,Lake of the Woods,16
+ALASKA,Matanuska-Susitna,Matanuska-Susitna,24
+VIRGINIA,Petersburg (city),Petersburg (city),29
+VIRGINIA,Portsmouth (city),Portsmouth (city),71
+ALASKA,Wade Hampton (CA),Wade Hampton (CA),37
+VIRGINIA,Waynesboro (city),Waynesboro (city),2
+VIRGINIA,Winchester (city),Winchester (city),2
+VIRGINIA,Buena Vista (city),Buena Vista (city),3
+NEVADA,Carson City (city),Carson City (city),8
+ALASKA,Lake and Peninsula,Lake and Peninsula,16
+ALASKA,Wrangel-Petersburg,,
+ALASKA,Yukon-Koyukuk (CA),Yukon-Koyukuk (CA),72
+ALASKA,Aleutians West (CA),Aleutians West (CA),14
+VIRGINIA,Falls Church (city),Falls Church (city),6
+VIRGINIA,Harrisonburg (city),Harrisonburg (city),3
+VIRGINIA,Martinsville (city),Martinsville (city),3
+VIRGINIA,Newport News (city),Newport News (city),42
+ALASKA,Southeast Fairbanks,,
+ALASKA,Valdez-Cordova (CA),Valdez-Cordova (CA),37
+VIRGINIA,Williamsburg (city),Williamsburg (city),6
+VIRGINIA,Clifton Forge (city),Clifton Forge (city),1
+DISTRICT OF COLUMBIA,District of Columbia,District of Columbia,151
+ALASKA,Fairbanks North Star,Fairbanks North Star,24
+VIRGINIA,Manassas Park (city),Manassas Park (city),1
+LOUISIANA,St. John the Baptist,St. John the Baptist,29
+VIRGINIA,Fredericksburg (city),Fredericksburg (city),6
+VIRGINIA,Virginia Beach (city),Virginia Beach (city),142
+VIRGINIA,Charlottesville (city),Charlottesville (city),12
+LOUISIANA,Saint John The Baptist,,
+LOUISIANA,Saint John the Baptist,,
+ALASKA,Skagway-Yakutat-Angoon,,
+VIRGINIA,Colonial Heights (city),Colonial Heights (city),5
+ALASKA,Southeast Fairbanks (CA),Southeast Fairbanks (CA),13
+ALASKA,Wrangell-Petersburg (CA),Wrangell-Petersburg (CA),5
+ALASKA,Skagway-Hoonah-Angoon (CA),Skagway-Hoonah-Angoon (CA),13
+ALASKA,Prince of Wales-Outer Ketchikan,,
+ALASKA,Prince of Wales-Outer Ketchikan (CA),Prince of Wales-Outer Ketchikan (CA),19
