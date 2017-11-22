@@ -61,7 +61,7 @@ count_pop_state=
 
 count_pop_stream_state = 
   JOIN count_pop_state BY county LEFT,
-            count stream BY county;
+            count_stream BY county;
 
 count_pop_stream_state_ordered = 
    ORDER count_pop_stream_state
