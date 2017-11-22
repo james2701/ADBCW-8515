@@ -18,7 +18,7 @@ feature_state_norecord =
 
 feature_state_data_bag = 
    FOREACH feature_state_norecord
-   GENERATE feature_state_name;
+   GENERATE feature_state_name AS state_name;
 
 feature_state_data = 
    DISTINCT feature_state_data_bag;
