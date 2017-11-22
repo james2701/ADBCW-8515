@@ -20,8 +20,11 @@ fearue_county =
    FOREACH feature
    GENERATE UPPER(state_name) AS state_name, county;
 
-all_county = 
+all_county_bag = 
    UNION state_county_pop_name, fearue_county;
+
+all_county = 
+   DISTINCT all_county_bag;
 
 populated_data = 
    FOREACH populated_place
@@ -52,8 +55,16 @@ count_stream =
    FOREACH group_stream
    GENERATE group AS county, COUNT(stream_feature.county) AS no_stream;
 
-pop_stream = 
-   JOIN count_pop BY county,
-        count_stream BY county;
+count_pop_state= 
+   JOIN all_county BY county LEFT,
+            count_pop BY county;
 
-STORE all_county INTO 'q3' USING PigStorage(',');
+count_pop_stream_state = 
+  JOIN count_pop_state BY county LEFT,
+            count stream BY county;
+
+count_pop_stream_state_ordered = 
+   ORDER count_pop_stream_state
+   BY state_name, county;
+
+STORE count_pop_stream_state_ordered INTO 'q3' USING PigStorage(',');
