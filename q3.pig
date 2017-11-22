@@ -4,6 +4,11 @@ state_data =
    FOREACH state
    GENERATE code, name;
 
+populated_county =
+   FOREACH populated_place
+   GENERATE county, state_code;
+
+
 populated_data = 
    FOREACH populated_place
    GENERATE county;
