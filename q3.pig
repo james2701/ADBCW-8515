@@ -22,7 +22,7 @@ count_pop =
 
 stream_feature = 
    FILTER feature_data
-   BY type = 'stream';
+   BY type == 'stream';
 
 group_stream = 
    GROUP stream_feature
