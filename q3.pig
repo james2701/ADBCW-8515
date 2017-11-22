@@ -14,7 +14,14 @@ state_county_pop =
 
 state_county_pop_name = 
    FOREACH state_county_pop
-   GENERATE state_data::name, county;
+   GENERATE state_data::name AS state_name, county;
+
+fearue_county = 
+   FOREACH feature
+   GENERATE UPPER(state_name) AS state_name, county;
+
+all_county = 
+   UNION state_county_pop_name, fearue_county;
 
 populated_data = 
    FOREACH populated_place
@@ -49,4 +56,4 @@ pop_stream =
    JOIN count_pop BY county,
         count_stream BY county;
 
-STORE pop_stream INTO 'q3' USING PigStorage(',');
+STORE all_county INTO 'q3' USING PigStorage(',');
