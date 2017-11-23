@@ -16,7 +16,7 @@ top_five =
    FOREACH populated_data_group {
 	ordered = ORDER populated_data_group BY population DESC;
 	top = LIMIT ordered 5;
-	GENERATE FLATTEN(top);
+	GENERATE group AS state_code, FLATTEN(top);
 };
 
 STORE top_five INTO 'q4' USING PigStorage(',');
