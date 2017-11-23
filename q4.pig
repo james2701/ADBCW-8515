@@ -6,7 +6,7 @@ state_data =
 
 populated_data = 
    FOREACH populated_place
-   GENERATE name, state_code, population
+   GENERATE name, state_code, population;
 
 populated_data_group = 
    GROUP populated_data
