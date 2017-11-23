@@ -31,4 +31,4 @@ result_ordered =
    ORDER result_unordered
    BY state_name, population DESC, name;
 
-STORE result_opt INTO 'q4' USING PigStorage(',');
+STORE result_ordered INTO 'q4' USING PigStorage(',');
