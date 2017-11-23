@@ -10,7 +10,7 @@ feature_data_filtered =
 
 group_feature = 
    GROUP feature_data_filtered
-   BY (state_name, county);
+   BY county;
 
 count_feature = 
    FOREACH group_feature {
@@ -18,13 +18,13 @@ count_feature =
 	   FILTER feature_data_filtered BY type == 'ppl';
 	str = 
 	   FILTER feature_data_filtered BY type == 'stream';
-	GENERATE group AS (state_name, county),
+	GENERATE state_name, group AS county,
 		COUNT(ppl) AS no_ppl,
 		COUNT(str) AS no_stream;
    }
 
 count_feature_ordered = 
    ORDER count_feature
-   BY state_name, feature;
+   BY state_name, county;
 
 STORE count_feature_ordered INTO 'q3' USING PigStorage(',');
