@@ -17,4 +17,4 @@ count_pop_stream_state_reduce_ordered =
    ORDER count_pop 
    BY county;
 
-STORE count_pop_stream_state_reduce_ordered INTO 'q3' USING PigStorage(',');
+STORE count_pop_stream_state_reduce_ordered INTO 'q5' USING PigStorage(',');
