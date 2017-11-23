@@ -7,7 +7,7 @@ feature_data =
 
 group_feature = 
    GROUP feature_data
-   BY county;
+   BY (county, state_name);
 
 count_feature = 
    FOREACH group_feature {
@@ -15,7 +15,7 @@ count_feature =
 	   FILTER feature_data BY type == 'ppl';
 	str = 
 	   FILTER feature_data BY type == 'stream';
-	GENERATE group.state_name AS state_name, group AS county,
+	GENERATE group.state_name AS state_name, group.county AS county,
 		COUNT(ppl) AS no_ppl,
 		COUNT(str) AS no_stream;
    }
