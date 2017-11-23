@@ -12,16 +12,16 @@ group_feature =
 count_feature = 
    FOREACH group_feature {
 	ppl =
-	   FILTER feature_data_filtered BY type == 'ppl';
+	   FILTER feature_data BY type == 'ppl';
 	str = 
-	   FILTER feature_data_filtered BY type == 'stream';
+	   FILTER feature_data BY type == 'stream';
 	GENERATE group.state_name AS state_name, group AS county,
 		COUNT(ppl) AS no_ppl,
 		COUNT(str) AS no_stream;
    }
 
 count_feature_filtered = 
-   FILTER feature_data
+   FILTER count_feature
    BY county IS NOT NULL;
 
 count_feature_ordered = 
