@@ -10,6 +10,6 @@ feature_data_filtered =
 
 feature_seperate = 
    FOREACH feature_data_filtered
-   GENERATE type == 'ppl' AS ty, type == 'stream' AS st, county, state_name;
+   GENERATE (type=='ppl'?1:0) AS ty, (type=='stream'?1:0) AS st, county, state_name;
 
 STORE feature_seperate INTO 'q3' USING PigStorage(',');
