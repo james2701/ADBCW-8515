@@ -24,11 +24,11 @@ top_five =
 };
 
 result = 
-   JOIN state_data_ordered BY code;
+   JOIN state_data_ordered BY code,
             top_five BY state_code;
 
 result_opt = 
    FOREACH result
-   GENERATE state_data_ordered::name AS state_name, top_five::name AS name, population AS population
+   GENERATE state_data_ordered::name AS state_name, top_five::name AS name, population AS population;
 
 STORE result_opt INTO 'q4' USING PigStorage(',');
