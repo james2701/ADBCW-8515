@@ -1,9 +1,5 @@
 RUN /vol/automed/data/usgs/load_tables.pig
 
-state_data =
-   FOREACH state
-   GENERATE code, name;
-
 populated_data = 
    FOREACH populated_place
    GENERATE name, state_code, population;
@@ -14,7 +10,7 @@ populated_data_group =
 
 top_five = 
    FOREACH populated_data_group {
-	ordered = ORDER populated_data_group BY population DESC;
+	ordered = ORDER populated_data BY population DESC;
 	top = LIMIT ordered 5;
 	GENERATE group AS state_code, FLATTEN(top);
 };
