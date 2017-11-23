@@ -29,6 +29,6 @@ result =
 
 result_opt = 
    FOREACH result
-   GENERATE state_data_ordered::name AS state_name, populated_data::name AS name, population AS population;
+   GENERATE state_data_ordered::name AS state_name, top::name AS name, population AS population;
 
 STORE result_opt INTO 'q4' USING PigStorage(',');
