@@ -19,7 +19,7 @@ count_feature =
 	str = 
 	   FILTER feature_data_filtered BY type == 'stream';
 	GENERATE group AS (state_name, county),
-		COUNT(ppl) AS no_ppl;
+		COUNT(ppl) AS no_ppl,
 		COUNT(str) AS no_stream;
    }
 
