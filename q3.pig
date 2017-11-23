@@ -10,7 +10,7 @@ feature_data_filtered =
 
 group_feature = 
    GROUP feature_data_filtered
-   BY (state_name, county)£»
+   BY (state_name, county);
 
 count_feature = 
    FOREACH group_feature {
