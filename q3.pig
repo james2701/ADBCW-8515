@@ -22,7 +22,7 @@ count_feature =
 
 count_feature_filtered = 
    FILTER count_feature
-   BY county =! 'null';
+   BY county != 'null';
 
 count_feature_ordered = 
    ORDER count_feature_filtered
