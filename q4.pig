@@ -24,7 +24,7 @@ top_five =
 };
 
 result = 
-   JOIN state_data_ordered BY code,
+   JOIN state_data_ordered BY code LEFT,
             top_five BY state_code;
 
 result_opt = 
