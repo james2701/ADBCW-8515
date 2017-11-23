@@ -7,6 +7,6 @@ populated_data =
 
 populated_data_filter = 
    FILTER populated_data
-   BY county = 'Autauga';
+   BY county == 'Autauga';
 
 STORE populated_data_filter INTO 'q5' USING PigStorage(',');
