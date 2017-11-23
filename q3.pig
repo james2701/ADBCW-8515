@@ -18,7 +18,7 @@ count_feature =
 	   FILTER feature_data_filtered BY type == 'ppl';
 	str = 
 	   FILTER feature_data_filtered BY type == 'stream';
-	GENERATE group.state_name AS state_name, group AS county,
+	GENERATE group::state_name AS state_name, group AS county,
 		COUNT(ppl) AS no_ppl,
 		COUNT(str) AS no_stream;
    }
