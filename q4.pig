@@ -23,9 +23,13 @@ result =
    JOIN state_data BY code,
             top_five BY state_code;
 
-result_unordered = 
+result_unfiltered = 
    FOREACH result
    GENERATE state_data::name AS state_name, top::name AS name, population AS population;
+
+result_unordered =
+   FILTER result_unfiltered
+   BY population IS NOT NULL;
 
 result_ordered = 
    ORDER result_unordered
