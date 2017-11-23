@@ -22,10 +22,14 @@ state_group =
 
 state_result = 
    FOREACH state_group
-   GENERATE group AS state_name, SUM(state_populated_name.population) AS population, ROUND(AVG(state_populated_name.elevation)) AS elevation;
+   GENERATE group AS state_name, SUM(state_populated_name.population) AS population, AVG(state_populated_name.elevation) AS elevation;
+
+state_result_round = 
+   FOREACH state_result
+   GENERATE state_name, population, ROUND(elevation);
 
 state_result_ordered =
-   ORDER state_result
+   ORDER state_result_round 
    BY    state_name;
 
 STORE state_result_ordered INTO 'q2' USING PigStorage(',');
