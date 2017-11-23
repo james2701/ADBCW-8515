@@ -11,7 +11,7 @@ group_pop =
 
 count_pop = 
    FOREACH group_pop
-   GENERATE group AS county, COUNT(populated_data.name) AS no_ppl;
+   GENERATE group AS county, COUNT(populated_county.name) AS no_ppl;
 
 count_pop_stream_state_reduce_ordered = 
    ORDER count_pop 
