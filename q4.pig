@@ -4,10 +4,6 @@ state_data =
    FOREACH state
    GENERATE name, code;
 
-state_data_ordered = 
-   ORDER state_data
-   BY name;
-
 populated_data = 
    FOREACH populated_place
    GENERATE name, state_code, population;
@@ -24,11 +20,15 @@ top_five =
 };
 
 result = 
-   JOIN state_data_ordered BY code,
+   JOIN state_data BY code,
             top_five BY state_code;
 
-result_opt = 
+result_unordered = 
    FOREACH result
-   GENERATE state_data_ordered::name AS state_name, top::name AS name, population AS population;
+   GENERATE state_data::name AS state_name, top::name AS name, population AS population;
+
+result_ordered = 
+   ORDER result_unordered
+   BY state_name, population DESC, name;
 
 STORE result_opt INTO 'q4' USING PigStorage(',');
